@@ -1,0 +1,11 @@
+# SQL Analysis
+
+This folder contains PostgreSQL queries used for E-commerce Sales Analysis.
+
+Topics covered:
+- Data exploration
+- Revenue and profit analysis
+- Monthly revenue growth
+- Product performance
+- Customer analysis
+- Order and return analysis
