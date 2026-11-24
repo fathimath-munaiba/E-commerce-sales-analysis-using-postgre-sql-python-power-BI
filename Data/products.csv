@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_price_aed,unit_cost_aed
+P0001,Smart Watch 1,Electronics,1020.0,611.49
+P0002,Wireless Earbuds 2,Electronics,935.0,507.34
+P0003,Power Bank 3,Electronics,1100.0,391.28
+P0004,Bluetooth Speaker 4,Electronics,124.0,75.41
+P0005,Tablet 5,Electronics,70.0,42.58
+P0006,Smart Watch 6,Electronics,670.0,270.49
+P0007,Wireless Earbuds 7,Electronics,136.0,88.85
+P0008,Power Bank 8,Electronics,503.0,204.53
+P0009,Bluetooth Speaker 9,Electronics,846.0,478.54
+P0010,Tablet 10,Electronics,97.0,52.98
+P0011,Smart Watch 11,Electronics,557.0,361.57
+P0012,Wireless Earbuds 12,Electronics,1143.0,682.73
+P0013,Power Bank 13,Electronics,223.0,113.4
+P0014,Bluetooth Speaker 14,Electronics,47.0,30.35
+P0015,Tablet 15,Electronics,408.0,272.34
+P0016,Smart Watch 16,Electronics,534.0,301.88
+P0017,Wireless Earbuds 17,Electronics,154.0,79.78
+P0018,Power Bank 18,Electronics,153.0,88.67
+P0019,Bluetooth Speaker 19,Electronics,1132.0,524.95
+P0020,Tablet 20,Electronics,101.0,59.25
+P0021,Air Fryer 1,Home & Kitchen,315.0,146.46
+P0022,Coffee Maker 2,Home & Kitchen,209.0,120.73
+P0023,Blender 3,Home & Kitchen,279.0,145.39
+P0024,Vacuum Cleaner 4,Home & Kitchen,936.0,623.15
+P0025,Cookware Set 5,Home & Kitchen,637.0,322.47
+P0026,Air Fryer 6,Home & Kitchen,1112.0,448.01
+P0027,Coffee Maker 7,Home & Kitchen,1115.0,479.71
+P0028,Blender 8,Home & Kitchen,933.0,586.05
+P0029,Vacuum Cleaner 9,Home & Kitchen,368.0,176.66
+P0030,Cookware Set 10,Home & Kitchen,714.0,381.0
+P0031,Air Fryer 11,Home & Kitchen,669.0,438.3
+P0032,Coffee Maker 12,Home & Kitchen,651.0,273.9
+P0033,Blender 13,Home & Kitchen,278.0,100.18
+P0034,Vacuum Cleaner 14,Home & Kitchen,1115.0,673.28
+P0035,Cookware Set 15,Home & Kitchen,706.0,338.91
+P0036,Air Fryer 16,Home & Kitchen,1105.0,413.39
+P0037,Coffee Maker 17,Home & Kitchen,1104.0,693.47
+P0038,Blender 18,Home & Kitchen,970.0,447.14
+P0039,Vacuum Cleaner 19,Home & Kitchen,1136.0,701.05
+P0040,Cookware Set 20,Home & Kitchen,634.0,262.08
+P0041,Sneakers 1,Fashion,820.0,403.53
+P0042,Backpack 2,Fashion,764.0,311.37
+P0043,Watch 3,Fashion,873.0,399.09
+P0044,Sunglasses 4,Fashion,1001.0,659.02
+P0045,Wallet 5,Fashion,568.0,295.24
+P0046,Sneakers 6,Fashion,693.0,339.36
+P0047,Backpack 7,Fashion,485.0,300.67
+P0048,Watch 8,Fashion,495.0,283.92
+P0049,Sunglasses 9,Fashion,510.0,249.37
+P0050,Wallet 10,Fashion,934.0,407.48
+P0051,Sneakers 11,Fashion,892.0,540.82
+P0052,Backpack 12,Fashion,127.0,61.85
+P0053,Watch 13,Fashion,503.0,253.96
+P0054,Sunglasses 14,Fashion,623.0,306.69
+P0055,Wallet 15,Fashion,324.0,178.49
+P0056,Sneakers 16,Fashion,828.0,555.4
+P0057,Backpack 17,Fashion,777.0,419.01
+P0058,Watch 18,Fashion,188.0,69.72
+P0059,Sunglasses 19,Fashion,245.0,135.58
+P0060,Wallet 20,Fashion,974.0,478.59
+P0061,Skin Care Set 1,Beauty,472.0,236.07
+P0062,Hair Dryer 2,Beauty,967.0,411.14
+P0063,Perfume 3,Beauty,382.0,142.63
+P0064,Makeup Kit 4,Beauty,580.0,374.85
+P0065,Face Cleanser 5,Beauty,285.0,171.26
+P0066,Skin Care Set 6,Beauty,883.0,563.87
+P0067,Hair Dryer 7,Beauty,460.0,226.56
+P0068,Perfume 8,Beauty,955.0,371.64
+P0069,Makeup Kit 9,Beauty,608.0,400.21
+P0070,Face Cleanser 10,Beauty,463.0,307.06
+P0071,Skin Care Set 11,Beauty,1171.0,488.85
+P0072,Hair Dryer 12,Beauty,927.0,383.93
+P0073,Perfume 13,Beauty,242.0,96.03
+P0074,Makeup Kit 14,Beauty,1058.0,574.25
+P0075,Face Cleanser 15,Beauty,78.0,35.07
+P0076,Skin Care Set 16,Beauty,469.0,268.99
+P0077,Hair Dryer 17,Beauty,580.0,351.84
+P0078,Perfume 18,Beauty,1152.0,588.02
+P0079,Makeup Kit 19,Beauty,846.0,549.5
+P0080,Face Cleanser 20,Beauty,542.0,293.1
+P0081,Yoga Mat 1,Sports,1184.0,681.2
+P0082,Dumbbell Set 2,Sports,608.0,260.38
+P0083,Running Shoes 3,Sports,881.0,556.96
+P0084,Fitness Tracker 4,Sports,99.0,54.49
+P0085,Water Bottle 5,Sports,754.0,338.06
+P0086,Yoga Mat 6,Sports,218.0,147.52
+P0087,Dumbbell Set 7,Sports,308.0,172.45
+P0088,Running Shoes 8,Sports,770.0,287.84
+P0089,Fitness Tracker 9,Sports,814.0,524.72
+P0090,Water Bottle 10,Sports,1163.0,617.28
+P0091,Yoga Mat 11,Sports,1084.0,629.11
+P0092,Dumbbell Set 12,Sports,388.0,242.51
+P0093,Running Shoes 13,Sports,1054.0,708.74
+P0094,Fitness Tracker 14,Sports,948.0,531.03
+P0095,Water Bottle 15,Sports,246.0,126.52
+P0096,Yoga Mat 16,Sports,402.0,248.99
+P0097,Dumbbell Set 17,Sports,408.0,173.96
+P0098,Running Shoes 18,Sports,336.0,197.97
+P0099,Fitness Tracker 19,Sports,411.0,254.6
+P0100,Water Bottle 20,Sports,547.0,217.39

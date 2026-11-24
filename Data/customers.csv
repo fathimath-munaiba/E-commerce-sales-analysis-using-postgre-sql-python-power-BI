@@ -1,0 +1,3001 @@
+customer_id,customer_name,city,signup_date,customer_segment,acquisition_channel
+C000001,Customer 0001,Ajman,2024-06-23,New,Social Media
+C000002,Customer 0002,Abu Dhabi,2025-04-25,Regular,Referral
+C000003,Customer 0003,Ras Al Khaimah,2024-07-23,Regular,Email
+C000004,Customer 0004,Sharjah,2024-05-17,New,Referral
+C000005,Customer 0005,Dubai,2023-11-14,Regular,Social Media
+C000006,Customer 0006,Al Ain,2022-12-24,New,Social Media
+C000007,Customer 0007,Ajman,2023-02-14,Regular,Social Media
+C000008,Customer 0008,Ajman,2024-12-24,Regular,Social Media
+C000009,Customer 0009,Dubai,2022-04-12,Premium,Organic
+C000010,Customer 0010,Abu Dhabi,2022-05-04,New,Social Media
+C000011,Customer 0011,Abu Dhabi,2023-08-03,New,Social Media
+C000012,Customer 0012,Al Ain,2025-02-04,New,Paid Search
+C000013,Customer 0013,Sharjah,2024-08-17,Regular,Referral
+C000014,Customer 0014,Ras Al Khaimah,2024-05-11,New,Social Media
+C000015,Customer 0015,Abu Dhabi,2024-02-19,Regular,Paid Search
+C000016,Customer 0016,Dubai,2022-06-11,New,Organic
+C000017,Customer 0017,Sharjah,2023-04-30,New,Organic
+C000018,Customer 0018,Dubai,2022-04-27,Regular,Paid Search
+C000019,Customer 0019,Ras Al Khaimah,2025-01-11,Regular,Paid Search
+C000020,Customer 0020,Sharjah,2025-01-01,Premium,Organic
+C000021,Customer 0021,Ajman,2023-01-12,Regular,Organic
+C000022,Customer 0022,Abu Dhabi,2023-03-04,Regular,Organic
+C000023,Customer 0023,Al Ain,2023-04-09,Regular,Referral
+C000024,Customer 0024,Fujairah,2025-07-22,Regular,Referral
+C000025,Customer 0025,Ajman,2023-12-15,New,Paid Search
+C000026,Customer 0026,Dubai,2025-01-17,Regular,Organic
+C000027,Customer 0027,Abu Dhabi,2023-10-18,Regular,Organic
+C000028,Customer 0028,Dubai,2024-10-16,New,Organic
+C000029,Customer 0029,Dubai,2024-02-11,Regular,Paid Search
+C000030,Customer 0030,Sharjah,2023-02-11,Regular,Organic
+C000031,Customer 0031,Ajman,2025-07-03,Regular,Paid Search
+C000032,Customer 0032,Al Ain,2024-11-01,New,Email
+C000033,Customer 0033,Dubai,2025-01-28,Regular,Paid Search
+C000034,Customer 0034,Abu Dhabi,2025-10-16,Premium,Referral
+C000035,Customer 0035,Abu Dhabi,2022-12-30,New,Organic
+C000036,Customer 0036,Dubai,2022-05-14,New,Organic
+C000037,Customer 0037,Dubai,2024-04-30,New,Email
+C000038,Customer 0038,Abu Dhabi,2023-04-22,New,Paid Search
+C000039,Customer 0039,Dubai,2023-09-29,Premium,Social Media
+C000040,Customer 0040,Sharjah,2022-12-09,Regular,Email
+C000041,Customer 0041,Abu Dhabi,2023-08-05,New,Social Media
+C000042,Customer 0042,Ras Al Khaimah,2023-07-29,New,Paid Search
+C000043,Customer 0043,Sharjah,2023-05-27,Premium,Social Media
+C000044,Customer 0044,Dubai,2024-12-19,New,Organic
+C000045,Customer 0045,Ras Al Khaimah,2024-05-15,Regular,Organic
+C000046,Customer 0046,Ajman,2023-11-24,New,Organic
+C000047,Customer 0047,Abu Dhabi,2022-06-14,New,Email
+C000048,Customer 0048,Dubai,2024-04-13,Regular,Social Media
+C000049,Customer 0049,Sharjah,2022-09-13,New,Paid Search
+C000050,Customer 0050,Dubai,2023-04-04,Regular,Organic
+C000051,Customer 0051,Dubai,2023-08-29,New,Social Media
+C000052,Customer 0052,Dubai,2022-07-26,Regular,Email
+C000053,Customer 0053,Ajman,2023-07-23,Regular,Paid Search
+C000054,Customer 0054,Sharjah,2023-01-25,Regular,Paid Search
+C000055,Customer 0055,Sharjah,2025-05-25,New,Referral
+C000056,Customer 0056,Ajman,2025-06-09,Regular,Email
+C000057,Customer 0057,Abu Dhabi,2022-01-07,Premium,Email
+C000058,Customer 0058,Sharjah,2024-05-29,New,Paid Search
+C000059,Customer 0059,Dubai,2024-07-24,New,Organic
+C000060,Customer 0060,Dubai,2023-07-06,Regular,Paid Search
+C000061,Customer 0061,Sharjah,2023-11-16,New,Paid Search
+C000062,Customer 0062,Abu Dhabi,2025-02-27,Regular,Email
+C000063,Customer 0063,Sharjah,2023-07-06,Regular,Organic
+C000064,Customer 0064,Ajman,2022-04-05,New,Social Media
+C000065,Customer 0065,Sharjah,2023-06-28,Regular,Email
+C000066,Customer 0066,Sharjah,2023-01-06,Regular,Email
+C000067,Customer 0067,Sharjah,2023-07-13,New,Social Media
+C000068,Customer 0068,Dubai,2022-12-02,Premium,Email
+C000069,Customer 0069,Dubai,2022-08-07,New,Organic
+C000070,Customer 0070,Abu Dhabi,2025-12-09,New,Paid Search
+C000071,Customer 0071,Dubai,2022-07-08,Regular,Organic
+C000072,Customer 0072,Abu Dhabi,2024-10-27,New,Email
+C000073,Customer 0073,Ras Al Khaimah,2024-11-13,Regular,Email
+C000074,Customer 0074,Dubai,2024-06-20,New,Organic
+C000075,Customer 0075,Dubai,2025-08-23,Regular,Organic
+C000076,Customer 0076,Dubai,2022-01-08,New,Paid Search
+C000077,Customer 0077,Dubai,2023-03-17,Regular,Organic
+C000078,Customer 0078,Sharjah,2022-09-27,Regular,Referral
+C000079,Customer 0079,Sharjah,2024-04-22,Regular,Organic
+C000080,Customer 0080,Ajman,2024-07-16,Premium,Referral
+C000081,Customer 0081,Sharjah,2025-08-03,Regular,Social Media
+C000082,Customer 0082,Abu Dhabi,2023-07-09,Regular,Paid Search
+C000083,Customer 0083,Ajman,2022-12-11,Regular,Organic
+C000084,Customer 0084,Dubai,2025-09-11,Premium,Email
+C000085,Customer 0085,Dubai,2024-09-09,Regular,Social Media
+C000086,Customer 0086,Dubai,2025-01-21,Premium,Paid Search
+C000087,Customer 0087,Ajman,2023-10-12,New,Paid Search
+C000088,Customer 0088,Abu Dhabi,2023-10-16,Regular,Email
+C000089,Customer 0089,Dubai,2023-07-23,Regular,Referral
+C000090,Customer 0090,Abu Dhabi,2024-12-30,New,Referral
+C000091,Customer 0091,Dubai,2022-11-04,New,Social Media
+C000092,Customer 0092,Sharjah,2025-11-25,Premium,Email
+C000093,Customer 0093,Abu Dhabi,2022-09-14,Regular,Paid Search
+C000094,Customer 0094,Abu Dhabi,2023-11-05,New,Social Media
+C000095,Customer 0095,Dubai,2023-04-05,New,Paid Search
+C000096,Customer 0096,Sharjah,2024-07-27,Regular,Social Media
+C000097,Customer 0097,Abu Dhabi,2024-09-20,Regular,Email
+C000098,Customer 0098,Dubai,2025-09-03,Premium,Email
+C000099,Customer 0099,Dubai,2025-02-26,Premium,Paid Search
+C000100,Customer 0100,Al Ain,2022-12-30,Regular,Social Media
+C000101,Customer 0101,Fujairah,2022-10-29,Regular,Email
+C000102,Customer 0102,Sharjah,2025-07-18,New,Email
+C000103,Customer 0103,Dubai,2023-12-14,Premium,Referral
+C000104,Customer 0104,Al Ain,2022-05-23,New,Organic
+C000105,Customer 0105,Ajman,2025-04-19,New,Paid Search
+C000106,Customer 0106,Sharjah,2024-08-04,Premium,Email
+C000107,Customer 0107,Abu Dhabi,2022-02-07,Premium,Referral
+C000108,Customer 0108,Dubai,2025-02-16,New,Referral
+C000109,Customer 0109,Dubai,2024-06-05,Regular,Social Media
+C000110,Customer 0110,Fujairah,2024-06-16,Regular,Paid Search
+C000111,Customer 0111,Abu Dhabi,2025-06-16,New,Paid Search
+C000112,Customer 0112,Dubai,2023-12-25,New,Referral
+C000113,Customer 0113,Dubai,2023-11-05,New,Paid Search
+C000114,Customer 0114,Sharjah,2024-06-20,Regular,Social Media
+C000115,Customer 0115,Dubai,2022-10-16,Regular,Social Media
+C000116,Customer 0116,Ras Al Khaimah,2022-08-10,Regular,Referral
+C000117,Customer 0117,Ajman,2025-05-16,New,Paid Search
+C000118,Customer 0118,Sharjah,2022-11-11,Premium,Referral
+C000119,Customer 0119,Abu Dhabi,2024-01-07,Regular,Organic
+C000120,Customer 0120,Sharjah,2023-01-30,Premium,Organic
+C000121,Customer 0121,Sharjah,2022-12-03,New,Paid Search
+C000122,Customer 0122,Sharjah,2024-05-22,Regular,Organic
+C000123,Customer 0123,Dubai,2025-03-17,Regular,Email
+C000124,Customer 0124,Abu Dhabi,2023-10-08,New,Email
+C000125,Customer 0125,Dubai,2022-07-22,New,Organic
+C000126,Customer 0126,Abu Dhabi,2022-12-23,New,Referral
+C000127,Customer 0127,Dubai,2022-08-29,New,Paid Search
+C000128,Customer 0128,Dubai,2025-07-12,Regular,Social Media
+C000129,Customer 0129,Dubai,2023-04-12,New,Email
+C000130,Customer 0130,Sharjah,2023-06-30,New,Social Media
+C000131,Customer 0131,Dubai,2022-04-14,Regular,Organic
+C000132,Customer 0132,Al Ain,2023-10-14,New,Organic
+C000133,Customer 0133,Sharjah,2025-08-27,New,Paid Search
+C000134,Customer 0134,Abu Dhabi,2023-08-22,Regular,Email
+C000135,Customer 0135,Sharjah,2024-08-08,New,Social Media
+C000136,Customer 0136,Dubai,2022-09-23,New,Paid Search
+C000137,Customer 0137,Al Ain,2022-07-28,New,Organic
+C000138,Customer 0138,Abu Dhabi,2024-12-04,New,Email
+C000139,Customer 0139,Ajman,2022-04-06,Regular,Paid Search
+C000140,Customer 0140,Dubai,2023-10-17,New,Social Media
+C000141,Customer 0141,Abu Dhabi,2023-04-08,New,Social Media
+C000142,Customer 0142,Abu Dhabi,2022-01-24,Premium,Organic
+C000143,Customer 0143,Al Ain,2024-02-15,Premium,Organic
+C000144,Customer 0144,Sharjah,2025-11-08,New,Paid Search
+C000145,Customer 0145,Abu Dhabi,2022-04-11,New,Paid Search
+C000146,Customer 0146,Dubai,2025-04-06,Regular,Social Media
+C000147,Customer 0147,Dubai,2024-02-27,Regular,Referral
+C000148,Customer 0148,Abu Dhabi,2024-11-22,Regular,Organic
+C000149,Customer 0149,Abu Dhabi,2022-05-21,New,Paid Search
+C000150,Customer 0150,Dubai,2025-06-22,New,Organic
+C000151,Customer 0151,Ras Al Khaimah,2022-01-17,Regular,Organic
+C000152,Customer 0152,Fujairah,2025-08-16,Premium,Referral
+C000153,Customer 0153,Dubai,2024-08-18,Premium,Referral
+C000154,Customer 0154,Sharjah,2023-05-08,New,Referral
+C000155,Customer 0155,Dubai,2022-01-11,Regular,Organic
+C000156,Customer 0156,Sharjah,2024-06-10,New,Social Media
+C000157,Customer 0157,Dubai,2022-05-08,Regular,Paid Search
+C000158,Customer 0158,Sharjah,2024-06-07,Premium,Email
+C000159,Customer 0159,Ajman,2025-02-02,Regular,Social Media
+C000160,Customer 0160,Ajman,2023-01-26,New,Email
+C000161,Customer 0161,Dubai,2022-12-15,Regular,Organic
+C000162,Customer 0162,Fujairah,2022-11-21,Regular,Paid Search
+C000163,Customer 0163,Dubai,2022-11-25,Regular,Referral
+C000164,Customer 0164,Dubai,2022-06-16,New,Paid Search
+C000165,Customer 0165,Sharjah,2022-12-31,Premium,Social Media
+C000166,Customer 0166,Abu Dhabi,2024-08-20,New,Paid Search
+C000167,Customer 0167,Ras Al Khaimah,2023-03-18,New,Email
+C000168,Customer 0168,Ajman,2025-02-14,New,Organic
+C000169,Customer 0169,Dubai,2025-04-11,New,Email
+C000170,Customer 0170,Al Ain,2025-01-15,New,Paid Search
+C000171,Customer 0171,Dubai,2024-02-27,Regular,Paid Search
+C000172,Customer 0172,Abu Dhabi,2023-04-07,New,Paid Search
+C000173,Customer 0173,Dubai,2025-09-19,New,Organic
+C000174,Customer 0174,Al Ain,2022-10-27,New,Email
+C000175,Customer 0175,Dubai,2023-11-10,New,Email
+C000176,Customer 0176,Dubai,2023-10-25,Premium,Email
+C000177,Customer 0177,Abu Dhabi,2024-12-24,Premium,Email
+C000178,Customer 0178,Al Ain,2024-03-09,New,Social Media
+C000179,Customer 0179,Fujairah,2025-03-13,Regular,Paid Search
+C000180,Customer 0180,Ajman,2025-09-03,Regular,Referral
+C000181,Customer 0181,Fujairah,2023-07-25,Premium,Organic
+C000182,Customer 0182,Fujairah,2025-07-01,New,Referral
+C000183,Customer 0183,Abu Dhabi,2022-09-05,New,Paid Search
+C000184,Customer 0184,Dubai,2025-08-30,Regular,Social Media
+C000185,Customer 0185,Ajman,2022-09-17,Premium,Paid Search
+C000186,Customer 0186,Sharjah,2025-05-26,Regular,Paid Search
+C000187,Customer 0187,Abu Dhabi,2023-07-24,Regular,Organic
+C000188,Customer 0188,Dubai,2025-11-09,New,Paid Search
+C000189,Customer 0189,Ajman,2022-07-08,Regular,Paid Search
+C000190,Customer 0190,Dubai,2023-11-11,Premium,Organic
+C000191,Customer 0191,Al Ain,2025-08-09,Regular,Organic
+C000192,Customer 0192,Dubai,2022-03-11,Regular,Social Media
+C000193,Customer 0193,Dubai,2023-01-22,Regular,Paid Search
+C000194,Customer 0194,Ras Al Khaimah,2022-05-03,Regular,Referral
+C000195,Customer 0195,Dubai,2023-04-15,Regular,Organic
+C000196,Customer 0196,Dubai,2023-07-24,Regular,Social Media
+C000197,Customer 0197,Sharjah,2024-06-22,Premium,Organic
+C000198,Customer 0198,Ras Al Khaimah,2023-01-12,Regular,Paid Search
+C000199,Customer 0199,Dubai,2022-08-20,New,Social Media
+C000200,Customer 0200,Dubai,2022-09-06,New,Social Media
+C000201,Customer 0201,Ajman,2025-10-02,New,Paid Search
+C000202,Customer 0202,Al Ain,2025-10-23,New,Paid Search
+C000203,Customer 0203,Abu Dhabi,2022-11-20,New,Organic
+C000204,Customer 0204,Dubai,2022-10-13,Regular,Paid Search
+C000205,Customer 0205,Dubai,2022-03-21,New,Paid Search
+C000206,Customer 0206,Dubai,2025-11-01,New,Social Media
+C000207,Customer 0207,Dubai,2024-10-27,Regular,Paid Search
+C000208,Customer 0208,Sharjah,2025-01-15,New,Referral
+C000209,Customer 0209,Dubai,2023-03-01,Regular,Paid Search
+C000210,Customer 0210,Abu Dhabi,2024-07-24,Premium,Organic
+C000211,Customer 0211,Sharjah,2022-03-29,Regular,Organic
+C000212,Customer 0212,Sharjah,2024-09-13,New,Organic
+C000213,Customer 0213,Dubai,2024-04-26,New,Social Media
+C000214,Customer 0214,Ajman,2023-04-29,Regular,Referral
+C000215,Customer 0215,Sharjah,2024-11-03,Regular,Referral
+C000216,Customer 0216,Ajman,2024-08-01,New,Paid Search
+C000217,Customer 0217,Dubai,2023-10-03,Regular,Organic
+C000218,Customer 0218,Dubai,2022-09-30,Regular,Referral
+C000219,Customer 0219,Al Ain,2022-02-04,New,Organic
+C000220,Customer 0220,Abu Dhabi,2025-10-01,Regular,Paid Search
+C000221,Customer 0221,Dubai,2023-02-15,New,Referral
+C000222,Customer 0222,Abu Dhabi,2023-03-17,New,Paid Search
+C000223,Customer 0223,Sharjah,2024-09-21,Regular,Organic
+C000224,Customer 0224,Al Ain,2023-01-08,New,Organic
+C000225,Customer 0225,Dubai,2023-07-03,Regular,Social Media
+C000226,Customer 0226,Al Ain,2024-11-04,Regular,Organic
+C000227,Customer 0227,Dubai,2024-05-19,New,Social Media
+C000228,Customer 0228,Sharjah,2024-08-16,Premium,Paid Search
+C000229,Customer 0229,Sharjah,2022-01-07,New,Paid Search
+C000230,Customer 0230,Dubai,2023-10-21,New,Organic
+C000231,Customer 0231,Dubai,2023-11-25,Premium,Referral
+C000232,Customer 0232,Abu Dhabi,2024-07-12,Regular,Paid Search
+C000233,Customer 0233,Al Ain,2022-08-10,Regular,Referral
+C000234,Customer 0234,Sharjah,2022-08-21,New,Paid Search
+C000235,Customer 0235,Al Ain,2025-01-18,New,Organic
+C000236,Customer 0236,Ajman,2024-09-10,Regular,Paid Search
+C000237,Customer 0237,Abu Dhabi,2025-03-30,New,Paid Search
+C000238,Customer 0238,Ajman,2023-01-31,New,Paid Search
+C000239,Customer 0239,Dubai,2025-12-27,Regular,Referral
+C000240,Customer 0240,Dubai,2023-02-03,New,Email
+C000241,Customer 0241,Ras Al Khaimah,2024-08-08,New,Referral
+C000242,Customer 0242,Ajman,2022-08-25,New,Social Media
+C000243,Customer 0243,Dubai,2025-09-03,Regular,Social Media
+C000244,Customer 0244,Abu Dhabi,2023-05-01,Regular,Social Media
+C000245,Customer 0245,Sharjah,2025-03-17,Premium,Paid Search
+C000246,Customer 0246,Ras Al Khaimah,2023-04-29,New,Referral
+C000247,Customer 0247,Sharjah,2025-02-28,New,Referral
+C000248,Customer 0248,Abu Dhabi,2023-10-26,Regular,Organic
+C000249,Customer 0249,Abu Dhabi,2022-04-02,New,Email
+C000250,Customer 0250,Abu Dhabi,2022-10-06,Regular,Referral
+C000251,Customer 0251,Sharjah,2024-09-24,Premium,Paid Search
+C000252,Customer 0252,Ras Al Khaimah,2022-10-09,Regular,Email
+C000253,Customer 0253,Abu Dhabi,2023-02-06,Regular,Organic
+C000254,Customer 0254,Dubai,2024-03-01,Premium,Organic
+C000255,Customer 0255,Dubai,2023-01-05,New,Paid Search
+C000256,Customer 0256,Ajman,2022-07-08,Premium,Social Media
+C000257,Customer 0257,Ajman,2024-06-30,Regular,Paid Search
+C000258,Customer 0258,Dubai,2024-10-02,Regular,Email
+C000259,Customer 0259,Dubai,2024-12-06,Premium,Organic
+C000260,Customer 0260,Sharjah,2025-10-10,Regular,Paid Search
+C000261,Customer 0261,Dubai,2022-07-01,Regular,Social Media
+C000262,Customer 0262,Ras Al Khaimah,2023-09-16,New,Organic
+C000263,Customer 0263,Dubai,2022-12-08,Regular,Social Media
+C000264,Customer 0264,Dubai,2025-08-08,Regular,Paid Search
+C000265,Customer 0265,Al Ain,2024-02-28,New,Email
+C000266,Customer 0266,Dubai,2022-05-24,Regular,Social Media
+C000267,Customer 0267,Dubai,2024-10-07,Regular,Organic
+C000268,Customer 0268,Dubai,2022-03-04,Regular,Organic
+C000269,Customer 0269,Dubai,2023-02-05,New,Organic
+C000270,Customer 0270,Dubai,2024-11-19,Regular,Email
+C000271,Customer 0271,Dubai,2024-01-09,New,Social Media
+C000272,Customer 0272,Dubai,2025-01-16,New,Paid Search
+C000273,Customer 0273,Dubai,2024-04-13,Regular,Organic
+C000274,Customer 0274,Sharjah,2025-05-15,New,Referral
+C000275,Customer 0275,Sharjah,2024-04-01,New,Organic
+C000276,Customer 0276,Abu Dhabi,2022-03-24,Regular,Social Media
+C000277,Customer 0277,Dubai,2022-04-15,New,Referral
+C000278,Customer 0278,Abu Dhabi,2025-02-08,Premium,Paid Search
+C000279,Customer 0279,Ras Al Khaimah,2022-02-26,Premium,Paid Search
+C000280,Customer 0280,Ras Al Khaimah,2023-07-04,Regular,Organic
+C000281,Customer 0281,Dubai,2022-01-24,Premium,Paid Search
+C000282,Customer 0282,Dubai,2023-03-19,Premium,Email
+C000283,Customer 0283,Dubai,2024-05-18,New,Social Media
+C000284,Customer 0284,Dubai,2022-09-10,Regular,Referral
+C000285,Customer 0285,Sharjah,2023-11-12,New,Social Media
+C000286,Customer 0286,Abu Dhabi,2025-12-25,Regular,Organic
+C000287,Customer 0287,Dubai,2022-04-13,Regular,Social Media
+C000288,Customer 0288,Abu Dhabi,2022-04-03,New,Paid Search
+C000289,Customer 0289,Abu Dhabi,2023-02-01,New,Organic
+C000290,Customer 0290,Dubai,2025-04-22,Premium,Paid Search
+C000291,Customer 0291,Ras Al Khaimah,2023-08-16,New,Social Media
+C000292,Customer 0292,Dubai,2024-07-22,New,Referral
+C000293,Customer 0293,Al Ain,2022-02-19,New,Organic
+C000294,Customer 0294,Dubai,2024-12-09,Regular,Referral
+C000295,Customer 0295,Ras Al Khaimah,2022-04-09,Regular,Paid Search
+C000296,Customer 0296,Fujairah,2024-11-05,Regular,Organic
+C000297,Customer 0297,Al Ain,2022-08-04,Regular,Organic
+C000298,Customer 0298,Ajman,2025-06-07,New,Referral
+C000299,Customer 0299,Ajman,2023-03-09,New,Paid Search
+C000300,Customer 0300,Sharjah,2022-09-26,Regular,Paid Search
+C000301,Customer 0301,Ajman,2023-05-07,Regular,Organic
+C000302,Customer 0302,Dubai,2022-01-02,Regular,Social Media
+C000303,Customer 0303,Abu Dhabi,2022-08-30,Regular,Referral
+C000304,Customer 0304,Abu Dhabi,2024-05-23,Regular,Paid Search
+C000305,Customer 0305,Ras Al Khaimah,2023-03-16,Regular,Email
+C000306,Customer 0306,Abu Dhabi,2023-06-01,Regular,Organic
+C000307,Customer 0307,Abu Dhabi,2025-03-24,Regular,Organic
+C000308,Customer 0308,Sharjah,2022-06-30,Regular,Social Media
+C000309,Customer 0309,Dubai,2023-08-02,Regular,Social Media
+C000310,Customer 0310,Dubai,2022-09-29,Premium,Organic
+C000311,Customer 0311,Abu Dhabi,2023-12-06,Regular,Social Media
+C000312,Customer 0312,Abu Dhabi,2023-04-30,New,Paid Search
+C000313,Customer 0313,Dubai,2022-03-09,New,Social Media
+C000314,Customer 0314,Abu Dhabi,2022-04-13,Regular,Social Media
+C000315,Customer 0315,Abu Dhabi,2025-05-29,Regular,Email
+C000316,Customer 0316,Dubai,2022-03-25,Regular,Paid Search
+C000317,Customer 0317,Abu Dhabi,2025-02-16,Regular,Social Media
+C000318,Customer 0318,Sharjah,2025-08-30,New,Social Media
+C000319,Customer 0319,Dubai,2023-11-12,Regular,Paid Search
+C000320,Customer 0320,Al Ain,2023-04-01,Regular,Organic
+C000321,Customer 0321,Fujairah,2025-02-07,Regular,Email
+C000322,Customer 0322,Abu Dhabi,2025-12-05,Regular,Organic
+C000323,Customer 0323,Dubai,2022-06-25,New,Referral
+C000324,Customer 0324,Abu Dhabi,2025-11-08,Regular,Organic
+C000325,Customer 0325,Ras Al Khaimah,2025-10-09,Regular,Referral
+C000326,Customer 0326,Sharjah,2022-07-28,Premium,Organic
+C000327,Customer 0327,Ajman,2022-03-21,Regular,Email
+C000328,Customer 0328,Abu Dhabi,2024-11-09,New,Social Media
+C000329,Customer 0329,Sharjah,2022-04-24,Regular,Organic
+C000330,Customer 0330,Dubai,2024-05-27,Regular,Social Media
+C000331,Customer 0331,Ajman,2022-04-05,New,Social Media
+C000332,Customer 0332,Dubai,2024-10-05,Regular,Paid Search
+C000333,Customer 0333,Sharjah,2022-12-05,New,Organic
+C000334,Customer 0334,Ras Al Khaimah,2022-05-21,New,Social Media
+C000335,Customer 0335,Dubai,2022-04-08,New,Referral
+C000336,Customer 0336,Sharjah,2022-10-03,New,Paid Search
+C000337,Customer 0337,Dubai,2024-02-29,Premium,Referral
+C000338,Customer 0338,Ajman,2022-04-22,Regular,Organic
+C000339,Customer 0339,Dubai,2025-03-17,New,Organic
+C000340,Customer 0340,Al Ain,2024-06-01,Regular,Social Media
+C000341,Customer 0341,Dubai,2023-03-11,Regular,Organic
+C000342,Customer 0342,Al Ain,2025-12-11,New,Organic
+C000343,Customer 0343,Ajman,2024-08-19,New,Paid Search
+C000344,Customer 0344,Sharjah,2024-09-08,Regular,Paid Search
+C000345,Customer 0345,Ajman,2022-09-11,New,Organic
+C000346,Customer 0346,Ajman,2024-11-03,Regular,Social Media
+C000347,Customer 0347,Al Ain,2024-03-27,New,Social Media
+C000348,Customer 0348,Dubai,2025-12-08,Regular,Referral
+C000349,Customer 0349,Sharjah,2023-11-29,Regular,Social Media
+C000350,Customer 0350,Dubai,2024-09-16,New,Paid Search
+C000351,Customer 0351,Sharjah,2023-05-14,New,Organic
+C000352,Customer 0352,Dubai,2022-02-28,Premium,Referral
+C000353,Customer 0353,Sharjah,2022-07-06,Regular,Organic
+C000354,Customer 0354,Sharjah,2025-06-19,Regular,Organic
+C000355,Customer 0355,Abu Dhabi,2024-12-13,New,Referral
+C000356,Customer 0356,Abu Dhabi,2023-06-17,New,Referral
+C000357,Customer 0357,Ajman,2024-10-15,Regular,Social Media
+C000358,Customer 0358,Ajman,2022-01-07,Premium,Organic
+C000359,Customer 0359,Abu Dhabi,2022-02-24,New,Organic
+C000360,Customer 0360,Sharjah,2024-01-11,Regular,Paid Search
+C000361,Customer 0361,Al Ain,2024-07-01,Regular,Referral
+C000362,Customer 0362,Dubai,2025-09-30,New,Paid Search
+C000363,Customer 0363,Dubai,2025-01-14,New,Organic
+C000364,Customer 0364,Dubai,2023-01-11,New,Organic
+C000365,Customer 0365,Sharjah,2025-04-05,Regular,Social Media
+C000366,Customer 0366,Abu Dhabi,2023-12-19,Regular,Social Media
+C000367,Customer 0367,Ajman,2025-04-21,Regular,Organic
+C000368,Customer 0368,Sharjah,2022-09-11,New,Organic
+C000369,Customer 0369,Dubai,2022-02-08,Regular,Organic
+C000370,Customer 0370,Fujairah,2022-03-26,Regular,Organic
+C000371,Customer 0371,Ajman,2025-12-17,Regular,Social Media
+C000372,Customer 0372,Dubai,2022-04-28,Regular,Organic
+C000373,Customer 0373,Abu Dhabi,2025-10-03,New,Social Media
+C000374,Customer 0374,Dubai,2024-11-27,Regular,Referral
+C000375,Customer 0375,Dubai,2022-08-02,Regular,Email
+C000376,Customer 0376,Dubai,2025-06-15,New,Email
+C000377,Customer 0377,Al Ain,2022-07-30,New,Organic
+C000378,Customer 0378,Abu Dhabi,2022-07-29,Regular,Organic
+C000379,Customer 0379,Abu Dhabi,2024-04-20,Regular,Paid Search
+C000380,Customer 0380,Ajman,2023-02-25,New,Social Media
+C000381,Customer 0381,Sharjah,2023-03-01,Premium,Organic
+C000382,Customer 0382,Al Ain,2022-10-12,Regular,Paid Search
+C000383,Customer 0383,Ajman,2024-06-06,New,Paid Search
+C000384,Customer 0384,Abu Dhabi,2022-02-09,Regular,Organic
+C000385,Customer 0385,Abu Dhabi,2022-12-24,Regular,Social Media
+C000386,Customer 0386,Al Ain,2024-03-19,Premium,Social Media
+C000387,Customer 0387,Sharjah,2023-12-12,New,Social Media
+C000388,Customer 0388,Al Ain,2024-10-18,New,Email
+C000389,Customer 0389,Dubai,2022-11-12,Regular,Organic
+C000390,Customer 0390,Ras Al Khaimah,2024-08-03,New,Organic
+C000391,Customer 0391,Sharjah,2025-01-14,Regular,Paid Search
+C000392,Customer 0392,Dubai,2023-07-21,Regular,Social Media
+C000393,Customer 0393,Sharjah,2023-01-10,New,Social Media
+C000394,Customer 0394,Sharjah,2024-03-21,Regular,Organic
+C000395,Customer 0395,Dubai,2024-04-25,Premium,Email
+C000396,Customer 0396,Abu Dhabi,2022-05-18,Regular,Paid Search
+C000397,Customer 0397,Ras Al Khaimah,2024-04-05,Regular,Paid Search
+C000398,Customer 0398,Dubai,2022-08-14,New,Social Media
+C000399,Customer 0399,Abu Dhabi,2024-04-10,New,Email
+C000400,Customer 0400,Abu Dhabi,2025-09-22,Premium,Social Media
+C000401,Customer 0401,Dubai,2024-02-24,Regular,Email
+C000402,Customer 0402,Fujairah,2025-01-16,Regular,Organic
+C000403,Customer 0403,Ajman,2023-03-29,Premium,Social Media
+C000404,Customer 0404,Dubai,2025-09-09,New,Referral
+C000405,Customer 0405,Al Ain,2025-04-01,Regular,Paid Search
+C000406,Customer 0406,Ras Al Khaimah,2025-08-31,New,Paid Search
+C000407,Customer 0407,Dubai,2024-12-18,New,Email
+C000408,Customer 0408,Ras Al Khaimah,2024-08-06,Regular,Organic
+C000409,Customer 0409,Dubai,2024-02-06,Regular,Paid Search
+C000410,Customer 0410,Al Ain,2025-09-17,Premium,Referral
+C000411,Customer 0411,Sharjah,2025-05-23,New,Email
+C000412,Customer 0412,Sharjah,2023-09-01,Regular,Email
+C000413,Customer 0413,Dubai,2022-05-06,Regular,Email
+C000414,Customer 0414,Fujairah,2022-01-06,Regular,Organic
+C000415,Customer 0415,Dubai,2022-12-07,Premium,Email
+C000416,Customer 0416,Dubai,2022-04-02,Regular,Paid Search
+C000417,Customer 0417,Dubai,2022-11-05,Regular,Social Media
+C000418,Customer 0418,Ajman,2022-06-09,New,Paid Search
+C000419,Customer 0419,Dubai,2025-12-03,New,Referral
+C000420,Customer 0420,Fujairah,2022-05-20,Premium,Social Media
+C000421,Customer 0421,Sharjah,2024-07-04,Regular,Referral
+C000422,Customer 0422,Dubai,2023-05-29,New,Organic
+C000423,Customer 0423,Dubai,2022-09-12,New,Organic
+C000424,Customer 0424,Dubai,2024-10-20,Regular,Paid Search
+C000425,Customer 0425,Sharjah,2025-11-18,Regular,Organic
+C000426,Customer 0426,Ajman,2025-02-28,New,Social Media
+C000427,Customer 0427,Dubai,2025-11-24,Regular,Paid Search
+C000428,Customer 0428,Ras Al Khaimah,2024-05-11,Regular,Social Media
+C000429,Customer 0429,Dubai,2024-09-10,Regular,Organic
+C000430,Customer 0430,Ajman,2022-08-02,New,Organic
+C000431,Customer 0431,Al Ain,2025-05-29,Regular,Social Media
+C000432,Customer 0432,Ajman,2024-12-27,New,Paid Search
+C000433,Customer 0433,Sharjah,2023-01-06,New,Organic
+C000434,Customer 0434,Ras Al Khaimah,2023-06-03,Regular,Organic
+C000435,Customer 0435,Dubai,2024-06-10,Regular,Organic
+C000436,Customer 0436,Dubai,2022-01-19,New,Social Media
+C000437,Customer 0437,Dubai,2025-04-09,Premium,Organic
+C000438,Customer 0438,Abu Dhabi,2023-02-14,New,Paid Search
+C000439,Customer 0439,Ajman,2022-04-20,Regular,Social Media
+C000440,Customer 0440,Sharjah,2023-04-28,Premium,Paid Search
+C000441,Customer 0441,Ras Al Khaimah,2025-05-05,Regular,Social Media
+C000442,Customer 0442,Dubai,2023-02-05,Regular,Organic
+C000443,Customer 0443,Ajman,2024-02-27,Regular,Email
+C000444,Customer 0444,Dubai,2025-03-31,Regular,Paid Search
+C000445,Customer 0445,Dubai,2022-02-19,Regular,Paid Search
+C000446,Customer 0446,Sharjah,2025-01-14,Regular,Email
+C000447,Customer 0447,Al Ain,2023-02-26,New,Social Media
+C000448,Customer 0448,Sharjah,2024-10-12,Regular,Social Media
+C000449,Customer 0449,Dubai,2022-10-02,New,Email
+C000450,Customer 0450,Sharjah,2022-07-22,Premium,Organic
+C000451,Customer 0451,Dubai,2025-02-24,New,Referral
+C000452,Customer 0452,Fujairah,2025-03-25,New,Social Media
+C000453,Customer 0453,Sharjah,2025-12-03,Premium,Paid Search
+C000454,Customer 0454,Dubai,2024-09-15,New,Organic
+C000455,Customer 0455,Dubai,2023-11-12,New,Organic
+C000456,Customer 0456,Dubai,2022-10-12,Regular,Email
+C000457,Customer 0457,Al Ain,2023-03-08,New,Organic
+C000458,Customer 0458,Abu Dhabi,2024-08-04,New,Organic
+C000459,Customer 0459,Ajman,2023-05-21,Regular,Social Media
+C000460,Customer 0460,Sharjah,2023-12-07,New,Social Media
+C000461,Customer 0461,Sharjah,2022-09-03,New,Organic
+C000462,Customer 0462,Dubai,2023-10-04,New,Referral
+C000463,Customer 0463,Al Ain,2022-12-14,New,Paid Search
+C000464,Customer 0464,Dubai,2022-06-13,New,Referral
+C000465,Customer 0465,Sharjah,2022-07-12,New,Organic
+C000466,Customer 0466,Sharjah,2024-01-27,Regular,Organic
+C000467,Customer 0467,Sharjah,2023-06-19,Regular,Social Media
+C000468,Customer 0468,Al Ain,2022-05-26,New,Organic
+C000469,Customer 0469,Dubai,2024-01-21,New,Paid Search
+C000470,Customer 0470,Abu Dhabi,2022-08-28,Premium,Organic
+C000471,Customer 0471,Abu Dhabi,2022-01-23,Regular,Referral
+C000472,Customer 0472,Abu Dhabi,2022-07-13,Regular,Email
+C000473,Customer 0473,Dubai,2023-10-17,Regular,Referral
+C000474,Customer 0474,Dubai,2025-10-24,New,Email
+C000475,Customer 0475,Dubai,2022-12-19,Regular,Email
+C000476,Customer 0476,Dubai,2023-02-20,Premium,Paid Search
+C000477,Customer 0477,Abu Dhabi,2022-12-21,Premium,Paid Search
+C000478,Customer 0478,Sharjah,2023-06-03,New,Email
+C000479,Customer 0479,Sharjah,2024-11-13,New,Email
+C000480,Customer 0480,Abu Dhabi,2023-04-16,New,Email
+C000481,Customer 0481,Abu Dhabi,2024-08-18,New,Referral
+C000482,Customer 0482,Dubai,2025-08-04,New,Organic
+C000483,Customer 0483,Sharjah,2025-10-13,Regular,Email
+C000484,Customer 0484,Dubai,2024-04-01,New,Email
+C000485,Customer 0485,Dubai,2024-11-07,Premium,Social Media
+C000486,Customer 0486,Abu Dhabi,2025-09-03,New,Referral
+C000487,Customer 0487,Abu Dhabi,2025-02-22,New,Social Media
+C000488,Customer 0488,Dubai,2023-03-14,Premium,Email
+C000489,Customer 0489,Sharjah,2022-07-12,Regular,Organic
+C000490,Customer 0490,Sharjah,2022-06-17,New,Referral
+C000491,Customer 0491,Sharjah,2025-07-11,Regular,Organic
+C000492,Customer 0492,Sharjah,2024-03-23,New,Paid Search
+C000493,Customer 0493,Sharjah,2023-03-09,New,Organic
+C000494,Customer 0494,Dubai,2023-05-20,Regular,Paid Search
+C000495,Customer 0495,Ajman,2023-02-16,New,Organic
+C000496,Customer 0496,Sharjah,2025-03-16,Regular,Email
+C000497,Customer 0497,Abu Dhabi,2024-06-13,New,Social Media
+C000498,Customer 0498,Sharjah,2025-07-07,Regular,Email
+C000499,Customer 0499,Abu Dhabi,2023-03-17,Regular,Organic
+C000500,Customer 0500,Abu Dhabi,2023-11-21,New,Organic
+C000501,Customer 0501,Ajman,2022-06-27,New,Referral
+C000502,Customer 0502,Fujairah,2025-11-19,Regular,Social Media
+C000503,Customer 0503,Al Ain,2024-01-18,Regular,Social Media
+C000504,Customer 0504,Abu Dhabi,2024-03-18,Regular,Referral
+C000505,Customer 0505,Abu Dhabi,2023-08-27,Regular,Referral
+C000506,Customer 0506,Ajman,2023-01-31,Regular,Social Media
+C000507,Customer 0507,Dubai,2025-10-16,New,Email
+C000508,Customer 0508,Ras Al Khaimah,2023-12-15,Regular,Social Media
+C000509,Customer 0509,Abu Dhabi,2024-09-12,New,Social Media
+C000510,Customer 0510,Dubai,2022-02-24,Regular,Paid Search
+C000511,Customer 0511,Dubai,2023-02-07,New,Organic
+C000512,Customer 0512,Ras Al Khaimah,2025-03-19,New,Organic
+C000513,Customer 0513,Dubai,2022-05-09,Regular,Referral
+C000514,Customer 0514,Dubai,2022-05-29,Regular,Social Media
+C000515,Customer 0515,Dubai,2025-03-28,Regular,Paid Search
+C000516,Customer 0516,Dubai,2023-03-27,Regular,Social Media
+C000517,Customer 0517,Dubai,2023-02-04,Premium,Organic
+C000518,Customer 0518,Ajman,2024-04-05,Regular,Organic
+C000519,Customer 0519,Dubai,2022-10-12,Premium,Email
+C000520,Customer 0520,Ras Al Khaimah,2022-03-04,Regular,Paid Search
+C000521,Customer 0521,Ras Al Khaimah,2022-01-07,Regular,Organic
+C000522,Customer 0522,Abu Dhabi,2022-04-26,Regular,Paid Search
+C000523,Customer 0523,Dubai,2022-08-20,Regular,Paid Search
+C000524,Customer 0524,Sharjah,2024-10-13,New,Social Media
+C000525,Customer 0525,Dubai,2023-03-12,Regular,Email
+C000526,Customer 0526,Abu Dhabi,2022-04-15,New,Social Media
+C000527,Customer 0527,Al Ain,2022-01-22,New,Social Media
+C000528,Customer 0528,Al Ain,2023-11-28,Premium,Paid Search
+C000529,Customer 0529,Ajman,2025-05-11,New,Social Media
+C000530,Customer 0530,Dubai,2023-05-10,Regular,Paid Search
+C000531,Customer 0531,Sharjah,2022-04-04,Regular,Organic
+C000532,Customer 0532,Sharjah,2022-11-29,New,Referral
+C000533,Customer 0533,Abu Dhabi,2023-12-31,Premium,Paid Search
+C000534,Customer 0534,Sharjah,2022-10-03,New,Paid Search
+C000535,Customer 0535,Dubai,2025-11-29,Premium,Organic
+C000536,Customer 0536,Dubai,2025-01-19,Regular,Referral
+C000537,Customer 0537,Abu Dhabi,2023-05-19,New,Organic
+C000538,Customer 0538,Dubai,2025-10-21,New,Paid Search
+C000539,Customer 0539,Dubai,2023-04-20,New,Referral
+C000540,Customer 0540,Ras Al Khaimah,2022-07-24,Regular,Paid Search
+C000541,Customer 0541,Al Ain,2025-10-01,New,Email
+C000542,Customer 0542,Sharjah,2025-11-02,Premium,Organic
+C000543,Customer 0543,Ras Al Khaimah,2023-04-02,New,Social Media
+C000544,Customer 0544,Al Ain,2024-05-18,Regular,Email
+C000545,Customer 0545,Dubai,2022-09-11,New,Social Media
+C000546,Customer 0546,Abu Dhabi,2024-07-25,Premium,Social Media
+C000547,Customer 0547,Abu Dhabi,2024-10-04,New,Paid Search
+C000548,Customer 0548,Dubai,2024-11-02,Regular,Referral
+C000549,Customer 0549,Ajman,2024-04-10,Regular,Email
+C000550,Customer 0550,Abu Dhabi,2024-10-25,New,Social Media
+C000551,Customer 0551,Abu Dhabi,2024-03-21,Regular,Email
+C000552,Customer 0552,Dubai,2025-04-11,New,Social Media
+C000553,Customer 0553,Dubai,2022-09-20,Regular,Social Media
+C000554,Customer 0554,Fujairah,2023-12-07,Regular,Paid Search
+C000555,Customer 0555,Dubai,2023-08-31,Regular,Social Media
+C000556,Customer 0556,Dubai,2024-02-18,New,Email
+C000557,Customer 0557,Dubai,2022-07-27,New,Social Media
+C000558,Customer 0558,Abu Dhabi,2023-04-18,New,Organic
+C000559,Customer 0559,Sharjah,2025-10-25,New,Social Media
+C000560,Customer 0560,Abu Dhabi,2022-06-03,New,Referral
+C000561,Customer 0561,Dubai,2024-07-16,Premium,Email
+C000562,Customer 0562,Dubai,2024-08-28,Regular,Organic
+C000563,Customer 0563,Ras Al Khaimah,2023-11-24,Regular,Organic
+C000564,Customer 0564,Sharjah,2022-02-19,New,Paid Search
+C000565,Customer 0565,Sharjah,2022-02-20,New,Organic
+C000566,Customer 0566,Sharjah,2023-02-07,Regular,Email
+C000567,Customer 0567,Ajman,2022-05-30,New,Paid Search
+C000568,Customer 0568,Dubai,2022-05-18,New,Social Media
+C000569,Customer 0569,Abu Dhabi,2022-08-22,Regular,Organic
+C000570,Customer 0570,Abu Dhabi,2022-10-06,Regular,Paid Search
+C000571,Customer 0571,Dubai,2025-05-09,Premium,Email
+C000572,Customer 0572,Ras Al Khaimah,2024-07-21,New,Paid Search
+C000573,Customer 0573,Abu Dhabi,2022-02-14,Regular,Organic
+C000574,Customer 0574,Ajman,2024-07-06,New,Organic
+C000575,Customer 0575,Ras Al Khaimah,2022-07-19,New,Email
+C000576,Customer 0576,Abu Dhabi,2023-09-07,Regular,Email
+C000577,Customer 0577,Fujairah,2022-02-25,New,Organic
+C000578,Customer 0578,Sharjah,2022-05-12,Regular,Social Media
+C000579,Customer 0579,Ras Al Khaimah,2022-07-13,Regular,Organic
+C000580,Customer 0580,Abu Dhabi,2023-09-25,New,Social Media
+C000581,Customer 0581,Abu Dhabi,2023-11-08,Premium,Organic
+C000582,Customer 0582,Abu Dhabi,2023-05-31,Regular,Referral
+C000583,Customer 0583,Dubai,2024-06-24,Regular,Email
+C000584,Customer 0584,Abu Dhabi,2024-11-17,Regular,Organic
+C000585,Customer 0585,Fujairah,2024-11-29,Premium,Paid Search
+C000586,Customer 0586,Sharjah,2024-04-25,New,Organic
+C000587,Customer 0587,Dubai,2024-03-07,Regular,Paid Search
+C000588,Customer 0588,Dubai,2023-12-19,Regular,Organic
+C000589,Customer 0589,Dubai,2022-12-14,New,Organic
+C000590,Customer 0590,Dubai,2023-12-12,New,Email
+C000591,Customer 0591,Al Ain,2022-01-15,Premium,Organic
+C000592,Customer 0592,Abu Dhabi,2025-11-11,Regular,Referral
+C000593,Customer 0593,Dubai,2023-06-25,Regular,Organic
+C000594,Customer 0594,Sharjah,2025-01-09,Regular,Paid Search
+C000595,Customer 0595,Dubai,2025-10-28,Regular,Paid Search
+C000596,Customer 0596,Dubai,2023-12-27,Premium,Email
+C000597,Customer 0597,Sharjah,2025-06-12,Regular,Organic
+C000598,Customer 0598,Sharjah,2023-12-01,New,Organic
+C000599,Customer 0599,Al Ain,2022-07-13,New,Referral
+C000600,Customer 0600,Sharjah,2022-02-08,Regular,Social Media
+C000601,Customer 0601,Abu Dhabi,2022-07-18,Regular,Social Media
+C000602,Customer 0602,Ajman,2025-10-08,Regular,Organic
+C000603,Customer 0603,Fujairah,2023-11-25,New,Organic
+C000604,Customer 0604,Ajman,2023-04-11,New,Referral
+C000605,Customer 0605,Al Ain,2023-10-14,Regular,Social Media
+C000606,Customer 0606,Ajman,2023-01-09,Regular,Social Media
+C000607,Customer 0607,Ras Al Khaimah,2025-06-25,New,Paid Search
+C000608,Customer 0608,Dubai,2025-12-30,Regular,Organic
+C000609,Customer 0609,Ajman,2022-05-04,Regular,Email
+C000610,Customer 0610,Abu Dhabi,2024-11-15,Premium,Social Media
+C000611,Customer 0611,Sharjah,2023-05-05,New,Organic
+C000612,Customer 0612,Sharjah,2022-03-11,Premium,Email
+C000613,Customer 0613,Al Ain,2025-09-08,Regular,Social Media
+C000614,Customer 0614,Al Ain,2022-04-01,Regular,Paid Search
+C000615,Customer 0615,Dubai,2022-10-28,New,Paid Search
+C000616,Customer 0616,Ajman,2022-02-07,Regular,Social Media
+C000617,Customer 0617,Ajman,2023-11-20,Regular,Paid Search
+C000618,Customer 0618,Abu Dhabi,2024-05-25,New,Social Media
+C000619,Customer 0619,Dubai,2023-04-14,Regular,Social Media
+C000620,Customer 0620,Dubai,2022-04-15,Regular,Organic
+C000621,Customer 0621,Ajman,2022-06-19,Regular,Email
+C000622,Customer 0622,Abu Dhabi,2025-09-24,New,Paid Search
+C000623,Customer 0623,Al Ain,2025-03-22,Regular,Paid Search
+C000624,Customer 0624,Abu Dhabi,2025-09-29,New,Social Media
+C000625,Customer 0625,Al Ain,2024-02-14,Premium,Social Media
+C000626,Customer 0626,Abu Dhabi,2024-03-08,Premium,Paid Search
+C000627,Customer 0627,Ajman,2025-02-21,New,Social Media
+C000628,Customer 0628,Dubai,2024-06-19,New,Email
+C000629,Customer 0629,Sharjah,2023-09-30,New,Referral
+C000630,Customer 0630,Ajman,2023-03-03,Regular,Referral
+C000631,Customer 0631,Al Ain,2023-12-10,Premium,Organic
+C000632,Customer 0632,Ras Al Khaimah,2022-04-04,Regular,Paid Search
+C000633,Customer 0633,Dubai,2022-10-08,New,Social Media
+C000634,Customer 0634,Abu Dhabi,2024-12-12,New,Organic
+C000635,Customer 0635,Dubai,2025-06-21,New,Referral
+C000636,Customer 0636,Dubai,2022-05-29,Regular,Paid Search
+C000637,Customer 0637,Sharjah,2022-05-22,Regular,Paid Search
+C000638,Customer 0638,Sharjah,2022-05-05,Regular,Organic
+C000639,Customer 0639,Ajman,2025-03-01,New,Paid Search
+C000640,Customer 0640,Ras Al Khaimah,2023-03-31,Premium,Paid Search
+C000641,Customer 0641,Ajman,2023-04-23,New,Social Media
+C000642,Customer 0642,Ajman,2022-01-19,Regular,Social Media
+C000643,Customer 0643,Dubai,2025-11-20,Premium,Organic
+C000644,Customer 0644,Dubai,2023-09-26,Regular,Organic
+C000645,Customer 0645,Sharjah,2025-03-10,Premium,Referral
+C000646,Customer 0646,Ras Al Khaimah,2024-10-30,New,Organic
+C000647,Customer 0647,Dubai,2022-07-26,Regular,Paid Search
+C000648,Customer 0648,Abu Dhabi,2025-03-15,New,Paid Search
+C000649,Customer 0649,Sharjah,2024-03-14,Regular,Social Media
+C000650,Customer 0650,Dubai,2024-06-01,New,Email
+C000651,Customer 0651,Abu Dhabi,2022-10-20,New,Social Media
+C000652,Customer 0652,Fujairah,2025-05-21,New,Email
+C000653,Customer 0653,Sharjah,2023-08-17,New,Referral
+C000654,Customer 0654,Dubai,2022-05-16,Regular,Organic
+C000655,Customer 0655,Ras Al Khaimah,2025-05-24,Regular,Organic
+C000656,Customer 0656,Abu Dhabi,2025-07-19,New,Paid Search
+C000657,Customer 0657,Ras Al Khaimah,2024-01-10,Premium,Paid Search
+C000658,Customer 0658,Dubai,2024-04-25,Premium,Social Media
+C000659,Customer 0659,Sharjah,2022-11-22,New,Organic
+C000660,Customer 0660,Abu Dhabi,2022-04-09,Regular,Organic
+C000661,Customer 0661,Dubai,2025-10-10,Regular,Paid Search
+C000662,Customer 0662,Fujairah,2023-12-07,Regular,Social Media
+C000663,Customer 0663,Dubai,2023-02-06,New,Social Media
+C000664,Customer 0664,Dubai,2024-10-09,Regular,Email
+C000665,Customer 0665,Abu Dhabi,2022-04-27,New,Organic
+C000666,Customer 0666,Sharjah,2022-12-21,New,Paid Search
+C000667,Customer 0667,Ajman,2023-10-20,Regular,Email
+C000668,Customer 0668,Al Ain,2023-06-20,Regular,Social Media
+C000669,Customer 0669,Dubai,2022-10-01,Regular,Social Media
+C000670,Customer 0670,Abu Dhabi,2023-05-28,New,Social Media
+C000671,Customer 0671,Dubai,2023-05-03,New,Organic
+C000672,Customer 0672,Sharjah,2024-02-06,New,Email
+C000673,Customer 0673,Al Ain,2024-04-01,New,Social Media
+C000674,Customer 0674,Sharjah,2025-07-13,New,Social Media
+C000675,Customer 0675,Sharjah,2025-03-23,Regular,Social Media
+C000676,Customer 0676,Abu Dhabi,2023-03-03,Regular,Paid Search
+C000677,Customer 0677,Fujairah,2025-08-10,Regular,Organic
+C000678,Customer 0678,Abu Dhabi,2024-01-31,Regular,Referral
+C000679,Customer 0679,Dubai,2022-10-02,New,Paid Search
+C000680,Customer 0680,Abu Dhabi,2023-05-12,Regular,Organic
+C000681,Customer 0681,Dubai,2024-12-18,New,Paid Search
+C000682,Customer 0682,Dubai,2025-04-14,Premium,Email
+C000683,Customer 0683,Dubai,2023-07-01,New,Paid Search
+C000684,Customer 0684,Abu Dhabi,2022-08-19,Regular,Paid Search
+C000685,Customer 0685,Sharjah,2022-10-08,Premium,Social Media
+C000686,Customer 0686,Abu Dhabi,2022-06-01,Regular,Referral
+C000687,Customer 0687,Abu Dhabi,2024-10-17,Regular,Social Media
+C000688,Customer 0688,Al Ain,2024-01-05,Regular,Referral
+C000689,Customer 0689,Ajman,2023-10-21,New,Organic
+C000690,Customer 0690,Sharjah,2024-09-07,Regular,Email
+C000691,Customer 0691,Dubai,2025-04-24,Premium,Email
+C000692,Customer 0692,Fujairah,2025-03-07,Premium,Paid Search
+C000693,Customer 0693,Dubai,2022-07-20,Regular,Social Media
+C000694,Customer 0694,Dubai,2024-05-10,New,Organic
+C000695,Customer 0695,Fujairah,2025-07-12,Regular,Paid Search
+C000696,Customer 0696,Abu Dhabi,2025-02-03,Regular,Organic
+C000697,Customer 0697,Ajman,2023-04-26,New,Organic
+C000698,Customer 0698,Sharjah,2023-07-28,New,Email
+C000699,Customer 0699,Sharjah,2025-07-23,New,Organic
+C000700,Customer 0700,Dubai,2022-02-17,Regular,Social Media
+C000701,Customer 0701,Dubai,2024-02-07,New,Paid Search
+C000702,Customer 0702,Dubai,2022-06-19,New,Paid Search
+C000703,Customer 0703,Dubai,2025-07-30,New,Paid Search
+C000704,Customer 0704,Ras Al Khaimah,2022-02-26,Premium,Paid Search
+C000705,Customer 0705,Dubai,2022-02-04,New,Social Media
+C000706,Customer 0706,Sharjah,2023-04-26,New,Email
+C000707,Customer 0707,Ajman,2022-10-20,Regular,Paid Search
+C000708,Customer 0708,Ajman,2023-12-25,New,Email
+C000709,Customer 0709,Abu Dhabi,2023-03-14,Premium,Social Media
+C000710,Customer 0710,Abu Dhabi,2023-06-05,Premium,Social Media
+C000711,Customer 0711,Al Ain,2024-04-04,Regular,Organic
+C000712,Customer 0712,Sharjah,2024-03-29,Regular,Organic
+C000713,Customer 0713,Ajman,2025-09-26,New,Referral
+C000714,Customer 0714,Fujairah,2023-12-03,New,Social Media
+C000715,Customer 0715,Ajman,2024-04-03,New,Paid Search
+C000716,Customer 0716,Dubai,2024-09-16,New,Referral
+C000717,Customer 0717,Sharjah,2022-09-12,New,Paid Search
+C000718,Customer 0718,Dubai,2024-08-31,Regular,Referral
+C000719,Customer 0719,Sharjah,2025-06-12,New,Paid Search
+C000720,Customer 0720,Al Ain,2023-04-10,New,Email
+C000721,Customer 0721,Abu Dhabi,2022-09-18,Regular,Organic
+C000722,Customer 0722,Abu Dhabi,2023-05-21,Regular,Organic
+C000723,Customer 0723,Dubai,2023-02-06,New,Social Media
+C000724,Customer 0724,Al Ain,2024-05-04,New,Organic
+C000725,Customer 0725,Dubai,2025-06-15,New,Email
+C000726,Customer 0726,Dubai,2024-05-20,New,Social Media
+C000727,Customer 0727,Dubai,2022-07-03,Regular,Organic
+C000728,Customer 0728,Dubai,2023-04-05,Premium,Organic
+C000729,Customer 0729,Abu Dhabi,2024-10-03,Regular,Email
+C000730,Customer 0730,Abu Dhabi,2023-04-28,Regular,Social Media
+C000731,Customer 0731,Dubai,2024-05-06,Regular,Email
+C000732,Customer 0732,Dubai,2024-10-10,Regular,Organic
+C000733,Customer 0733,Dubai,2023-04-26,New,Email
+C000734,Customer 0734,Abu Dhabi,2024-08-03,New,Paid Search
+C000735,Customer 0735,Dubai,2023-08-05,Regular,Social Media
+C000736,Customer 0736,Sharjah,2022-07-17,Regular,Paid Search
+C000737,Customer 0737,Dubai,2023-06-28,New,Organic
+C000738,Customer 0738,Dubai,2023-10-06,New,Email
+C000739,Customer 0739,Abu Dhabi,2022-01-04,New,Email
+C000740,Customer 0740,Abu Dhabi,2025-07-27,New,Paid Search
+C000741,Customer 0741,Dubai,2024-02-10,Regular,Email
+C000742,Customer 0742,Dubai,2022-02-23,Regular,Organic
+C000743,Customer 0743,Ras Al Khaimah,2025-06-21,Regular,Organic
+C000744,Customer 0744,Dubai,2025-06-02,New,Organic
+C000745,Customer 0745,Abu Dhabi,2022-01-18,New,Paid Search
+C000746,Customer 0746,Abu Dhabi,2022-08-27,Regular,Organic
+C000747,Customer 0747,Dubai,2023-06-16,Regular,Paid Search
+C000748,Customer 0748,Abu Dhabi,2024-01-11,New,Organic
+C000749,Customer 0749,Ajman,2024-11-25,New,Referral
+C000750,Customer 0750,Ras Al Khaimah,2023-09-12,Regular,Referral
+C000751,Customer 0751,Dubai,2024-06-12,Regular,Social Media
+C000752,Customer 0752,Dubai,2022-01-15,Premium,Organic
+C000753,Customer 0753,Dubai,2024-08-19,Regular,Referral
+C000754,Customer 0754,Abu Dhabi,2025-08-29,Regular,Organic
+C000755,Customer 0755,Sharjah,2024-02-08,Regular,Referral
+C000756,Customer 0756,Dubai,2023-10-27,New,Social Media
+C000757,Customer 0757,Dubai,2023-03-10,Regular,Paid Search
+C000758,Customer 0758,Al Ain,2025-10-25,Regular,Organic
+C000759,Customer 0759,Dubai,2022-02-18,New,Referral
+C000760,Customer 0760,Abu Dhabi,2023-02-23,Premium,Email
+C000761,Customer 0761,Sharjah,2022-07-22,New,Social Media
+C000762,Customer 0762,Dubai,2025-06-18,New,Email
+C000763,Customer 0763,Dubai,2023-12-06,New,Email
+C000764,Customer 0764,Dubai,2025-09-08,Premium,Organic
+C000765,Customer 0765,Fujairah,2024-08-29,Premium,Referral
+C000766,Customer 0766,Dubai,2024-03-23,Regular,Paid Search
+C000767,Customer 0767,Dubai,2024-01-26,Premium,Paid Search
+C000768,Customer 0768,Dubai,2022-10-23,Premium,Organic
+C000769,Customer 0769,Dubai,2024-03-31,Regular,Email
+C000770,Customer 0770,Sharjah,2024-09-27,Premium,Social Media
+C000771,Customer 0771,Dubai,2025-11-10,Regular,Organic
+C000772,Customer 0772,Sharjah,2024-03-12,Regular,Paid Search
+C000773,Customer 0773,Sharjah,2025-10-02,Regular,Paid Search
+C000774,Customer 0774,Ras Al Khaimah,2025-10-11,Regular,Referral
+C000775,Customer 0775,Dubai,2024-02-02,New,Email
+C000776,Customer 0776,Ras Al Khaimah,2023-10-04,Regular,Paid Search
+C000777,Customer 0777,Sharjah,2022-07-28,Premium,Paid Search
+C000778,Customer 0778,Dubai,2023-01-28,New,Social Media
+C000779,Customer 0779,Ajman,2025-07-07,Premium,Paid Search
+C000780,Customer 0780,Ras Al Khaimah,2022-07-21,New,Paid Search
+C000781,Customer 0781,Dubai,2023-08-03,New,Organic
+C000782,Customer 0782,Fujairah,2024-10-17,New,Organic
+C000783,Customer 0783,Abu Dhabi,2022-12-18,Regular,Paid Search
+C000784,Customer 0784,Sharjah,2025-11-23,Regular,Email
+C000785,Customer 0785,Al Ain,2024-08-06,New,Paid Search
+C000786,Customer 0786,Abu Dhabi,2022-02-11,Regular,Organic
+C000787,Customer 0787,Ajman,2022-12-27,New,Referral
+C000788,Customer 0788,Dubai,2024-12-17,Regular,Email
+C000789,Customer 0789,Ajman,2025-06-14,Premium,Paid Search
+C000790,Customer 0790,Sharjah,2025-09-15,Regular,Organic
+C000791,Customer 0791,Dubai,2025-05-27,Regular,Social Media
+C000792,Customer 0792,Abu Dhabi,2022-04-20,Regular,Paid Search
+C000793,Customer 0793,Dubai,2024-12-01,Premium,Social Media
+C000794,Customer 0794,Dubai,2022-06-10,New,Organic
+C000795,Customer 0795,Dubai,2022-04-22,New,Organic
+C000796,Customer 0796,Abu Dhabi,2024-10-07,New,Paid Search
+C000797,Customer 0797,Dubai,2023-11-30,Regular,Social Media
+C000798,Customer 0798,Dubai,2024-08-04,Regular,Paid Search
+C000799,Customer 0799,Ajman,2025-05-28,Regular,Organic
+C000800,Customer 0800,Sharjah,2022-04-11,New,Paid Search
+C000801,Customer 0801,Ajman,2024-02-10,New,Referral
+C000802,Customer 0802,Dubai,2025-05-03,Regular,Organic
+C000803,Customer 0803,Fujairah,2023-10-05,Premium,Social Media
+C000804,Customer 0804,Sharjah,2024-02-04,New,Social Media
+C000805,Customer 0805,Dubai,2023-12-28,New,Paid Search
+C000806,Customer 0806,Dubai,2025-08-17,New,Email
+C000807,Customer 0807,Sharjah,2022-03-14,Regular,Email
+C000808,Customer 0808,Dubai,2025-07-05,New,Paid Search
+C000809,Customer 0809,Abu Dhabi,2025-04-06,New,Organic
+C000810,Customer 0810,Al Ain,2025-04-01,Regular,Paid Search
+C000811,Customer 0811,Dubai,2023-08-25,New,Organic
+C000812,Customer 0812,Dubai,2024-01-24,Regular,Social Media
+C000813,Customer 0813,Al Ain,2023-06-23,New,Email
+C000814,Customer 0814,Sharjah,2023-01-03,Premium,Referral
+C000815,Customer 0815,Dubai,2025-07-02,Regular,Paid Search
+C000816,Customer 0816,Fujairah,2024-01-09,New,Paid Search
+C000817,Customer 0817,Fujairah,2024-11-22,New,Organic
+C000818,Customer 0818,Abu Dhabi,2022-05-28,Regular,Social Media
+C000819,Customer 0819,Sharjah,2025-02-25,Premium,Organic
+C000820,Customer 0820,Dubai,2024-08-19,New,Email
+C000821,Customer 0821,Dubai,2025-12-27,New,Referral
+C000822,Customer 0822,Sharjah,2022-07-15,New,Organic
+C000823,Customer 0823,Dubai,2024-02-28,Regular,Social Media
+C000824,Customer 0824,Sharjah,2024-01-17,Premium,Social Media
+C000825,Customer 0825,Ras Al Khaimah,2024-02-26,Regular,Referral
+C000826,Customer 0826,Dubai,2022-03-21,New,Paid Search
+C000827,Customer 0827,Sharjah,2023-11-22,Regular,Organic
+C000828,Customer 0828,Dubai,2023-03-14,Regular,Social Media
+C000829,Customer 0829,Ras Al Khaimah,2024-06-20,New,Organic
+C000830,Customer 0830,Dubai,2022-12-05,New,Social Media
+C000831,Customer 0831,Sharjah,2023-09-28,New,Organic
+C000832,Customer 0832,Sharjah,2024-06-24,Regular,Social Media
+C000833,Customer 0833,Abu Dhabi,2022-04-04,Regular,Referral
+C000834,Customer 0834,Sharjah,2025-02-22,Regular,Organic
+C000835,Customer 0835,Ajman,2024-11-10,Regular,Paid Search
+C000836,Customer 0836,Sharjah,2022-03-25,New,Referral
+C000837,Customer 0837,Ajman,2022-04-05,New,Organic
+C000838,Customer 0838,Al Ain,2025-05-26,New,Social Media
+C000839,Customer 0839,Abu Dhabi,2023-02-18,Premium,Social Media
+C000840,Customer 0840,Abu Dhabi,2025-06-10,Regular,Paid Search
+C000841,Customer 0841,Dubai,2023-12-30,New,Referral
+C000842,Customer 0842,Ajman,2023-05-15,New,Paid Search
+C000843,Customer 0843,Abu Dhabi,2023-02-04,Regular,Social Media
+C000844,Customer 0844,Abu Dhabi,2024-08-20,Regular,Organic
+C000845,Customer 0845,Dubai,2022-06-10,Regular,Organic
+C000846,Customer 0846,Fujairah,2023-08-11,New,Organic
+C000847,Customer 0847,Abu Dhabi,2023-05-20,Premium,Email
+C000848,Customer 0848,Sharjah,2022-08-14,Regular,Email
+C000849,Customer 0849,Dubai,2023-05-31,Regular,Referral
+C000850,Customer 0850,Al Ain,2024-02-11,Regular,Organic
+C000851,Customer 0851,Dubai,2024-09-16,Premium,Paid Search
+C000852,Customer 0852,Dubai,2022-05-07,Premium,Referral
+C000853,Customer 0853,Ras Al Khaimah,2025-06-27,Regular,Social Media
+C000854,Customer 0854,Fujairah,2025-07-06,Regular,Organic
+C000855,Customer 0855,Dubai,2024-10-07,New,Email
+C000856,Customer 0856,Abu Dhabi,2025-09-11,Regular,Organic
+C000857,Customer 0857,Ajman,2023-09-17,Regular,Organic
+C000858,Customer 0858,Ras Al Khaimah,2025-04-14,New,Email
+C000859,Customer 0859,Abu Dhabi,2024-11-27,New,Paid Search
+C000860,Customer 0860,Abu Dhabi,2024-04-01,Premium,Paid Search
+C000861,Customer 0861,Ajman,2022-09-20,Premium,Social Media
+C000862,Customer 0862,Ajman,2024-03-25,Premium,Email
+C000863,Customer 0863,Ajman,2025-08-08,Regular,Organic
+C000864,Customer 0864,Sharjah,2025-12-08,Regular,Referral
+C000865,Customer 0865,Dubai,2023-10-17,Regular,Paid Search
+C000866,Customer 0866,Fujairah,2022-12-28,New,Organic
+C000867,Customer 0867,Ras Al Khaimah,2024-12-27,New,Paid Search
+C000868,Customer 0868,Ajman,2022-04-21,Premium,Social Media
+C000869,Customer 0869,Dubai,2022-08-09,New,Organic
+C000870,Customer 0870,Dubai,2024-03-31,Regular,Paid Search
+C000871,Customer 0871,Ajman,2025-12-16,Regular,Social Media
+C000872,Customer 0872,Dubai,2023-04-26,Regular,Social Media
+C000873,Customer 0873,Al Ain,2023-10-10,New,Social Media
+C000874,Customer 0874,Abu Dhabi,2023-04-16,Regular,Referral
+C000875,Customer 0875,Sharjah,2023-10-06,New,Paid Search
+C000876,Customer 0876,Fujairah,2022-01-11,Regular,Paid Search
+C000877,Customer 0877,Abu Dhabi,2024-05-18,New,Paid Search
+C000878,Customer 0878,Dubai,2024-05-20,Regular,Social Media
+C000879,Customer 0879,Sharjah,2023-04-06,Regular,Organic
+C000880,Customer 0880,Sharjah,2023-01-21,New,Paid Search
+C000881,Customer 0881,Abu Dhabi,2025-01-16,New,Organic
+C000882,Customer 0882,Sharjah,2022-10-02,Regular,Paid Search
+C000883,Customer 0883,Al Ain,2022-03-10,New,Email
+C000884,Customer 0884,Abu Dhabi,2022-03-01,New,Social Media
+C000885,Customer 0885,Dubai,2025-07-11,Regular,Paid Search
+C000886,Customer 0886,Abu Dhabi,2023-06-16,Premium,Social Media
+C000887,Customer 0887,Abu Dhabi,2022-05-29,Regular,Social Media
+C000888,Customer 0888,Dubai,2025-07-07,Regular,Paid Search
+C000889,Customer 0889,Dubai,2022-08-05,Premium,Paid Search
+C000890,Customer 0890,Sharjah,2023-05-07,Regular,Social Media
+C000891,Customer 0891,Dubai,2022-01-31,Regular,Organic
+C000892,Customer 0892,Al Ain,2024-09-18,Regular,Social Media
+C000893,Customer 0893,Dubai,2024-10-17,New,Social Media
+C000894,Customer 0894,Dubai,2025-01-09,New,Referral
+C000895,Customer 0895,Ajman,2023-01-20,Regular,Email
+C000896,Customer 0896,Fujairah,2023-04-25,New,Referral
+C000897,Customer 0897,Dubai,2025-10-01,Regular,Paid Search
+C000898,Customer 0898,Dubai,2025-04-14,New,Organic
+C000899,Customer 0899,Dubai,2022-02-24,Regular,Social Media
+C000900,Customer 0900,Abu Dhabi,2024-10-07,New,Referral
+C000901,Customer 0901,Abu Dhabi,2025-04-01,Regular,Email
+C000902,Customer 0902,Dubai,2024-03-27,Regular,Referral
+C000903,Customer 0903,Dubai,2024-07-23,New,Organic
+C000904,Customer 0904,Abu Dhabi,2022-01-02,New,Social Media
+C000905,Customer 0905,Al Ain,2022-02-13,New,Email
+C000906,Customer 0906,Sharjah,2022-02-21,Regular,Social Media
+C000907,Customer 0907,Abu Dhabi,2022-08-21,New,Social Media
+C000908,Customer 0908,Dubai,2025-12-17,Regular,Paid Search
+C000909,Customer 0909,Dubai,2024-07-15,New,Social Media
+C000910,Customer 0910,Dubai,2025-02-16,New,Paid Search
+C000911,Customer 0911,Ajman,2023-03-08,Regular,Organic
+C000912,Customer 0912,Ras Al Khaimah,2025-09-30,Regular,Referral
+C000913,Customer 0913,Fujairah,2022-10-18,New,Email
+C000914,Customer 0914,Al Ain,2025-08-10,Premium,Referral
+C000915,Customer 0915,Al Ain,2022-02-14,New,Paid Search
+C000916,Customer 0916,Al Ain,2022-01-30,New,Organic
+C000917,Customer 0917,Dubai,2022-04-26,Regular,Paid Search
+C000918,Customer 0918,Dubai,2025-03-02,Regular,Referral
+C000919,Customer 0919,Dubai,2023-01-11,Regular,Social Media
+C000920,Customer 0920,Sharjah,2023-10-21,New,Email
+C000921,Customer 0921,Dubai,2023-11-20,Premium,Paid Search
+C000922,Customer 0922,Ras Al Khaimah,2025-02-26,Regular,Social Media
+C000923,Customer 0923,Sharjah,2023-05-25,Premium,Referral
+C000924,Customer 0924,Sharjah,2022-01-10,Regular,Organic
+C000925,Customer 0925,Dubai,2023-07-19,Premium,Email
+C000926,Customer 0926,Dubai,2023-02-25,Regular,Social Media
+C000927,Customer 0927,Dubai,2024-12-03,New,Organic
+C000928,Customer 0928,Ras Al Khaimah,2025-01-01,Regular,Organic
+C000929,Customer 0929,Sharjah,2022-05-15,Regular,Email
+C000930,Customer 0930,Ajman,2025-03-03,Regular,Social Media
+C000931,Customer 0931,Dubai,2022-04-13,Regular,Referral
+C000932,Customer 0932,Abu Dhabi,2024-06-23,New,Referral
+C000933,Customer 0933,Abu Dhabi,2023-07-23,Regular,Paid Search
+C000934,Customer 0934,Ajman,2023-03-16,New,Referral
+C000935,Customer 0935,Ajman,2023-12-07,Premium,Email
+C000936,Customer 0936,Dubai,2023-03-30,New,Organic
+C000937,Customer 0937,Al Ain,2025-03-05,New,Referral
+C000938,Customer 0938,Dubai,2025-11-12,Regular,Paid Search
+C000939,Customer 0939,Fujairah,2025-04-06,Regular,Paid Search
+C000940,Customer 0940,Dubai,2023-10-04,Regular,Paid Search
+C000941,Customer 0941,Dubai,2024-01-05,Premium,Referral
+C000942,Customer 0942,Ras Al Khaimah,2023-10-15,New,Organic
+C000943,Customer 0943,Dubai,2025-03-04,Regular,Paid Search
+C000944,Customer 0944,Abu Dhabi,2024-03-17,New,Social Media
+C000945,Customer 0945,Abu Dhabi,2023-11-15,Regular,Organic
+C000946,Customer 0946,Dubai,2023-08-21,Regular,Referral
+C000947,Customer 0947,Sharjah,2023-07-02,New,Email
+C000948,Customer 0948,Ras Al Khaimah,2024-03-17,Regular,Organic
+C000949,Customer 0949,Ras Al Khaimah,2024-10-02,Regular,Organic
+C000950,Customer 0950,Dubai,2023-09-24,New,Email
+C000951,Customer 0951,Abu Dhabi,2025-03-23,Premium,Organic
+C000952,Customer 0952,Dubai,2025-04-22,Regular,Organic
+C000953,Customer 0953,Dubai,2023-09-19,New,Email
+C000954,Customer 0954,Dubai,2025-08-20,Regular,Email
+C000955,Customer 0955,Al Ain,2022-09-10,New,Social Media
+C000956,Customer 0956,Fujairah,2025-09-22,New,Social Media
+C000957,Customer 0957,Ajman,2023-03-06,Regular,Email
+C000958,Customer 0958,Abu Dhabi,2024-04-03,New,Social Media
+C000959,Customer 0959,Abu Dhabi,2023-02-19,New,Social Media
+C000960,Customer 0960,Abu Dhabi,2023-10-08,Regular,Referral
+C000961,Customer 0961,Abu Dhabi,2023-05-12,New,Social Media
+C000962,Customer 0962,Abu Dhabi,2024-10-26,Regular,Paid Search
+C000963,Customer 0963,Dubai,2022-04-29,Regular,Paid Search
+C000964,Customer 0964,Dubai,2025-05-08,New,Paid Search
+C000965,Customer 0965,Al Ain,2025-08-12,Regular,Paid Search
+C000966,Customer 0966,Abu Dhabi,2024-04-01,New,Paid Search
+C000967,Customer 0967,Al Ain,2024-03-10,Regular,Paid Search
+C000968,Customer 0968,Dubai,2022-10-18,New,Referral
+C000969,Customer 0969,Sharjah,2024-12-30,Premium,Paid Search
+C000970,Customer 0970,Dubai,2022-11-16,New,Organic
+C000971,Customer 0971,Dubai,2024-09-14,Regular,Paid Search
+C000972,Customer 0972,Dubai,2023-03-23,New,Organic
+C000973,Customer 0973,Dubai,2024-12-25,New,Referral
+C000974,Customer 0974,Fujairah,2025-02-28,Regular,Paid Search
+C000975,Customer 0975,Dubai,2022-11-01,Regular,Paid Search
+C000976,Customer 0976,Sharjah,2024-06-20,Premium,Referral
+C000977,Customer 0977,Abu Dhabi,2023-12-29,New,Organic
+C000978,Customer 0978,Abu Dhabi,2023-03-06,New,Organic
+C000979,Customer 0979,Abu Dhabi,2024-05-08,New,Referral
+C000980,Customer 0980,Dubai,2025-12-20,New,Social Media
+C000981,Customer 0981,Al Ain,2022-01-04,Premium,Referral
+C000982,Customer 0982,Ajman,2025-10-29,Premium,Referral
+C000983,Customer 0983,Ajman,2025-06-03,Premium,Email
+C000984,Customer 0984,Abu Dhabi,2024-02-12,New,Organic
+C000985,Customer 0985,Dubai,2024-06-09,Regular,Referral
+C000986,Customer 0986,Al Ain,2023-06-24,Regular,Social Media
+C000987,Customer 0987,Abu Dhabi,2022-07-08,New,Organic
+C000988,Customer 0988,Dubai,2024-04-14,Regular,Email
+C000989,Customer 0989,Abu Dhabi,2025-04-06,New,Paid Search
+C000990,Customer 0990,Ajman,2022-12-04,New,Email
+C000991,Customer 0991,Sharjah,2024-11-12,Premium,Social Media
+C000992,Customer 0992,Ajman,2024-12-28,New,Paid Search
+C000993,Customer 0993,Ajman,2025-01-12,Premium,Organic
+C000994,Customer 0994,Dubai,2023-05-12,New,Email
+C000995,Customer 0995,Al Ain,2023-07-27,New,Social Media
+C000996,Customer 0996,Abu Dhabi,2023-08-31,New,Organic
+C000997,Customer 0997,Sharjah,2025-06-01,New,Organic
+C000998,Customer 0998,Dubai,2025-08-07,Regular,Referral
+C000999,Customer 0999,Al Ain,2023-08-28,New,Organic
+C001000,Customer 1000,Dubai,2025-11-17,Regular,Social Media
+C001001,Customer 1001,Dubai,2024-04-12,Premium,Social Media
+C001002,Customer 1002,Abu Dhabi,2023-07-17,New,Organic
+C001003,Customer 1003,Dubai,2022-01-01,New,Social Media
+C001004,Customer 1004,Dubai,2024-06-11,Regular,Organic
+C001005,Customer 1005,Sharjah,2024-07-30,Regular,Email
+C001006,Customer 1006,Abu Dhabi,2025-11-14,Regular,Referral
+C001007,Customer 1007,Al Ain,2024-11-14,New,Paid Search
+C001008,Customer 1008,Dubai,2022-02-13,Regular,Paid Search
+C001009,Customer 1009,Ajman,2024-04-07,Regular,Paid Search
+C001010,Customer 1010,Abu Dhabi,2024-12-20,New,Email
+C001011,Customer 1011,Sharjah,2023-12-26,New,Paid Search
+C001012,Customer 1012,Sharjah,2023-09-19,Premium,Social Media
+C001013,Customer 1013,Abu Dhabi,2025-03-28,New,Email
+C001014,Customer 1014,Al Ain,2024-06-11,New,Organic
+C001015,Customer 1015,Abu Dhabi,2024-09-21,New,Social Media
+C001016,Customer 1016,Dubai,2023-11-09,Regular,Organic
+C001017,Customer 1017,Sharjah,2023-02-10,Regular,Social Media
+C001018,Customer 1018,Ras Al Khaimah,2024-01-28,New,Paid Search
+C001019,Customer 1019,Dubai,2025-11-01,Regular,Email
+C001020,Customer 1020,Abu Dhabi,2024-05-29,Regular,Paid Search
+C001021,Customer 1021,Fujairah,2024-10-29,New,Organic
+C001022,Customer 1022,Ajman,2022-07-01,Premium,Referral
+C001023,Customer 1023,Al Ain,2025-12-13,New,Referral
+C001024,Customer 1024,Abu Dhabi,2022-12-24,New,Social Media
+C001025,Customer 1025,Sharjah,2025-11-19,Premium,Referral
+C001026,Customer 1026,Dubai,2023-10-13,Regular,Organic
+C001027,Customer 1027,Al Ain,2025-09-03,New,Social Media
+C001028,Customer 1028,Abu Dhabi,2025-07-26,Regular,Organic
+C001029,Customer 1029,Ajman,2025-01-07,Regular,Organic
+C001030,Customer 1030,Abu Dhabi,2025-08-30,New,Email
+C001031,Customer 1031,Sharjah,2024-06-08,Regular,Referral
+C001032,Customer 1032,Sharjah,2025-05-24,Regular,Organic
+C001033,Customer 1033,Abu Dhabi,2022-09-09,New,Organic
+C001034,Customer 1034,Fujairah,2022-04-13,Regular,Email
+C001035,Customer 1035,Abu Dhabi,2024-03-04,New,Organic
+C001036,Customer 1036,Sharjah,2025-03-28,New,Organic
+C001037,Customer 1037,Abu Dhabi,2025-01-22,Premium,Organic
+C001038,Customer 1038,Abu Dhabi,2024-02-10,Regular,Organic
+C001039,Customer 1039,Abu Dhabi,2024-01-31,Regular,Paid Search
+C001040,Customer 1040,Dubai,2024-06-09,Regular,Email
+C001041,Customer 1041,Dubai,2025-06-21,Regular,Paid Search
+C001042,Customer 1042,Sharjah,2025-05-14,New,Paid Search
+C001043,Customer 1043,Sharjah,2022-06-10,Premium,Referral
+C001044,Customer 1044,Sharjah,2024-05-19,Regular,Social Media
+C001045,Customer 1045,Dubai,2023-07-11,Regular,Referral
+C001046,Customer 1046,Dubai,2025-03-13,Regular,Social Media
+C001047,Customer 1047,Dubai,2024-01-09,New,Social Media
+C001048,Customer 1048,Ajman,2025-12-18,New,Social Media
+C001049,Customer 1049,Ras Al Khaimah,2023-09-24,New,Referral
+C001050,Customer 1050,Dubai,2024-09-18,New,Social Media
+C001051,Customer 1051,Sharjah,2022-06-08,Regular,Referral
+C001052,Customer 1052,Dubai,2025-09-23,Premium,Organic
+C001053,Customer 1053,Dubai,2022-08-13,New,Social Media
+C001054,Customer 1054,Dubai,2023-07-07,New,Referral
+C001055,Customer 1055,Dubai,2025-05-07,Regular,Paid Search
+C001056,Customer 1056,Sharjah,2025-11-13,New,Referral
+C001057,Customer 1057,Fujairah,2023-12-09,Premium,Paid Search
+C001058,Customer 1058,Dubai,2023-12-09,New,Organic
+C001059,Customer 1059,Sharjah,2022-03-13,New,Referral
+C001060,Customer 1060,Sharjah,2025-11-30,New,Organic
+C001061,Customer 1061,Al Ain,2022-01-25,Premium,Paid Search
+C001062,Customer 1062,Sharjah,2022-02-08,New,Paid Search
+C001063,Customer 1063,Dubai,2023-11-23,Regular,Email
+C001064,Customer 1064,Sharjah,2022-01-06,New,Paid Search
+C001065,Customer 1065,Dubai,2022-08-28,New,Social Media
+C001066,Customer 1066,Al Ain,2024-07-05,Premium,Referral
+C001067,Customer 1067,Abu Dhabi,2024-10-26,New,Social Media
+C001068,Customer 1068,Sharjah,2023-03-12,New,Email
+C001069,Customer 1069,Dubai,2025-03-07,Regular,Referral
+C001070,Customer 1070,Abu Dhabi,2024-06-06,Premium,Paid Search
+C001071,Customer 1071,Ras Al Khaimah,2022-11-30,New,Email
+C001072,Customer 1072,Sharjah,2024-11-06,New,Paid Search
+C001073,Customer 1073,Abu Dhabi,2024-05-14,Premium,Organic
+C001074,Customer 1074,Al Ain,2025-03-31,Regular,Organic
+C001075,Customer 1075,Ras Al Khaimah,2022-08-14,Premium,Social Media
+C001076,Customer 1076,Dubai,2022-12-04,Regular,Organic
+C001077,Customer 1077,Sharjah,2023-03-20,Regular,Social Media
+C001078,Customer 1078,Abu Dhabi,2023-05-14,Regular,Paid Search
+C001079,Customer 1079,Sharjah,2025-07-21,New,Social Media
+C001080,Customer 1080,Dubai,2024-12-05,Regular,Organic
+C001081,Customer 1081,Dubai,2024-03-05,Regular,Referral
+C001082,Customer 1082,Fujairah,2024-02-29,Premium,Paid Search
+C001083,Customer 1083,Al Ain,2025-07-17,Regular,Organic
+C001084,Customer 1084,Ras Al Khaimah,2023-10-15,New,Paid Search
+C001085,Customer 1085,Al Ain,2022-11-25,Regular,Paid Search
+C001086,Customer 1086,Ajman,2023-04-27,Regular,Social Media
+C001087,Customer 1087,Ajman,2024-08-11,Regular,Paid Search
+C001088,Customer 1088,Ajman,2023-11-19,Regular,Organic
+C001089,Customer 1089,Abu Dhabi,2023-09-08,Regular,Referral
+C001090,Customer 1090,Abu Dhabi,2023-12-02,New,Paid Search
+C001091,Customer 1091,Dubai,2025-11-24,Regular,Organic
+C001092,Customer 1092,Sharjah,2025-12-27,Regular,Referral
+C001093,Customer 1093,Dubai,2022-08-24,Premium,Social Media
+C001094,Customer 1094,Dubai,2022-06-17,Regular,Social Media
+C001095,Customer 1095,Sharjah,2022-12-23,Regular,Paid Search
+C001096,Customer 1096,Abu Dhabi,2025-05-28,Regular,Paid Search
+C001097,Customer 1097,Dubai,2023-11-02,Regular,Social Media
+C001098,Customer 1098,Ajman,2025-06-14,New,Organic
+C001099,Customer 1099,Ras Al Khaimah,2024-08-02,Premium,Paid Search
+C001100,Customer 1100,Dubai,2024-03-18,Premium,Email
+C001101,Customer 1101,Dubai,2023-02-16,Regular,Social Media
+C001102,Customer 1102,Dubai,2023-05-18,Regular,Paid Search
+C001103,Customer 1103,Ajman,2022-08-04,New,Organic
+C001104,Customer 1104,Ras Al Khaimah,2024-01-29,Regular,Referral
+C001105,Customer 1105,Dubai,2023-02-14,Regular,Organic
+C001106,Customer 1106,Ajman,2023-03-04,Regular,Organic
+C001107,Customer 1107,Dubai,2022-02-27,New,Organic
+C001108,Customer 1108,Abu Dhabi,2025-03-12,Regular,Social Media
+C001109,Customer 1109,Al Ain,2025-10-03,New,Social Media
+C001110,Customer 1110,Dubai,2023-12-29,Regular,Organic
+C001111,Customer 1111,Dubai,2024-02-22,Regular,Organic
+C001112,Customer 1112,Abu Dhabi,2025-09-13,New,Social Media
+C001113,Customer 1113,Sharjah,2024-01-17,Regular,Social Media
+C001114,Customer 1114,Al Ain,2024-06-28,Regular,Social Media
+C001115,Customer 1115,Al Ain,2023-09-18,Regular,Organic
+C001116,Customer 1116,Dubai,2024-01-21,New,Social Media
+C001117,Customer 1117,Dubai,2024-02-01,Regular,Email
+C001118,Customer 1118,Ajman,2024-11-04,New,Social Media
+C001119,Customer 1119,Dubai,2024-06-01,Regular,Organic
+C001120,Customer 1120,Fujairah,2024-01-06,Regular,Social Media
+C001121,Customer 1121,Sharjah,2022-04-21,New,Paid Search
+C001122,Customer 1122,Dubai,2025-08-13,Regular,Organic
+C001123,Customer 1123,Ras Al Khaimah,2025-07-20,Regular,Paid Search
+C001124,Customer 1124,Dubai,2022-09-27,Regular,Email
+C001125,Customer 1125,Abu Dhabi,2023-03-05,New,Paid Search
+C001126,Customer 1126,Sharjah,2025-11-22,New,Referral
+C001127,Customer 1127,Abu Dhabi,2023-04-14,Regular,Paid Search
+C001128,Customer 1128,Sharjah,2025-03-31,New,Paid Search
+C001129,Customer 1129,Sharjah,2025-02-21,Regular,Organic
+C001130,Customer 1130,Al Ain,2025-06-10,New,Social Media
+C001131,Customer 1131,Al Ain,2022-01-24,New,Organic
+C001132,Customer 1132,Abu Dhabi,2023-12-07,Regular,Paid Search
+C001133,Customer 1133,Dubai,2024-04-05,New,Organic
+C001134,Customer 1134,Ajman,2025-05-07,Regular,Paid Search
+C001135,Customer 1135,Al Ain,2022-11-24,New,Social Media
+C001136,Customer 1136,Dubai,2023-03-24,Regular,Organic
+C001137,Customer 1137,Abu Dhabi,2022-09-20,Regular,Paid Search
+C001138,Customer 1138,Abu Dhabi,2025-01-17,Regular,Email
+C001139,Customer 1139,Dubai,2025-12-29,Regular,Organic
+C001140,Customer 1140,Sharjah,2022-07-25,New,Paid Search
+C001141,Customer 1141,Abu Dhabi,2022-12-07,Regular,Paid Search
+C001142,Customer 1142,Ajman,2023-03-25,New,Paid Search
+C001143,Customer 1143,Ras Al Khaimah,2025-07-21,Regular,Social Media
+C001144,Customer 1144,Ras Al Khaimah,2023-10-13,New,Organic
+C001145,Customer 1145,Abu Dhabi,2023-02-16,Regular,Paid Search
+C001146,Customer 1146,Dubai,2023-04-16,New,Social Media
+C001147,Customer 1147,Ajman,2024-05-23,Premium,Paid Search
+C001148,Customer 1148,Ajman,2023-07-20,Regular,Email
+C001149,Customer 1149,Abu Dhabi,2022-07-24,Regular,Email
+C001150,Customer 1150,Fujairah,2025-04-12,New,Organic
+C001151,Customer 1151,Dubai,2023-09-09,New,Paid Search
+C001152,Customer 1152,Ras Al Khaimah,2023-01-10,New,Organic
+C001153,Customer 1153,Dubai,2024-11-29,Premium,Organic
+C001154,Customer 1154,Dubai,2024-12-24,Regular,Paid Search
+C001155,Customer 1155,Abu Dhabi,2022-08-15,New,Social Media
+C001156,Customer 1156,Dubai,2022-04-18,Regular,Paid Search
+C001157,Customer 1157,Dubai,2022-03-08,Regular,Organic
+C001158,Customer 1158,Dubai,2025-01-22,New,Organic
+C001159,Customer 1159,Abu Dhabi,2024-07-02,Regular,Email
+C001160,Customer 1160,Ajman,2025-03-02,New,Email
+C001161,Customer 1161,Dubai,2024-07-03,New,Organic
+C001162,Customer 1162,Sharjah,2023-08-10,Regular,Social Media
+C001163,Customer 1163,Ras Al Khaimah,2024-05-10,New,Paid Search
+C001164,Customer 1164,Dubai,2024-11-20,Premium,Social Media
+C001165,Customer 1165,Dubai,2023-08-06,Regular,Social Media
+C001166,Customer 1166,Ras Al Khaimah,2025-08-29,Regular,Email
+C001167,Customer 1167,Ras Al Khaimah,2025-08-06,Regular,Organic
+C001168,Customer 1168,Abu Dhabi,2025-03-15,Premium,Paid Search
+C001169,Customer 1169,Ajman,2025-12-19,New,Email
+C001170,Customer 1170,Dubai,2023-07-25,Regular,Organic
+C001171,Customer 1171,Abu Dhabi,2022-06-16,Regular,Organic
+C001172,Customer 1172,Ajman,2023-12-08,Premium,Social Media
+C001173,Customer 1173,Dubai,2024-12-24,New,Referral
+C001174,Customer 1174,Ajman,2025-02-11,Regular,Social Media
+C001175,Customer 1175,Abu Dhabi,2023-07-22,Regular,Referral
+C001176,Customer 1176,Ajman,2023-03-04,New,Social Media
+C001177,Customer 1177,Abu Dhabi,2023-10-13,Premium,Organic
+C001178,Customer 1178,Abu Dhabi,2025-03-19,New,Social Media
+C001179,Customer 1179,Dubai,2022-03-30,New,Referral
+C001180,Customer 1180,Dubai,2023-04-24,Regular,Referral
+C001181,Customer 1181,Ajman,2022-12-02,Regular,Organic
+C001182,Customer 1182,Dubai,2025-03-22,New,Organic
+C001183,Customer 1183,Dubai,2023-11-17,New,Referral
+C001184,Customer 1184,Dubai,2022-05-07,New,Organic
+C001185,Customer 1185,Dubai,2023-01-18,Regular,Organic
+C001186,Customer 1186,Ras Al Khaimah,2022-03-06,Premium,Referral
+C001187,Customer 1187,Abu Dhabi,2023-11-26,Regular,Paid Search
+C001188,Customer 1188,Al Ain,2025-12-27,New,Paid Search
+C001189,Customer 1189,Dubai,2024-04-08,Regular,Organic
+C001190,Customer 1190,Sharjah,2025-06-23,Premium,Organic
+C001191,Customer 1191,Abu Dhabi,2024-12-20,Regular,Referral
+C001192,Customer 1192,Abu Dhabi,2025-07-12,New,Paid Search
+C001193,Customer 1193,Ras Al Khaimah,2023-03-31,New,Organic
+C001194,Customer 1194,Al Ain,2025-10-20,Premium,Paid Search
+C001195,Customer 1195,Ras Al Khaimah,2022-12-15,Premium,Organic
+C001196,Customer 1196,Dubai,2023-10-02,New,Organic
+C001197,Customer 1197,Dubai,2024-09-21,Regular,Organic
+C001198,Customer 1198,Sharjah,2023-02-23,New,Social Media
+C001199,Customer 1199,Dubai,2023-01-22,New,Organic
+C001200,Customer 1200,Ajman,2022-07-09,Regular,Paid Search
+C001201,Customer 1201,Sharjah,2022-01-07,Regular,Paid Search
+C001202,Customer 1202,Sharjah,2024-01-02,Regular,Paid Search
+C001203,Customer 1203,Ras Al Khaimah,2025-12-11,Premium,Organic
+C001204,Customer 1204,Sharjah,2022-11-18,Regular,Organic
+C001205,Customer 1205,Dubai,2023-10-05,New,Organic
+C001206,Customer 1206,Dubai,2025-09-27,Regular,Paid Search
+C001207,Customer 1207,Sharjah,2025-02-01,Regular,Social Media
+C001208,Customer 1208,Abu Dhabi,2022-01-06,Regular,Organic
+C001209,Customer 1209,Dubai,2024-01-01,Premium,Referral
+C001210,Customer 1210,Abu Dhabi,2022-07-29,Regular,Social Media
+C001211,Customer 1211,Ajman,2022-12-27,New,Organic
+C001212,Customer 1212,Ras Al Khaimah,2022-12-26,New,Organic
+C001213,Customer 1213,Sharjah,2024-06-13,Regular,Organic
+C001214,Customer 1214,Abu Dhabi,2022-10-18,Premium,Organic
+C001215,Customer 1215,Dubai,2023-01-03,New,Social Media
+C001216,Customer 1216,Abu Dhabi,2022-11-26,New,Organic
+C001217,Customer 1217,Dubai,2023-06-06,Regular,Referral
+C001218,Customer 1218,Sharjah,2024-08-15,New,Paid Search
+C001219,Customer 1219,Sharjah,2023-04-24,New,Social Media
+C001220,Customer 1220,Dubai,2024-01-26,Premium,Referral
+C001221,Customer 1221,Dubai,2024-06-16,Regular,Paid Search
+C001222,Customer 1222,Dubai,2022-01-23,Premium,Email
+C001223,Customer 1223,Fujairah,2025-07-23,Regular,Email
+C001224,Customer 1224,Sharjah,2025-08-30,New,Paid Search
+C001225,Customer 1225,Dubai,2024-05-29,Premium,Organic
+C001226,Customer 1226,Fujairah,2024-04-18,New,Paid Search
+C001227,Customer 1227,Abu Dhabi,2024-10-11,New,Organic
+C001228,Customer 1228,Abu Dhabi,2023-10-06,Premium,Social Media
+C001229,Customer 1229,Al Ain,2023-06-18,Regular,Paid Search
+C001230,Customer 1230,Dubai,2023-05-30,Premium,Paid Search
+C001231,Customer 1231,Dubai,2022-08-22,New,Referral
+C001232,Customer 1232,Sharjah,2025-05-13,Premium,Organic
+C001233,Customer 1233,Dubai,2023-04-14,Regular,Social Media
+C001234,Customer 1234,Sharjah,2023-02-20,Regular,Paid Search
+C001235,Customer 1235,Dubai,2025-11-08,Premium,Referral
+C001236,Customer 1236,Dubai,2024-01-10,Regular,Social Media
+C001237,Customer 1237,Dubai,2024-06-26,Regular,Organic
+C001238,Customer 1238,Abu Dhabi,2022-12-25,Regular,Social Media
+C001239,Customer 1239,Dubai,2023-02-10,Regular,Organic
+C001240,Customer 1240,Dubai,2024-11-29,Premium,Social Media
+C001241,Customer 1241,Ras Al Khaimah,2023-10-21,Regular,Social Media
+C001242,Customer 1242,Dubai,2022-08-04,New,Paid Search
+C001243,Customer 1243,Abu Dhabi,2025-05-04,New,Social Media
+C001244,Customer 1244,Dubai,2023-08-12,Premium,Referral
+C001245,Customer 1245,Abu Dhabi,2024-09-02,Premium,Referral
+C001246,Customer 1246,Dubai,2023-05-14,Premium,Social Media
+C001247,Customer 1247,Sharjah,2024-03-29,New,Social Media
+C001248,Customer 1248,Dubai,2025-02-06,Regular,Paid Search
+C001249,Customer 1249,Fujairah,2025-07-16,Regular,Referral
+C001250,Customer 1250,Al Ain,2022-10-30,Regular,Referral
+C001251,Customer 1251,Dubai,2024-09-08,New,Organic
+C001252,Customer 1252,Dubai,2025-08-28,Regular,Organic
+C001253,Customer 1253,Dubai,2024-07-27,New,Organic
+C001254,Customer 1254,Sharjah,2022-07-28,Regular,Organic
+C001255,Customer 1255,Dubai,2022-10-05,New,Paid Search
+C001256,Customer 1256,Ras Al Khaimah,2022-10-24,New,Organic
+C001257,Customer 1257,Ajman,2022-06-05,New,Social Media
+C001258,Customer 1258,Ajman,2025-01-05,Premium,Organic
+C001259,Customer 1259,Abu Dhabi,2025-11-10,Regular,Organic
+C001260,Customer 1260,Al Ain,2024-01-25,Premium,Social Media
+C001261,Customer 1261,Dubai,2024-05-24,Regular,Paid Search
+C001262,Customer 1262,Abu Dhabi,2025-02-03,Regular,Paid Search
+C001263,Customer 1263,Dubai,2023-08-30,New,Referral
+C001264,Customer 1264,Al Ain,2023-11-21,Regular,Email
+C001265,Customer 1265,Sharjah,2024-05-09,New,Social Media
+C001266,Customer 1266,Ajman,2023-03-21,Regular,Organic
+C001267,Customer 1267,Dubai,2022-04-01,Regular,Organic
+C001268,Customer 1268,Al Ain,2024-04-08,Premium,Email
+C001269,Customer 1269,Abu Dhabi,2025-04-15,New,Social Media
+C001270,Customer 1270,Abu Dhabi,2022-04-17,Regular,Referral
+C001271,Customer 1271,Al Ain,2022-11-13,New,Social Media
+C001272,Customer 1272,Abu Dhabi,2023-01-19,New,Organic
+C001273,Customer 1273,Abu Dhabi,2025-03-20,Regular,Paid Search
+C001274,Customer 1274,Sharjah,2024-01-07,Regular,Referral
+C001275,Customer 1275,Dubai,2024-02-20,Regular,Referral
+C001276,Customer 1276,Dubai,2024-07-31,New,Organic
+C001277,Customer 1277,Dubai,2023-02-08,Premium,Social Media
+C001278,Customer 1278,Dubai,2024-11-07,Premium,Organic
+C001279,Customer 1279,Ras Al Khaimah,2022-02-14,Regular,Email
+C001280,Customer 1280,Sharjah,2022-06-16,Premium,Organic
+C001281,Customer 1281,Abu Dhabi,2025-04-06,New,Social Media
+C001282,Customer 1282,Abu Dhabi,2024-08-18,Regular,Organic
+C001283,Customer 1283,Abu Dhabi,2022-09-15,Premium,Social Media
+C001284,Customer 1284,Sharjah,2023-10-03,Regular,Social Media
+C001285,Customer 1285,Al Ain,2022-03-17,Regular,Paid Search
+C001286,Customer 1286,Al Ain,2024-09-07,Regular,Referral
+C001287,Customer 1287,Abu Dhabi,2025-01-08,Regular,Email
+C001288,Customer 1288,Dubai,2023-02-11,Regular,Referral
+C001289,Customer 1289,Abu Dhabi,2023-05-27,New,Paid Search
+C001290,Customer 1290,Sharjah,2022-12-12,New,Referral
+C001291,Customer 1291,Abu Dhabi,2023-07-23,Regular,Social Media
+C001292,Customer 1292,Sharjah,2023-02-02,Regular,Social Media
+C001293,Customer 1293,Sharjah,2022-12-27,Regular,Paid Search
+C001294,Customer 1294,Dubai,2023-09-21,Premium,Social Media
+C001295,Customer 1295,Abu Dhabi,2025-06-08,Regular,Organic
+C001296,Customer 1296,Abu Dhabi,2025-01-18,Regular,Paid Search
+C001297,Customer 1297,Dubai,2023-03-11,Regular,Organic
+C001298,Customer 1298,Dubai,2025-10-08,Regular,Paid Search
+C001299,Customer 1299,Ajman,2022-11-03,Regular,Organic
+C001300,Customer 1300,Abu Dhabi,2025-08-22,Regular,Organic
+C001301,Customer 1301,Dubai,2023-03-28,Regular,Referral
+C001302,Customer 1302,Sharjah,2024-02-28,Regular,Social Media
+C001303,Customer 1303,Ajman,2022-10-24,Regular,Organic
+C001304,Customer 1304,Dubai,2025-01-17,Regular,Referral
+C001305,Customer 1305,Ras Al Khaimah,2023-04-09,New,Email
+C001306,Customer 1306,Al Ain,2025-06-27,Regular,Email
+C001307,Customer 1307,Sharjah,2022-05-02,Regular,Referral
+C001308,Customer 1308,Sharjah,2024-01-03,New,Email
+C001309,Customer 1309,Dubai,2022-08-20,Regular,Social Media
+C001310,Customer 1310,Al Ain,2025-07-21,Regular,Email
+C001311,Customer 1311,Abu Dhabi,2023-09-01,Regular,Email
+C001312,Customer 1312,Al Ain,2024-09-11,Regular,Paid Search
+C001313,Customer 1313,Sharjah,2025-07-08,New,Referral
+C001314,Customer 1314,Dubai,2024-02-22,New,Referral
+C001315,Customer 1315,Dubai,2022-03-25,New,Referral
+C001316,Customer 1316,Sharjah,2022-11-19,Regular,Email
+C001317,Customer 1317,Sharjah,2022-11-07,Regular,Paid Search
+C001318,Customer 1318,Dubai,2025-08-27,Regular,Paid Search
+C001319,Customer 1319,Ajman,2025-08-19,Regular,Social Media
+C001320,Customer 1320,Ras Al Khaimah,2023-11-28,New,Referral
+C001321,Customer 1321,Abu Dhabi,2025-07-23,New,Referral
+C001322,Customer 1322,Abu Dhabi,2022-12-26,New,Referral
+C001323,Customer 1323,Dubai,2024-09-18,Regular,Social Media
+C001324,Customer 1324,Ajman,2023-07-27,New,Email
+C001325,Customer 1325,Dubai,2022-12-18,Regular,Organic
+C001326,Customer 1326,Ras Al Khaimah,2023-01-01,Regular,Email
+C001327,Customer 1327,Abu Dhabi,2023-09-05,Regular,Organic
+C001328,Customer 1328,Sharjah,2023-05-11,New,Social Media
+C001329,Customer 1329,Dubai,2022-11-05,New,Organic
+C001330,Customer 1330,Dubai,2023-05-03,Regular,Social Media
+C001331,Customer 1331,Ajman,2022-07-07,Regular,Paid Search
+C001332,Customer 1332,Abu Dhabi,2025-11-16,New,Organic
+C001333,Customer 1333,Abu Dhabi,2023-07-09,Premium,Social Media
+C001334,Customer 1334,Al Ain,2022-06-06,Regular,Referral
+C001335,Customer 1335,Al Ain,2024-04-20,Regular,Organic
+C001336,Customer 1336,Ras Al Khaimah,2025-07-13,New,Social Media
+C001337,Customer 1337,Dubai,2023-06-10,New,Organic
+C001338,Customer 1338,Sharjah,2025-05-19,New,Organic
+C001339,Customer 1339,Ras Al Khaimah,2024-06-10,New,Organic
+C001340,Customer 1340,Abu Dhabi,2024-12-15,Regular,Social Media
+C001341,Customer 1341,Dubai,2023-03-09,Regular,Referral
+C001342,Customer 1342,Ajman,2022-02-23,Premium,Social Media
+C001343,Customer 1343,Abu Dhabi,2023-05-20,Premium,Referral
+C001344,Customer 1344,Sharjah,2025-09-11,New,Social Media
+C001345,Customer 1345,Al Ain,2025-02-28,New,Referral
+C001346,Customer 1346,Sharjah,2025-02-18,Regular,Email
+C001347,Customer 1347,Abu Dhabi,2025-07-06,Premium,Paid Search
+C001348,Customer 1348,Abu Dhabi,2023-06-29,Premium,Organic
+C001349,Customer 1349,Abu Dhabi,2023-04-16,New,Organic
+C001350,Customer 1350,Dubai,2025-09-12,New,Social Media
+C001351,Customer 1351,Ajman,2024-04-14,New,Social Media
+C001352,Customer 1352,Ras Al Khaimah,2023-03-12,Regular,Organic
+C001353,Customer 1353,Dubai,2023-02-11,Regular,Email
+C001354,Customer 1354,Dubai,2025-07-04,Regular,Email
+C001355,Customer 1355,Ras Al Khaimah,2022-03-19,Regular,Organic
+C001356,Customer 1356,Dubai,2022-04-01,New,Organic
+C001357,Customer 1357,Abu Dhabi,2024-12-13,Regular,Organic
+C001358,Customer 1358,Abu Dhabi,2022-01-02,New,Paid Search
+C001359,Customer 1359,Sharjah,2022-09-07,Regular,Referral
+C001360,Customer 1360,Dubai,2025-12-17,Regular,Social Media
+C001361,Customer 1361,Sharjah,2023-09-14,Regular,Organic
+C001362,Customer 1362,Abu Dhabi,2024-11-28,New,Paid Search
+C001363,Customer 1363,Sharjah,2023-12-13,Regular,Organic
+C001364,Customer 1364,Dubai,2022-05-13,Regular,Paid Search
+C001365,Customer 1365,Abu Dhabi,2022-09-27,New,Paid Search
+C001366,Customer 1366,Abu Dhabi,2025-01-16,New,Social Media
+C001367,Customer 1367,Dubai,2022-05-19,Regular,Social Media
+C001368,Customer 1368,Dubai,2024-05-18,New,Referral
+C001369,Customer 1369,Dubai,2023-05-24,New,Organic
+C001370,Customer 1370,Abu Dhabi,2023-06-25,New,Referral
+C001371,Customer 1371,Dubai,2025-10-22,New,Organic
+C001372,Customer 1372,Al Ain,2024-06-03,Regular,Paid Search
+C001373,Customer 1373,Abu Dhabi,2024-06-17,Regular,Referral
+C001374,Customer 1374,Ajman,2023-05-27,New,Social Media
+C001375,Customer 1375,Al Ain,2023-07-11,Regular,Organic
+C001376,Customer 1376,Dubai,2024-09-28,New,Paid Search
+C001377,Customer 1377,Sharjah,2022-02-26,New,Social Media
+C001378,Customer 1378,Ras Al Khaimah,2022-12-13,New,Email
+C001379,Customer 1379,Sharjah,2024-05-26,Regular,Social Media
+C001380,Customer 1380,Abu Dhabi,2024-06-29,Premium,Organic
+C001381,Customer 1381,Abu Dhabi,2022-05-15,Regular,Paid Search
+C001382,Customer 1382,Dubai,2025-02-24,New,Organic
+C001383,Customer 1383,Abu Dhabi,2024-03-03,New,Organic
+C001384,Customer 1384,Al Ain,2022-12-14,New,Social Media
+C001385,Customer 1385,Al Ain,2025-01-02,Regular,Referral
+C001386,Customer 1386,Dubai,2025-12-17,New,Organic
+C001387,Customer 1387,Sharjah,2023-09-11,Premium,Referral
+C001388,Customer 1388,Dubai,2023-02-18,Regular,Social Media
+C001389,Customer 1389,Fujairah,2023-03-14,Regular,Referral
+C001390,Customer 1390,Dubai,2024-05-15,Regular,Organic
+C001391,Customer 1391,Al Ain,2022-03-11,New,Paid Search
+C001392,Customer 1392,Ras Al Khaimah,2023-12-07,Regular,Organic
+C001393,Customer 1393,Dubai,2022-02-06,New,Organic
+C001394,Customer 1394,Dubai,2022-02-26,Regular,Paid Search
+C001395,Customer 1395,Ras Al Khaimah,2023-09-20,Regular,Paid Search
+C001396,Customer 1396,Dubai,2024-12-24,New,Organic
+C001397,Customer 1397,Abu Dhabi,2025-07-13,Regular,Organic
+C001398,Customer 1398,Fujairah,2022-05-08,New,Email
+C001399,Customer 1399,Sharjah,2022-12-23,New,Referral
+C001400,Customer 1400,Abu Dhabi,2023-09-08,Regular,Paid Search
+C001401,Customer 1401,Abu Dhabi,2024-04-18,Regular,Email
+C001402,Customer 1402,Dubai,2025-12-12,Premium,Organic
+C001403,Customer 1403,Al Ain,2024-09-26,Regular,Paid Search
+C001404,Customer 1404,Dubai,2024-02-26,Regular,Referral
+C001405,Customer 1405,Dubai,2022-03-30,New,Paid Search
+C001406,Customer 1406,Dubai,2022-04-28,New,Organic
+C001407,Customer 1407,Al Ain,2022-08-12,Premium,Paid Search
+C001408,Customer 1408,Dubai,2024-08-22,New,Paid Search
+C001409,Customer 1409,Ras Al Khaimah,2023-04-29,Regular,Social Media
+C001410,Customer 1410,Sharjah,2022-12-18,New,Paid Search
+C001411,Customer 1411,Ras Al Khaimah,2024-09-05,New,Paid Search
+C001412,Customer 1412,Al Ain,2025-04-05,Regular,Organic
+C001413,Customer 1413,Ras Al Khaimah,2023-10-03,Regular,Social Media
+C001414,Customer 1414,Al Ain,2025-07-11,Regular,Organic
+C001415,Customer 1415,Dubai,2024-12-07,Premium,Referral
+C001416,Customer 1416,Ajman,2024-11-11,New,Referral
+C001417,Customer 1417,Sharjah,2025-06-20,Regular,Paid Search
+C001418,Customer 1418,Sharjah,2022-09-26,New,Referral
+C001419,Customer 1419,Fujairah,2025-01-12,Regular,Organic
+C001420,Customer 1420,Al Ain,2025-10-30,New,Paid Search
+C001421,Customer 1421,Sharjah,2025-12-19,Regular,Paid Search
+C001422,Customer 1422,Abu Dhabi,2024-04-23,New,Paid Search
+C001423,Customer 1423,Abu Dhabi,2025-01-06,Regular,Referral
+C001424,Customer 1424,Abu Dhabi,2025-07-21,Regular,Email
+C001425,Customer 1425,Abu Dhabi,2025-05-29,Premium,Paid Search
+C001426,Customer 1426,Abu Dhabi,2025-08-03,New,Paid Search
+C001427,Customer 1427,Dubai,2025-04-30,Premium,Social Media
+C001428,Customer 1428,Dubai,2023-07-11,New,Paid Search
+C001429,Customer 1429,Ajman,2024-12-02,New,Organic
+C001430,Customer 1430,Abu Dhabi,2023-08-23,New,Email
+C001431,Customer 1431,Al Ain,2025-03-16,New,Referral
+C001432,Customer 1432,Sharjah,2025-03-28,Regular,Email
+C001433,Customer 1433,Dubai,2025-09-26,New,Organic
+C001434,Customer 1434,Dubai,2024-05-08,Regular,Organic
+C001435,Customer 1435,Dubai,2023-11-25,Regular,Paid Search
+C001436,Customer 1436,Al Ain,2022-08-30,Regular,Email
+C001437,Customer 1437,Dubai,2024-07-20,Regular,Organic
+C001438,Customer 1438,Abu Dhabi,2024-04-06,Regular,Organic
+C001439,Customer 1439,Al Ain,2024-01-22,New,Organic
+C001440,Customer 1440,Al Ain,2024-09-14,Regular,Referral
+C001441,Customer 1441,Dubai,2025-05-27,New,Referral
+C001442,Customer 1442,Dubai,2022-08-06,New,Social Media
+C001443,Customer 1443,Dubai,2023-09-22,New,Organic
+C001444,Customer 1444,Dubai,2024-11-20,Regular,Social Media
+C001445,Customer 1445,Dubai,2025-04-11,New,Paid Search
+C001446,Customer 1446,Sharjah,2025-02-10,Regular,Organic
+C001447,Customer 1447,Fujairah,2025-03-13,New,Paid Search
+C001448,Customer 1448,Abu Dhabi,2025-06-02,Regular,Paid Search
+C001449,Customer 1449,Sharjah,2025-11-05,Regular,Paid Search
+C001450,Customer 1450,Dubai,2024-06-06,New,Email
+C001451,Customer 1451,Ajman,2022-12-30,Regular,Paid Search
+C001452,Customer 1452,Sharjah,2024-04-02,Regular,Paid Search
+C001453,Customer 1453,Ras Al Khaimah,2024-11-02,Regular,Social Media
+C001454,Customer 1454,Al Ain,2022-05-28,New,Social Media
+C001455,Customer 1455,Abu Dhabi,2025-01-10,Regular,Organic
+C001456,Customer 1456,Dubai,2024-03-05,New,Social Media
+C001457,Customer 1457,Dubai,2025-09-28,New,Organic
+C001458,Customer 1458,Abu Dhabi,2022-11-06,New,Paid Search
+C001459,Customer 1459,Al Ain,2025-08-17,Regular,Social Media
+C001460,Customer 1460,Abu Dhabi,2023-10-17,New,Social Media
+C001461,Customer 1461,Ajman,2024-04-17,Regular,Paid Search
+C001462,Customer 1462,Sharjah,2024-08-21,New,Organic
+C001463,Customer 1463,Dubai,2024-04-25,Regular,Paid Search
+C001464,Customer 1464,Dubai,2025-08-12,New,Paid Search
+C001465,Customer 1465,Sharjah,2022-09-02,Regular,Email
+C001466,Customer 1466,Sharjah,2024-12-01,Regular,Social Media
+C001467,Customer 1467,Abu Dhabi,2025-11-24,Regular,Referral
+C001468,Customer 1468,Dubai,2022-11-18,New,Paid Search
+C001469,Customer 1469,Ajman,2023-01-08,Regular,Referral
+C001470,Customer 1470,Dubai,2023-11-25,Premium,Organic
+C001471,Customer 1471,Al Ain,2024-11-24,Premium,Paid Search
+C001472,Customer 1472,Dubai,2025-11-01,New,Organic
+C001473,Customer 1473,Dubai,2025-03-07,Regular,Organic
+C001474,Customer 1474,Abu Dhabi,2025-03-05,New,Email
+C001475,Customer 1475,Abu Dhabi,2023-10-07,New,Social Media
+C001476,Customer 1476,Abu Dhabi,2024-07-31,Regular,Social Media
+C001477,Customer 1477,Abu Dhabi,2022-11-05,Regular,Social Media
+C001478,Customer 1478,Al Ain,2023-11-08,Regular,Social Media
+C001479,Customer 1479,Abu Dhabi,2022-10-03,Regular,Social Media
+C001480,Customer 1480,Abu Dhabi,2022-02-09,New,Referral
+C001481,Customer 1481,Abu Dhabi,2025-06-04,Regular,Social Media
+C001482,Customer 1482,Dubai,2025-03-20,New,Referral
+C001483,Customer 1483,Sharjah,2024-01-16,New,Paid Search
+C001484,Customer 1484,Dubai,2022-01-22,New,Email
+C001485,Customer 1485,Sharjah,2022-05-12,Premium,Organic
+C001486,Customer 1486,Dubai,2022-06-13,Regular,Paid Search
+C001487,Customer 1487,Al Ain,2024-11-12,New,Email
+C001488,Customer 1488,Abu Dhabi,2022-10-25,Regular,Organic
+C001489,Customer 1489,Fujairah,2023-01-01,Premium,Organic
+C001490,Customer 1490,Abu Dhabi,2025-06-11,Premium,Paid Search
+C001491,Customer 1491,Dubai,2025-07-03,Regular,Paid Search
+C001492,Customer 1492,Ras Al Khaimah,2025-01-19,New,Email
+C001493,Customer 1493,Sharjah,2023-03-28,Regular,Referral
+C001494,Customer 1494,Ajman,2024-04-26,Regular,Paid Search
+C001495,Customer 1495,Abu Dhabi,2022-10-20,Premium,Email
+C001496,Customer 1496,Sharjah,2025-06-06,Regular,Social Media
+C001497,Customer 1497,Ras Al Khaimah,2022-05-04,Regular,Referral
+C001498,Customer 1498,Sharjah,2024-12-22,New,Organic
+C001499,Customer 1499,Abu Dhabi,2024-01-17,Regular,Paid Search
+C001500,Customer 1500,Sharjah,2025-01-10,New,Organic
+C001501,Customer 1501,Sharjah,2023-10-21,New,Organic
+C001502,Customer 1502,Al Ain,2022-08-19,Regular,Social Media
+C001503,Customer 1503,Abu Dhabi,2025-01-01,Regular,Organic
+C001504,Customer 1504,Abu Dhabi,2024-07-10,Premium,Social Media
+C001505,Customer 1505,Ajman,2023-11-10,Regular,Social Media
+C001506,Customer 1506,Abu Dhabi,2023-06-29,Premium,Organic
+C001507,Customer 1507,Ajman,2023-05-17,Regular,Paid Search
+C001508,Customer 1508,Abu Dhabi,2023-12-04,Regular,Social Media
+C001509,Customer 1509,Dubai,2023-01-18,New,Email
+C001510,Customer 1510,Ajman,2023-02-17,Regular,Paid Search
+C001511,Customer 1511,Dubai,2023-02-11,New,Email
+C001512,Customer 1512,Dubai,2022-01-19,New,Referral
+C001513,Customer 1513,Sharjah,2025-09-16,New,Social Media
+C001514,Customer 1514,Ajman,2022-12-12,Regular,Paid Search
+C001515,Customer 1515,Fujairah,2022-08-30,Regular,Social Media
+C001516,Customer 1516,Dubai,2022-08-09,Premium,Referral
+C001517,Customer 1517,Dubai,2025-12-13,Premium,Paid Search
+C001518,Customer 1518,Al Ain,2023-11-28,Premium,Email
+C001519,Customer 1519,Dubai,2023-04-23,New,Email
+C001520,Customer 1520,Dubai,2023-08-13,Premium,Paid Search
+C001521,Customer 1521,Dubai,2022-05-10,Regular,Social Media
+C001522,Customer 1522,Abu Dhabi,2023-04-03,Premium,Paid Search
+C001523,Customer 1523,Fujairah,2022-12-30,New,Referral
+C001524,Customer 1524,Ajman,2025-03-18,New,Referral
+C001525,Customer 1525,Sharjah,2022-03-27,Premium,Organic
+C001526,Customer 1526,Dubai,2023-09-14,New,Organic
+C001527,Customer 1527,Abu Dhabi,2025-02-27,New,Paid Search
+C001528,Customer 1528,Abu Dhabi,2025-05-02,Regular,Email
+C001529,Customer 1529,Dubai,2024-01-19,New,Paid Search
+C001530,Customer 1530,Dubai,2022-11-21,New,Email
+C001531,Customer 1531,Dubai,2023-05-08,Premium,Paid Search
+C001532,Customer 1532,Dubai,2022-11-21,Premium,Paid Search
+C001533,Customer 1533,Sharjah,2024-08-24,Premium,Email
+C001534,Customer 1534,Sharjah,2023-03-04,New,Social Media
+C001535,Customer 1535,Dubai,2024-07-09,New,Paid Search
+C001536,Customer 1536,Abu Dhabi,2024-08-15,Regular,Organic
+C001537,Customer 1537,Ajman,2025-10-04,Regular,Organic
+C001538,Customer 1538,Ajman,2023-06-25,New,Organic
+C001539,Customer 1539,Ajman,2025-11-04,Regular,Paid Search
+C001540,Customer 1540,Abu Dhabi,2023-08-09,Premium,Social Media
+C001541,Customer 1541,Ras Al Khaimah,2024-09-20,Regular,Paid Search
+C001542,Customer 1542,Dubai,2024-08-23,Regular,Organic
+C001543,Customer 1543,Abu Dhabi,2025-04-09,Regular,Organic
+C001544,Customer 1544,Dubai,2023-11-16,New,Paid Search
+C001545,Customer 1545,Abu Dhabi,2025-03-02,New,Email
+C001546,Customer 1546,Abu Dhabi,2023-06-03,Regular,Paid Search
+C001547,Customer 1547,Dubai,2023-12-19,Regular,Organic
+C001548,Customer 1548,Ajman,2023-12-31,Regular,Social Media
+C001549,Customer 1549,Dubai,2024-10-25,Regular,Email
+C001550,Customer 1550,Dubai,2024-06-21,New,Referral
+C001551,Customer 1551,Dubai,2022-04-25,New,Referral
+C001552,Customer 1552,Abu Dhabi,2025-03-27,New,Email
+C001553,Customer 1553,Dubai,2025-01-11,New,Social Media
+C001554,Customer 1554,Abu Dhabi,2022-06-02,Regular,Email
+C001555,Customer 1555,Dubai,2025-11-05,Regular,Organic
+C001556,Customer 1556,Ajman,2024-08-22,Premium,Referral
+C001557,Customer 1557,Al Ain,2022-05-05,Regular,Referral
+C001558,Customer 1558,Abu Dhabi,2023-12-19,Regular,Email
+C001559,Customer 1559,Sharjah,2025-05-05,New,Paid Search
+C001560,Customer 1560,Ras Al Khaimah,2023-02-13,Regular,Referral
+C001561,Customer 1561,Al Ain,2025-09-24,New,Organic
+C001562,Customer 1562,Sharjah,2023-09-03,Premium,Social Media
+C001563,Customer 1563,Fujairah,2022-11-27,Regular,Paid Search
+C001564,Customer 1564,Fujairah,2023-06-05,New,Social Media
+C001565,Customer 1565,Ajman,2024-02-06,New,Social Media
+C001566,Customer 1566,Abu Dhabi,2024-10-01,New,Paid Search
+C001567,Customer 1567,Dubai,2025-09-16,Premium,Organic
+C001568,Customer 1568,Dubai,2022-10-12,New,Paid Search
+C001569,Customer 1569,Abu Dhabi,2025-11-02,New,Social Media
+C001570,Customer 1570,Abu Dhabi,2024-02-10,New,Social Media
+C001571,Customer 1571,Abu Dhabi,2022-07-06,Regular,Referral
+C001572,Customer 1572,Sharjah,2025-09-14,Regular,Organic
+C001573,Customer 1573,Sharjah,2024-06-25,Regular,Referral
+C001574,Customer 1574,Ras Al Khaimah,2024-10-16,New,Social Media
+C001575,Customer 1575,Dubai,2022-01-20,New,Organic
+C001576,Customer 1576,Dubai,2022-11-20,Premium,Paid Search
+C001577,Customer 1577,Ajman,2024-09-29,New,Paid Search
+C001578,Customer 1578,Ras Al Khaimah,2023-04-20,New,Paid Search
+C001579,Customer 1579,Al Ain,2022-01-14,Regular,Organic
+C001580,Customer 1580,Ras Al Khaimah,2022-02-04,New,Organic
+C001581,Customer 1581,Fujairah,2025-04-21,New,Organic
+C001582,Customer 1582,Dubai,2022-08-13,Regular,Organic
+C001583,Customer 1583,Abu Dhabi,2022-05-27,Regular,Organic
+C001584,Customer 1584,Dubai,2024-04-01,New,Referral
+C001585,Customer 1585,Sharjah,2022-06-23,New,Paid Search
+C001586,Customer 1586,Al Ain,2024-08-11,Regular,Paid Search
+C001587,Customer 1587,Abu Dhabi,2024-03-05,New,Social Media
+C001588,Customer 1588,Sharjah,2024-08-05,New,Social Media
+C001589,Customer 1589,Dubai,2023-12-19,Regular,Organic
+C001590,Customer 1590,Dubai,2025-02-10,Regular,Organic
+C001591,Customer 1591,Dubai,2024-07-30,Premium,Organic
+C001592,Customer 1592,Dubai,2023-08-30,New,Social Media
+C001593,Customer 1593,Al Ain,2022-01-23,New,Paid Search
+C001594,Customer 1594,Abu Dhabi,2023-02-04,Regular,Paid Search
+C001595,Customer 1595,Ras Al Khaimah,2022-07-11,Regular,Social Media
+C001596,Customer 1596,Sharjah,2022-01-23,New,Email
+C001597,Customer 1597,Dubai,2023-02-03,Regular,Paid Search
+C001598,Customer 1598,Dubai,2022-10-29,New,Paid Search
+C001599,Customer 1599,Ajman,2022-04-23,Regular,Paid Search
+C001600,Customer 1600,Dubai,2023-04-02,Regular,Social Media
+C001601,Customer 1601,Fujairah,2024-01-10,Regular,Referral
+C001602,Customer 1602,Dubai,2022-09-18,Premium,Social Media
+C001603,Customer 1603,Sharjah,2023-02-03,Premium,Organic
+C001604,Customer 1604,Ajman,2022-01-30,New,Paid Search
+C001605,Customer 1605,Dubai,2022-03-15,New,Referral
+C001606,Customer 1606,Dubai,2022-08-18,Regular,Paid Search
+C001607,Customer 1607,Al Ain,2023-10-24,New,Email
+C001608,Customer 1608,Dubai,2024-08-30,Regular,Paid Search
+C001609,Customer 1609,Abu Dhabi,2025-02-24,New,Paid Search
+C001610,Customer 1610,Abu Dhabi,2024-07-08,Premium,Paid Search
+C001611,Customer 1611,Dubai,2024-06-19,Regular,Paid Search
+C001612,Customer 1612,Ajman,2025-09-28,Regular,Referral
+C001613,Customer 1613,Ajman,2023-01-09,Regular,Organic
+C001614,Customer 1614,Abu Dhabi,2025-03-11,New,Social Media
+C001615,Customer 1615,Ras Al Khaimah,2025-09-29,Premium,Social Media
+C001616,Customer 1616,Dubai,2024-04-08,New,Referral
+C001617,Customer 1617,Dubai,2025-05-12,New,Social Media
+C001618,Customer 1618,Sharjah,2022-07-20,New,Email
+C001619,Customer 1619,Al Ain,2025-07-07,Regular,Referral
+C001620,Customer 1620,Dubai,2024-04-03,New,Paid Search
+C001621,Customer 1621,Dubai,2022-11-20,New,Referral
+C001622,Customer 1622,Abu Dhabi,2022-03-31,New,Email
+C001623,Customer 1623,Ajman,2024-11-17,New,Organic
+C001624,Customer 1624,Dubai,2023-09-22,New,Social Media
+C001625,Customer 1625,Abu Dhabi,2023-03-29,Regular,Paid Search
+C001626,Customer 1626,Ajman,2023-07-24,New,Social Media
+C001627,Customer 1627,Abu Dhabi,2025-12-17,New,Organic
+C001628,Customer 1628,Dubai,2023-09-17,Regular,Referral
+C001629,Customer 1629,Dubai,2022-04-26,Regular,Paid Search
+C001630,Customer 1630,Abu Dhabi,2023-02-13,New,Social Media
+C001631,Customer 1631,Abu Dhabi,2022-08-01,New,Organic
+C001632,Customer 1632,Ras Al Khaimah,2024-09-28,New,Social Media
+C001633,Customer 1633,Sharjah,2025-03-14,Premium,Paid Search
+C001634,Customer 1634,Sharjah,2025-05-12,New,Social Media
+C001635,Customer 1635,Al Ain,2024-07-13,New,Paid Search
+C001636,Customer 1636,Abu Dhabi,2025-01-27,Regular,Organic
+C001637,Customer 1637,Abu Dhabi,2023-09-02,New,Paid Search
+C001638,Customer 1638,Al Ain,2024-07-05,New,Email
+C001639,Customer 1639,Dubai,2022-06-06,New,Organic
+C001640,Customer 1640,Ajman,2024-02-25,Regular,Social Media
+C001641,Customer 1641,Ajman,2024-03-24,Regular,Organic
+C001642,Customer 1642,Dubai,2022-02-15,Regular,Social Media
+C001643,Customer 1643,Abu Dhabi,2024-03-11,Regular,Organic
+C001644,Customer 1644,Dubai,2024-11-21,New,Paid Search
+C001645,Customer 1645,Dubai,2023-06-21,Premium,Paid Search
+C001646,Customer 1646,Abu Dhabi,2024-03-06,Regular,Organic
+C001647,Customer 1647,Dubai,2023-02-22,Regular,Paid Search
+C001648,Customer 1648,Ajman,2023-01-31,Regular,Paid Search
+C001649,Customer 1649,Fujairah,2022-07-09,New,Paid Search
+C001650,Customer 1650,Ajman,2023-04-24,New,Email
+C001651,Customer 1651,Dubai,2025-03-18,Regular,Paid Search
+C001652,Customer 1652,Dubai,2025-09-27,New,Email
+C001653,Customer 1653,Dubai,2024-07-17,Regular,Paid Search
+C001654,Customer 1654,Dubai,2024-06-30,New,Organic
+C001655,Customer 1655,Al Ain,2024-06-15,New,Organic
+C001656,Customer 1656,Abu Dhabi,2023-11-26,Premium,Paid Search
+C001657,Customer 1657,Dubai,2023-09-10,Regular,Paid Search
+C001658,Customer 1658,Ras Al Khaimah,2024-06-25,Regular,Referral
+C001659,Customer 1659,Abu Dhabi,2025-02-19,New,Social Media
+C001660,Customer 1660,Dubai,2023-08-28,Regular,Social Media
+C001661,Customer 1661,Dubai,2024-04-06,Premium,Paid Search
+C001662,Customer 1662,Sharjah,2023-11-18,Regular,Paid Search
+C001663,Customer 1663,Ajman,2023-02-21,Regular,Social Media
+C001664,Customer 1664,Dubai,2023-02-28,Regular,Organic
+C001665,Customer 1665,Fujairah,2022-04-26,New,Organic
+C001666,Customer 1666,Ras Al Khaimah,2023-10-05,Regular,Paid Search
+C001667,Customer 1667,Ras Al Khaimah,2024-11-06,Premium,Organic
+C001668,Customer 1668,Dubai,2024-09-27,Regular,Social Media
+C001669,Customer 1669,Dubai,2025-12-10,Regular,Organic
+C001670,Customer 1670,Ras Al Khaimah,2022-02-28,Regular,Organic
+C001671,Customer 1671,Dubai,2025-01-15,Regular,Email
+C001672,Customer 1672,Sharjah,2025-03-06,Premium,Email
+C001673,Customer 1673,Ajman,2023-09-30,Regular,Paid Search
+C001674,Customer 1674,Dubai,2023-02-18,New,Paid Search
+C001675,Customer 1675,Ajman,2023-06-06,New,Referral
+C001676,Customer 1676,Al Ain,2024-09-23,Regular,Organic
+C001677,Customer 1677,Ajman,2025-06-12,New,Paid Search
+C001678,Customer 1678,Abu Dhabi,2024-07-27,Regular,Organic
+C001679,Customer 1679,Ras Al Khaimah,2024-01-21,Regular,Paid Search
+C001680,Customer 1680,Abu Dhabi,2024-08-10,Regular,Email
+C001681,Customer 1681,Ajman,2022-04-14,New,Referral
+C001682,Customer 1682,Ras Al Khaimah,2024-06-06,Regular,Email
+C001683,Customer 1683,Ajman,2022-03-03,Regular,Referral
+C001684,Customer 1684,Dubai,2025-11-01,New,Social Media
+C001685,Customer 1685,Dubai,2025-07-22,Regular,Referral
+C001686,Customer 1686,Dubai,2024-01-13,Regular,Social Media
+C001687,Customer 1687,Abu Dhabi,2023-07-01,Regular,Paid Search
+C001688,Customer 1688,Abu Dhabi,2024-12-05,New,Paid Search
+C001689,Customer 1689,Sharjah,2024-07-19,New,Paid Search
+C001690,Customer 1690,Abu Dhabi,2024-10-26,Regular,Organic
+C001691,Customer 1691,Ajman,2024-01-23,New,Paid Search
+C001692,Customer 1692,Fujairah,2022-12-11,Regular,Organic
+C001693,Customer 1693,Dubai,2022-04-17,Regular,Social Media
+C001694,Customer 1694,Ajman,2023-02-18,New,Organic
+C001695,Customer 1695,Sharjah,2024-02-12,Regular,Paid Search
+C001696,Customer 1696,Abu Dhabi,2023-09-12,Premium,Paid Search
+C001697,Customer 1697,Dubai,2024-01-10,Regular,Organic
+C001698,Customer 1698,Ajman,2023-02-10,Regular,Email
+C001699,Customer 1699,Al Ain,2025-10-01,Regular,Paid Search
+C001700,Customer 1700,Ajman,2023-06-20,New,Paid Search
+C001701,Customer 1701,Fujairah,2025-05-20,New,Organic
+C001702,Customer 1702,Al Ain,2023-07-25,Regular,Referral
+C001703,Customer 1703,Abu Dhabi,2023-10-10,Regular,Social Media
+C001704,Customer 1704,Sharjah,2024-05-31,New,Paid Search
+C001705,Customer 1705,Abu Dhabi,2023-01-20,New,Organic
+C001706,Customer 1706,Al Ain,2022-11-18,Regular,Referral
+C001707,Customer 1707,Dubai,2023-07-08,New,Email
+C001708,Customer 1708,Abu Dhabi,2025-03-20,Regular,Paid Search
+C001709,Customer 1709,Ras Al Khaimah,2022-07-31,Regular,Organic
+C001710,Customer 1710,Dubai,2023-10-01,Regular,Organic
+C001711,Customer 1711,Ajman,2024-09-08,New,Organic
+C001712,Customer 1712,Abu Dhabi,2024-10-28,New,Referral
+C001713,Customer 1713,Al Ain,2023-09-27,Regular,Email
+C001714,Customer 1714,Fujairah,2022-04-29,Regular,Email
+C001715,Customer 1715,Dubai,2022-01-24,New,Referral
+C001716,Customer 1716,Ajman,2023-11-18,Regular,Organic
+C001717,Customer 1717,Dubai,2025-03-28,Regular,Email
+C001718,Customer 1718,Sharjah,2022-02-11,New,Paid Search
+C001719,Customer 1719,Sharjah,2025-07-19,Regular,Paid Search
+C001720,Customer 1720,Ras Al Khaimah,2024-09-13,New,Social Media
+C001721,Customer 1721,Dubai,2022-01-12,Regular,Organic
+C001722,Customer 1722,Dubai,2023-05-17,New,Referral
+C001723,Customer 1723,Sharjah,2022-11-18,Regular,Email
+C001724,Customer 1724,Sharjah,2025-10-17,New,Referral
+C001725,Customer 1725,Abu Dhabi,2024-03-20,Regular,Referral
+C001726,Customer 1726,Dubai,2023-04-19,Regular,Paid Search
+C001727,Customer 1727,Abu Dhabi,2023-02-10,Premium,Organic
+C001728,Customer 1728,Ras Al Khaimah,2024-04-03,Regular,Referral
+C001729,Customer 1729,Dubai,2022-01-08,Regular,Social Media
+C001730,Customer 1730,Abu Dhabi,2023-01-11,New,Email
+C001731,Customer 1731,Al Ain,2022-08-30,New,Organic
+C001732,Customer 1732,Dubai,2024-06-24,New,Paid Search
+C001733,Customer 1733,Ajman,2024-09-04,Regular,Paid Search
+C001734,Customer 1734,Dubai,2023-11-13,Regular,Social Media
+C001735,Customer 1735,Ras Al Khaimah,2022-07-24,Regular,Referral
+C001736,Customer 1736,Ajman,2023-06-26,Regular,Email
+C001737,Customer 1737,Fujairah,2025-05-15,Regular,Paid Search
+C001738,Customer 1738,Dubai,2022-10-25,New,Paid Search
+C001739,Customer 1739,Abu Dhabi,2022-08-27,New,Organic
+C001740,Customer 1740,Ajman,2022-06-12,Regular,Organic
+C001741,Customer 1741,Dubai,2025-04-07,New,Paid Search
+C001742,Customer 1742,Dubai,2022-06-25,New,Social Media
+C001743,Customer 1743,Dubai,2024-04-29,Premium,Paid Search
+C001744,Customer 1744,Al Ain,2025-12-29,Premium,Paid Search
+C001745,Customer 1745,Sharjah,2024-07-26,Regular,Social Media
+C001746,Customer 1746,Sharjah,2023-08-25,New,Referral
+C001747,Customer 1747,Ajman,2022-10-29,Regular,Organic
+C001748,Customer 1748,Abu Dhabi,2022-01-03,New,Paid Search
+C001749,Customer 1749,Abu Dhabi,2022-08-16,Regular,Social Media
+C001750,Customer 1750,Abu Dhabi,2025-10-23,New,Referral
+C001751,Customer 1751,Sharjah,2022-07-29,Premium,Referral
+C001752,Customer 1752,Dubai,2022-01-30,Premium,Organic
+C001753,Customer 1753,Fujairah,2025-04-06,Regular,Social Media
+C001754,Customer 1754,Ajman,2023-09-04,New,Email
+C001755,Customer 1755,Abu Dhabi,2023-06-06,Regular,Paid Search
+C001756,Customer 1756,Sharjah,2024-11-13,New,Paid Search
+C001757,Customer 1757,Dubai,2024-02-03,Premium,Email
+C001758,Customer 1758,Al Ain,2025-08-28,New,Organic
+C001759,Customer 1759,Fujairah,2023-11-14,New,Social Media
+C001760,Customer 1760,Al Ain,2024-11-06,Regular,Referral
+C001761,Customer 1761,Dubai,2025-07-07,Regular,Organic
+C001762,Customer 1762,Dubai,2023-11-08,Regular,Social Media
+C001763,Customer 1763,Dubai,2023-02-20,New,Paid Search
+C001764,Customer 1764,Dubai,2025-11-23,Regular,Referral
+C001765,Customer 1765,Dubai,2022-11-28,New,Email
+C001766,Customer 1766,Dubai,2022-02-27,New,Referral
+C001767,Customer 1767,Al Ain,2024-04-24,Regular,Organic
+C001768,Customer 1768,Dubai,2025-12-11,New,Referral
+C001769,Customer 1769,Dubai,2022-05-07,Regular,Email
+C001770,Customer 1770,Ras Al Khaimah,2025-05-25,New,Social Media
+C001771,Customer 1771,Sharjah,2025-04-27,New,Social Media
+C001772,Customer 1772,Ajman,2025-09-18,Regular,Organic
+C001773,Customer 1773,Sharjah,2023-09-08,New,Referral
+C001774,Customer 1774,Fujairah,2023-01-07,Regular,Organic
+C001775,Customer 1775,Sharjah,2024-01-18,Regular,Paid Search
+C001776,Customer 1776,Abu Dhabi,2022-07-27,New,Email
+C001777,Customer 1777,Sharjah,2025-05-15,Regular,Email
+C001778,Customer 1778,Abu Dhabi,2024-08-26,New,Email
+C001779,Customer 1779,Abu Dhabi,2023-12-07,Regular,Paid Search
+C001780,Customer 1780,Abu Dhabi,2024-01-24,New,Organic
+C001781,Customer 1781,Dubai,2024-11-05,Regular,Paid Search
+C001782,Customer 1782,Ajman,2024-02-03,Regular,Organic
+C001783,Customer 1783,Dubai,2025-05-11,Regular,Referral
+C001784,Customer 1784,Dubai,2025-09-11,Premium,Social Media
+C001785,Customer 1785,Dubai,2025-10-18,New,Paid Search
+C001786,Customer 1786,Ras Al Khaimah,2024-06-24,Premium,Organic
+C001787,Customer 1787,Dubai,2024-12-20,Regular,Paid Search
+C001788,Customer 1788,Sharjah,2023-03-31,Premium,Referral
+C001789,Customer 1789,Ras Al Khaimah,2022-02-25,Premium,Social Media
+C001790,Customer 1790,Dubai,2023-08-08,Premium,Organic
+C001791,Customer 1791,Ajman,2025-06-26,New,Organic
+C001792,Customer 1792,Dubai,2022-07-14,Regular,Paid Search
+C001793,Customer 1793,Dubai,2024-03-07,Regular,Organic
+C001794,Customer 1794,Sharjah,2022-10-08,Regular,Email
+C001795,Customer 1795,Fujairah,2023-09-19,New,Social Media
+C001796,Customer 1796,Dubai,2022-07-29,Premium,Organic
+C001797,Customer 1797,Sharjah,2024-12-08,New,Referral
+C001798,Customer 1798,Dubai,2025-03-29,Regular,Paid Search
+C001799,Customer 1799,Sharjah,2025-01-12,Regular,Organic
+C001800,Customer 1800,Sharjah,2024-10-26,New,Social Media
+C001801,Customer 1801,Sharjah,2022-12-10,Regular,Organic
+C001802,Customer 1802,Sharjah,2024-02-14,New,Paid Search
+C001803,Customer 1803,Dubai,2022-06-02,Regular,Referral
+C001804,Customer 1804,Sharjah,2023-07-01,Regular,Email
+C001805,Customer 1805,Sharjah,2024-01-09,New,Paid Search
+C001806,Customer 1806,Sharjah,2024-09-03,Regular,Social Media
+C001807,Customer 1807,Dubai,2022-05-22,New,Organic
+C001808,Customer 1808,Abu Dhabi,2025-04-01,Regular,Social Media
+C001809,Customer 1809,Abu Dhabi,2023-11-02,Premium,Organic
+C001810,Customer 1810,Dubai,2025-07-10,New,Social Media
+C001811,Customer 1811,Dubai,2024-02-10,Regular,Organic
+C001812,Customer 1812,Abu Dhabi,2024-03-09,Regular,Email
+C001813,Customer 1813,Ajman,2024-10-08,Regular,Email
+C001814,Customer 1814,Dubai,2025-04-12,Regular,Paid Search
+C001815,Customer 1815,Ras Al Khaimah,2022-08-19,Regular,Referral
+C001816,Customer 1816,Sharjah,2024-01-17,Regular,Organic
+C001817,Customer 1817,Ajman,2022-02-13,New,Referral
+C001818,Customer 1818,Abu Dhabi,2023-11-24,New,Paid Search
+C001819,Customer 1819,Abu Dhabi,2025-04-02,Premium,Organic
+C001820,Customer 1820,Sharjah,2025-06-17,New,Social Media
+C001821,Customer 1821,Al Ain,2023-02-18,Regular,Paid Search
+C001822,Customer 1822,Abu Dhabi,2023-07-19,New,Social Media
+C001823,Customer 1823,Abu Dhabi,2024-03-16,Regular,Paid Search
+C001824,Customer 1824,Sharjah,2023-08-02,Regular,Organic
+C001825,Customer 1825,Ajman,2022-09-17,Regular,Organic
+C001826,Customer 1826,Dubai,2023-03-22,New,Social Media
+C001827,Customer 1827,Abu Dhabi,2023-08-13,Regular,Social Media
+C001828,Customer 1828,Abu Dhabi,2024-01-28,Premium,Organic
+C001829,Customer 1829,Al Ain,2025-09-06,Regular,Paid Search
+C001830,Customer 1830,Abu Dhabi,2024-03-06,Regular,Social Media
+C001831,Customer 1831,Abu Dhabi,2023-07-20,Regular,Social Media
+C001832,Customer 1832,Al Ain,2024-08-22,New,Referral
+C001833,Customer 1833,Abu Dhabi,2025-02-02,Regular,Paid Search
+C001834,Customer 1834,Dubai,2023-09-21,New,Social Media
+C001835,Customer 1835,Dubai,2023-12-16,New,Social Media
+C001836,Customer 1836,Dubai,2022-11-15,Regular,Paid Search
+C001837,Customer 1837,Dubai,2025-06-16,Premium,Organic
+C001838,Customer 1838,Abu Dhabi,2025-06-19,Premium,Organic
+C001839,Customer 1839,Ajman,2022-09-13,Premium,Referral
+C001840,Customer 1840,Ajman,2023-05-21,Regular,Organic
+C001841,Customer 1841,Dubai,2023-02-02,New,Social Media
+C001842,Customer 1842,Sharjah,2025-09-09,Regular,Social Media
+C001843,Customer 1843,Dubai,2022-04-06,Premium,Paid Search
+C001844,Customer 1844,Al Ain,2022-10-30,Regular,Referral
+C001845,Customer 1845,Dubai,2023-04-05,Regular,Social Media
+C001846,Customer 1846,Sharjah,2024-03-28,Regular,Organic
+C001847,Customer 1847,Dubai,2022-12-30,Regular,Referral
+C001848,Customer 1848,Sharjah,2024-02-23,Premium,Paid Search
+C001849,Customer 1849,Abu Dhabi,2024-12-26,Regular,Paid Search
+C001850,Customer 1850,Ajman,2025-04-24,Regular,Social Media
+C001851,Customer 1851,Dubai,2022-05-25,New,Social Media
+C001852,Customer 1852,Fujairah,2022-07-22,Regular,Paid Search
+C001853,Customer 1853,Abu Dhabi,2022-05-19,New,Email
+C001854,Customer 1854,Ajman,2025-08-21,Premium,Social Media
+C001855,Customer 1855,Ras Al Khaimah,2024-08-10,Regular,Social Media
+C001856,Customer 1856,Al Ain,2024-02-15,Regular,Organic
+C001857,Customer 1857,Dubai,2025-02-28,New,Organic
+C001858,Customer 1858,Dubai,2024-05-05,Regular,Paid Search
+C001859,Customer 1859,Dubai,2022-12-10,Regular,Social Media
+C001860,Customer 1860,Dubai,2024-01-15,New,Paid Search
+C001861,Customer 1861,Sharjah,2024-10-23,Premium,Referral
+C001862,Customer 1862,Al Ain,2022-02-22,New,Organic
+C001863,Customer 1863,Al Ain,2024-06-04,Regular,Social Media
+C001864,Customer 1864,Abu Dhabi,2023-12-27,New,Referral
+C001865,Customer 1865,Sharjah,2022-04-12,Regular,Referral
+C001866,Customer 1866,Ras Al Khaimah,2023-01-20,Regular,Referral
+C001867,Customer 1867,Al Ain,2023-10-17,Premium,Email
+C001868,Customer 1868,Dubai,2023-05-16,New,Organic
+C001869,Customer 1869,Abu Dhabi,2023-02-28,Premium,Social Media
+C001870,Customer 1870,Ras Al Khaimah,2024-08-05,Regular,Email
+C001871,Customer 1871,Dubai,2023-08-14,New,Social Media
+C001872,Customer 1872,Abu Dhabi,2023-12-28,New,Organic
+C001873,Customer 1873,Al Ain,2025-03-11,New,Email
+C001874,Customer 1874,Al Ain,2022-05-17,Premium,Organic
+C001875,Customer 1875,Fujairah,2023-06-10,New,Paid Search
+C001876,Customer 1876,Ajman,2022-04-17,Regular,Organic
+C001877,Customer 1877,Dubai,2025-09-15,Regular,Paid Search
+C001878,Customer 1878,Dubai,2022-09-29,Premium,Paid Search
+C001879,Customer 1879,Sharjah,2025-04-12,Regular,Paid Search
+C001880,Customer 1880,Sharjah,2022-10-06,Regular,Email
+C001881,Customer 1881,Abu Dhabi,2023-04-19,New,Paid Search
+C001882,Customer 1882,Sharjah,2024-06-07,Premium,Paid Search
+C001883,Customer 1883,Abu Dhabi,2025-04-28,New,Email
+C001884,Customer 1884,Ajman,2022-09-17,New,Referral
+C001885,Customer 1885,Dubai,2022-11-08,Premium,Organic
+C001886,Customer 1886,Dubai,2025-07-11,New,Organic
+C001887,Customer 1887,Dubai,2023-04-16,New,Social Media
+C001888,Customer 1888,Dubai,2022-11-03,Regular,Referral
+C001889,Customer 1889,Ras Al Khaimah,2024-12-21,New,Social Media
+C001890,Customer 1890,Abu Dhabi,2022-05-14,New,Organic
+C001891,Customer 1891,Dubai,2025-06-19,Regular,Referral
+C001892,Customer 1892,Ajman,2025-07-02,Regular,Social Media
+C001893,Customer 1893,Sharjah,2025-06-04,Regular,Social Media
+C001894,Customer 1894,Dubai,2023-03-08,New,Referral
+C001895,Customer 1895,Dubai,2022-06-16,Regular,Referral
+C001896,Customer 1896,Dubai,2023-09-14,Regular,Social Media
+C001897,Customer 1897,Sharjah,2023-05-04,New,Social Media
+C001898,Customer 1898,Dubai,2025-11-01,New,Social Media
+C001899,Customer 1899,Dubai,2024-07-11,New,Paid Search
+C001900,Customer 1900,Dubai,2025-10-10,Regular,Paid Search
+C001901,Customer 1901,Sharjah,2025-01-01,New,Social Media
+C001902,Customer 1902,Dubai,2024-11-09,Regular,Social Media
+C001903,Customer 1903,Ras Al Khaimah,2022-06-13,Premium,Paid Search
+C001904,Customer 1904,Dubai,2022-04-11,New,Organic
+C001905,Customer 1905,Sharjah,2022-03-09,Regular,Social Media
+C001906,Customer 1906,Abu Dhabi,2024-05-16,New,Social Media
+C001907,Customer 1907,Abu Dhabi,2022-10-22,New,Paid Search
+C001908,Customer 1908,Dubai,2025-12-15,Regular,Paid Search
+C001909,Customer 1909,Ajman,2022-07-13,Regular,Organic
+C001910,Customer 1910,Fujairah,2025-10-14,Premium,Email
+C001911,Customer 1911,Dubai,2024-09-01,Regular,Referral
+C001912,Customer 1912,Dubai,2022-06-04,New,Social Media
+C001913,Customer 1913,Fujairah,2022-03-27,Regular,Paid Search
+C001914,Customer 1914,Sharjah,2023-08-02,New,Referral
+C001915,Customer 1915,Dubai,2023-05-10,Premium,Paid Search
+C001916,Customer 1916,Dubai,2023-04-06,Regular,Email
+C001917,Customer 1917,Sharjah,2024-02-11,New,Organic
+C001918,Customer 1918,Ajman,2022-07-09,Regular,Organic
+C001919,Customer 1919,Sharjah,2022-07-09,Regular,Social Media
+C001920,Customer 1920,Al Ain,2024-10-11,Regular,Organic
+C001921,Customer 1921,Abu Dhabi,2025-12-16,New,Social Media
+C001922,Customer 1922,Dubai,2023-02-04,New,Referral
+C001923,Customer 1923,Abu Dhabi,2025-09-22,New,Organic
+C001924,Customer 1924,Abu Dhabi,2023-05-19,Regular,Paid Search
+C001925,Customer 1925,Dubai,2023-05-06,Regular,Social Media
+C001926,Customer 1926,Dubai,2022-05-12,New,Referral
+C001927,Customer 1927,Abu Dhabi,2023-09-11,Regular,Paid Search
+C001928,Customer 1928,Sharjah,2023-12-29,Regular,Organic
+C001929,Customer 1929,Dubai,2024-08-27,New,Social Media
+C001930,Customer 1930,Abu Dhabi,2022-08-19,Premium,Paid Search
+C001931,Customer 1931,Sharjah,2022-10-03,Regular,Referral
+C001932,Customer 1932,Sharjah,2023-09-23,Regular,Social Media
+C001933,Customer 1933,Ajman,2022-04-12,Regular,Organic
+C001934,Customer 1934,Ajman,2022-07-29,New,Referral
+C001935,Customer 1935,Sharjah,2024-07-07,Premium,Paid Search
+C001936,Customer 1936,Dubai,2025-10-24,Regular,Organic
+C001937,Customer 1937,Abu Dhabi,2024-04-16,Regular,Social Media
+C001938,Customer 1938,Sharjah,2022-07-31,Premium,Email
+C001939,Customer 1939,Dubai,2025-12-17,Regular,Social Media
+C001940,Customer 1940,Dubai,2024-02-01,Regular,Paid Search
+C001941,Customer 1941,Dubai,2024-11-12,New,Social Media
+C001942,Customer 1942,Abu Dhabi,2022-10-15,New,Paid Search
+C001943,Customer 1943,Abu Dhabi,2024-04-24,Regular,Social Media
+C001944,Customer 1944,Dubai,2022-04-22,Regular,Paid Search
+C001945,Customer 1945,Ras Al Khaimah,2024-07-02,Regular,Organic
+C001946,Customer 1946,Al Ain,2022-10-23,Regular,Paid Search
+C001947,Customer 1947,Dubai,2025-08-20,New,Email
+C001948,Customer 1948,Al Ain,2022-03-21,New,Organic
+C001949,Customer 1949,Dubai,2024-08-10,Regular,Referral
+C001950,Customer 1950,Al Ain,2022-07-23,New,Social Media
+C001951,Customer 1951,Al Ain,2024-09-30,Regular,Social Media
+C001952,Customer 1952,Dubai,2023-12-22,Regular,Organic
+C001953,Customer 1953,Ajman,2025-11-13,Regular,Organic
+C001954,Customer 1954,Al Ain,2024-08-09,Regular,Organic
+C001955,Customer 1955,Fujairah,2023-06-28,Regular,Social Media
+C001956,Customer 1956,Al Ain,2022-05-08,Regular,Email
+C001957,Customer 1957,Sharjah,2024-05-19,New,Referral
+C001958,Customer 1958,Dubai,2023-10-06,Regular,Organic
+C001959,Customer 1959,Ras Al Khaimah,2022-03-18,Regular,Organic
+C001960,Customer 1960,Sharjah,2024-04-28,New,Organic
+C001961,Customer 1961,Sharjah,2022-11-03,Regular,Email
+C001962,Customer 1962,Abu Dhabi,2022-12-08,Premium,Organic
+C001963,Customer 1963,Sharjah,2022-01-14,New,Organic
+C001964,Customer 1964,Dubai,2023-06-28,Regular,Social Media
+C001965,Customer 1965,Ajman,2022-11-15,Premium,Social Media
+C001966,Customer 1966,Dubai,2022-04-15,Premium,Organic
+C001967,Customer 1967,Ajman,2023-09-27,Regular,Social Media
+C001968,Customer 1968,Ras Al Khaimah,2022-11-18,Regular,Organic
+C001969,Customer 1969,Abu Dhabi,2022-07-15,Premium,Organic
+C001970,Customer 1970,Abu Dhabi,2023-11-13,Regular,Organic
+C001971,Customer 1971,Dubai,2022-04-03,New,Paid Search
+C001972,Customer 1972,Al Ain,2025-12-17,New,Email
+C001973,Customer 1973,Ajman,2023-11-19,Regular,Social Media
+C001974,Customer 1974,Abu Dhabi,2025-12-25,Regular,Referral
+C001975,Customer 1975,Dubai,2025-07-10,New,Paid Search
+C001976,Customer 1976,Dubai,2025-12-01,New,Social Media
+C001977,Customer 1977,Abu Dhabi,2024-03-03,Regular,Email
+C001978,Customer 1978,Al Ain,2023-09-10,Regular,Paid Search
+C001979,Customer 1979,Ajman,2024-11-17,Premium,Email
+C001980,Customer 1980,Dubai,2022-04-28,Regular,Social Media
+C001981,Customer 1981,Ras Al Khaimah,2025-05-11,Premium,Referral
+C001982,Customer 1982,Abu Dhabi,2023-04-18,Premium,Organic
+C001983,Customer 1983,Ras Al Khaimah,2022-01-11,New,Social Media
+C001984,Customer 1984,Dubai,2022-12-14,Regular,Paid Search
+C001985,Customer 1985,Sharjah,2022-12-20,New,Email
+C001986,Customer 1986,Al Ain,2022-01-21,Premium,Email
+C001987,Customer 1987,Dubai,2024-09-03,New,Paid Search
+C001988,Customer 1988,Sharjah,2022-05-20,Regular,Email
+C001989,Customer 1989,Al Ain,2025-05-21,Regular,Email
+C001990,Customer 1990,Dubai,2023-10-24,New,Social Media
+C001991,Customer 1991,Dubai,2024-11-14,Regular,Organic
+C001992,Customer 1992,Sharjah,2023-05-11,New,Organic
+C001993,Customer 1993,Dubai,2022-07-12,Regular,Organic
+C001994,Customer 1994,Dubai,2022-09-21,Regular,Organic
+C001995,Customer 1995,Abu Dhabi,2024-07-31,New,Email
+C001996,Customer 1996,Ajman,2024-11-11,Regular,Organic
+C001997,Customer 1997,Dubai,2023-01-26,Premium,Social Media
+C001998,Customer 1998,Dubai,2023-06-06,New,Social Media
+C001999,Customer 1999,Ras Al Khaimah,2025-10-11,Regular,Social Media
+C002000,Customer 2000,Abu Dhabi,2025-05-28,Premium,Organic
+C002001,Customer 2001,Ras Al Khaimah,2023-08-27,Regular,Social Media
+C002002,Customer 2002,Abu Dhabi,2022-12-18,New,Social Media
+C002003,Customer 2003,Al Ain,2023-03-16,Premium,Social Media
+C002004,Customer 2004,Sharjah,2024-02-26,New,Organic
+C002005,Customer 2005,Dubai,2024-04-07,Regular,Social Media
+C002006,Customer 2006,Fujairah,2022-09-26,Regular,Organic
+C002007,Customer 2007,Abu Dhabi,2022-04-07,Regular,Social Media
+C002008,Customer 2008,Dubai,2023-12-25,New,Paid Search
+C002009,Customer 2009,Dubai,2025-03-10,New,Organic
+C002010,Customer 2010,Sharjah,2022-08-11,Regular,Referral
+C002011,Customer 2011,Dubai,2023-08-20,New,Organic
+C002012,Customer 2012,Dubai,2022-08-24,Regular,Email
+C002013,Customer 2013,Dubai,2022-12-20,Regular,Email
+C002014,Customer 2014,Abu Dhabi,2024-06-12,Regular,Paid Search
+C002015,Customer 2015,Abu Dhabi,2023-02-22,New,Paid Search
+C002016,Customer 2016,Abu Dhabi,2023-01-21,New,Organic
+C002017,Customer 2017,Dubai,2025-12-24,Premium,Email
+C002018,Customer 2018,Dubai,2022-09-09,Regular,Social Media
+C002019,Customer 2019,Sharjah,2022-10-04,New,Organic
+C002020,Customer 2020,Abu Dhabi,2025-09-19,New,Paid Search
+C002021,Customer 2021,Sharjah,2024-03-14,New,Organic
+C002022,Customer 2022,Dubai,2022-03-04,Premium,Social Media
+C002023,Customer 2023,Dubai,2023-09-13,New,Paid Search
+C002024,Customer 2024,Dubai,2024-04-05,New,Organic
+C002025,Customer 2025,Abu Dhabi,2023-01-05,Regular,Referral
+C002026,Customer 2026,Abu Dhabi,2024-03-11,New,Organic
+C002027,Customer 2027,Ajman,2024-08-04,New,Social Media
+C002028,Customer 2028,Abu Dhabi,2023-01-01,Premium,Social Media
+C002029,Customer 2029,Abu Dhabi,2025-04-01,Regular,Email
+C002030,Customer 2030,Sharjah,2023-10-24,New,Paid Search
+C002031,Customer 2031,Dubai,2025-11-07,Regular,Email
+C002032,Customer 2032,Abu Dhabi,2022-05-09,New,Paid Search
+C002033,Customer 2033,Abu Dhabi,2023-04-19,New,Referral
+C002034,Customer 2034,Abu Dhabi,2024-11-19,Regular,Organic
+C002035,Customer 2035,Dubai,2025-07-30,Regular,Social Media
+C002036,Customer 2036,Ajman,2022-11-20,Regular,Organic
+C002037,Customer 2037,Al Ain,2025-12-02,Premium,Email
+C002038,Customer 2038,Dubai,2022-10-10,New,Email
+C002039,Customer 2039,Sharjah,2023-08-31,Premium,Paid Search
+C002040,Customer 2040,Ajman,2023-04-05,Regular,Paid Search
+C002041,Customer 2041,Dubai,2023-09-12,New,Social Media
+C002042,Customer 2042,Ajman,2025-08-10,Regular,Organic
+C002043,Customer 2043,Sharjah,2024-12-05,New,Social Media
+C002044,Customer 2044,Al Ain,2025-03-08,Regular,Social Media
+C002045,Customer 2045,Al Ain,2023-01-06,Regular,Paid Search
+C002046,Customer 2046,Dubai,2025-10-14,New,Organic
+C002047,Customer 2047,Abu Dhabi,2023-09-28,Premium,Email
+C002048,Customer 2048,Sharjah,2024-08-09,New,Organic
+C002049,Customer 2049,Dubai,2024-10-15,Regular,Social Media
+C002050,Customer 2050,Dubai,2024-08-25,New,Organic
+C002051,Customer 2051,Al Ain,2024-05-28,New,Organic
+C002052,Customer 2052,Dubai,2023-12-02,Regular,Organic
+C002053,Customer 2053,Abu Dhabi,2024-08-03,Premium,Paid Search
+C002054,Customer 2054,Ras Al Khaimah,2025-08-14,New,Social Media
+C002055,Customer 2055,Dubai,2023-07-24,Premium,Paid Search
+C002056,Customer 2056,Abu Dhabi,2024-01-16,New,Social Media
+C002057,Customer 2057,Al Ain,2022-09-20,Regular,Social Media
+C002058,Customer 2058,Abu Dhabi,2023-06-03,New,Organic
+C002059,Customer 2059,Dubai,2025-02-01,New,Organic
+C002060,Customer 2060,Dubai,2024-07-23,Premium,Social Media
+C002061,Customer 2061,Al Ain,2022-11-05,Regular,Social Media
+C002062,Customer 2062,Dubai,2024-03-08,Regular,Social Media
+C002063,Customer 2063,Abu Dhabi,2025-03-31,Regular,Organic
+C002064,Customer 2064,Dubai,2022-07-01,Regular,Referral
+C002065,Customer 2065,Abu Dhabi,2022-04-01,Regular,Organic
+C002066,Customer 2066,Al Ain,2023-07-28,Premium,Social Media
+C002067,Customer 2067,Abu Dhabi,2024-08-16,Regular,Organic
+C002068,Customer 2068,Al Ain,2023-04-03,Regular,Social Media
+C002069,Customer 2069,Dubai,2025-04-13,Regular,Paid Search
+C002070,Customer 2070,Abu Dhabi,2025-05-21,Regular,Social Media
+C002071,Customer 2071,Ras Al Khaimah,2024-02-17,Regular,Organic
+C002072,Customer 2072,Abu Dhabi,2023-07-08,Regular,Social Media
+C002073,Customer 2073,Dubai,2022-03-02,Regular,Organic
+C002074,Customer 2074,Ras Al Khaimah,2025-04-14,Regular,Social Media
+C002075,Customer 2075,Abu Dhabi,2025-07-31,Premium,Organic
+C002076,Customer 2076,Abu Dhabi,2023-10-08,Premium,Organic
+C002077,Customer 2077,Al Ain,2024-01-25,Regular,Social Media
+C002078,Customer 2078,Dubai,2025-01-05,Regular,Organic
+C002079,Customer 2079,Dubai,2024-10-12,Regular,Organic
+C002080,Customer 2080,Dubai,2022-07-17,New,Referral
+C002081,Customer 2081,Abu Dhabi,2024-09-08,Regular,Referral
+C002082,Customer 2082,Dubai,2025-09-11,New,Referral
+C002083,Customer 2083,Sharjah,2025-01-01,New,Paid Search
+C002084,Customer 2084,Dubai,2023-12-03,Premium,Paid Search
+C002085,Customer 2085,Sharjah,2024-02-03,Premium,Referral
+C002086,Customer 2086,Dubai,2023-01-15,Regular,Organic
+C002087,Customer 2087,Abu Dhabi,2024-08-22,New,Social Media
+C002088,Customer 2088,Abu Dhabi,2022-12-19,Regular,Organic
+C002089,Customer 2089,Sharjah,2023-05-15,Regular,Email
+C002090,Customer 2090,Abu Dhabi,2023-01-23,Regular,Social Media
+C002091,Customer 2091,Abu Dhabi,2023-05-05,Premium,Paid Search
+C002092,Customer 2092,Ras Al Khaimah,2023-06-20,New,Paid Search
+C002093,Customer 2093,Sharjah,2022-05-02,New,Organic
+C002094,Customer 2094,Dubai,2024-11-13,New,Paid Search
+C002095,Customer 2095,Fujairah,2023-10-06,New,Social Media
+C002096,Customer 2096,Abu Dhabi,2025-10-18,Regular,Social Media
+C002097,Customer 2097,Dubai,2022-09-22,New,Paid Search
+C002098,Customer 2098,Abu Dhabi,2024-09-03,New,Organic
+C002099,Customer 2099,Dubai,2022-09-19,New,Social Media
+C002100,Customer 2100,Dubai,2024-03-09,New,Paid Search
+C002101,Customer 2101,Ajman,2023-12-18,Regular,Organic
+C002102,Customer 2102,Dubai,2023-10-17,New,Email
+C002103,Customer 2103,Ajman,2024-08-13,Premium,Paid Search
+C002104,Customer 2104,Al Ain,2025-04-24,New,Paid Search
+C002105,Customer 2105,Sharjah,2023-04-08,New,Email
+C002106,Customer 2106,Sharjah,2025-05-25,New,Paid Search
+C002107,Customer 2107,Sharjah,2022-09-27,Regular,Email
+C002108,Customer 2108,Al Ain,2023-03-04,New,Social Media
+C002109,Customer 2109,Abu Dhabi,2023-03-30,Regular,Social Media
+C002110,Customer 2110,Dubai,2025-10-23,New,Organic
+C002111,Customer 2111,Abu Dhabi,2022-06-23,Premium,Organic
+C002112,Customer 2112,Abu Dhabi,2023-07-31,New,Paid Search
+C002113,Customer 2113,Dubai,2023-09-12,Regular,Organic
+C002114,Customer 2114,Sharjah,2025-03-14,Premium,Organic
+C002115,Customer 2115,Dubai,2023-12-11,New,Social Media
+C002116,Customer 2116,Al Ain,2025-11-12,New,Social Media
+C002117,Customer 2117,Dubai,2024-12-16,Regular,Organic
+C002118,Customer 2118,Dubai,2024-10-24,New,Referral
+C002119,Customer 2119,Dubai,2025-01-04,New,Email
+C002120,Customer 2120,Dubai,2022-08-24,Regular,Referral
+C002121,Customer 2121,Dubai,2023-10-18,New,Referral
+C002122,Customer 2122,Dubai,2024-05-05,Premium,Social Media
+C002123,Customer 2123,Dubai,2022-11-01,Regular,Organic
+C002124,Customer 2124,Dubai,2022-06-23,Regular,Paid Search
+C002125,Customer 2125,Abu Dhabi,2022-07-18,New,Email
+C002126,Customer 2126,Abu Dhabi,2025-02-26,Regular,Social Media
+C002127,Customer 2127,Dubai,2024-08-17,Regular,Referral
+C002128,Customer 2128,Dubai,2023-02-15,New,Email
+C002129,Customer 2129,Dubai,2024-12-12,Premium,Organic
+C002130,Customer 2130,Dubai,2024-10-12,Regular,Paid Search
+C002131,Customer 2131,Dubai,2025-04-07,Regular,Social Media
+C002132,Customer 2132,Ajman,2025-08-21,New,Organic
+C002133,Customer 2133,Al Ain,2025-07-12,New,Social Media
+C002134,Customer 2134,Al Ain,2022-09-22,Regular,Referral
+C002135,Customer 2135,Abu Dhabi,2025-01-28,Regular,Social Media
+C002136,Customer 2136,Abu Dhabi,2023-07-28,Regular,Paid Search
+C002137,Customer 2137,Dubai,2023-08-12,New,Social Media
+C002138,Customer 2138,Ajman,2024-08-02,Regular,Organic
+C002139,Customer 2139,Ajman,2024-05-29,New,Email
+C002140,Customer 2140,Ras Al Khaimah,2023-09-05,New,Organic
+C002141,Customer 2141,Fujairah,2025-12-30,Regular,Referral
+C002142,Customer 2142,Abu Dhabi,2022-09-13,New,Paid Search
+C002143,Customer 2143,Ajman,2022-05-22,New,Paid Search
+C002144,Customer 2144,Ajman,2022-02-12,New,Paid Search
+C002145,Customer 2145,Dubai,2025-04-03,Premium,Organic
+C002146,Customer 2146,Al Ain,2023-08-17,New,Paid Search
+C002147,Customer 2147,Dubai,2023-10-01,Regular,Referral
+C002148,Customer 2148,Al Ain,2024-08-05,Premium,Referral
+C002149,Customer 2149,Ajman,2023-09-28,Regular,Organic
+C002150,Customer 2150,Dubai,2024-04-18,Regular,Social Media
+C002151,Customer 2151,Sharjah,2022-03-27,Regular,Referral
+C002152,Customer 2152,Dubai,2022-08-17,New,Referral
+C002153,Customer 2153,Ajman,2025-09-22,Regular,Paid Search
+C002154,Customer 2154,Ajman,2023-10-21,Premium,Organic
+C002155,Customer 2155,Sharjah,2022-09-02,Regular,Email
+C002156,Customer 2156,Ras Al Khaimah,2023-06-24,Regular,Paid Search
+C002157,Customer 2157,Dubai,2023-05-04,New,Paid Search
+C002158,Customer 2158,Dubai,2023-02-05,Premium,Referral
+C002159,Customer 2159,Abu Dhabi,2023-03-05,New,Organic
+C002160,Customer 2160,Dubai,2024-11-30,Regular,Referral
+C002161,Customer 2161,Abu Dhabi,2022-06-05,New,Organic
+C002162,Customer 2162,Dubai,2023-03-29,Regular,Referral
+C002163,Customer 2163,Abu Dhabi,2023-11-15,Regular,Email
+C002164,Customer 2164,Abu Dhabi,2024-02-28,Regular,Email
+C002165,Customer 2165,Ras Al Khaimah,2025-07-09,New,Email
+C002166,Customer 2166,Dubai,2025-09-09,Regular,Referral
+C002167,Customer 2167,Fujairah,2023-03-11,New,Organic
+C002168,Customer 2168,Abu Dhabi,2024-02-27,New,Email
+C002169,Customer 2169,Dubai,2022-02-02,Regular,Email
+C002170,Customer 2170,Abu Dhabi,2024-06-19,Regular,Social Media
+C002171,Customer 2171,Abu Dhabi,2022-08-12,Regular,Paid Search
+C002172,Customer 2172,Dubai,2022-04-17,New,Organic
+C002173,Customer 2173,Abu Dhabi,2024-09-07,Regular,Social Media
+C002174,Customer 2174,Dubai,2022-09-18,Premium,Social Media
+C002175,Customer 2175,Abu Dhabi,2023-11-28,New,Paid Search
+C002176,Customer 2176,Sharjah,2022-05-28,Regular,Paid Search
+C002177,Customer 2177,Abu Dhabi,2024-12-24,Regular,Social Media
+C002178,Customer 2178,Ras Al Khaimah,2025-01-21,Premium,Organic
+C002179,Customer 2179,Dubai,2024-04-19,Regular,Email
+C002180,Customer 2180,Al Ain,2025-05-05,Regular,Paid Search
+C002181,Customer 2181,Ajman,2023-09-30,New,Organic
+C002182,Customer 2182,Al Ain,2022-09-30,New,Organic
+C002183,Customer 2183,Ras Al Khaimah,2022-08-09,Premium,Referral
+C002184,Customer 2184,Dubai,2022-11-17,Premium,Referral
+C002185,Customer 2185,Abu Dhabi,2022-10-20,Regular,Organic
+C002186,Customer 2186,Dubai,2023-04-17,Regular,Organic
+C002187,Customer 2187,Ajman,2022-11-09,Regular,Paid Search
+C002188,Customer 2188,Sharjah,2024-05-12,New,Organic
+C002189,Customer 2189,Dubai,2022-08-05,Premium,Referral
+C002190,Customer 2190,Al Ain,2024-06-26,Regular,Organic
+C002191,Customer 2191,Dubai,2023-05-03,Regular,Social Media
+C002192,Customer 2192,Sharjah,2024-09-29,New,Paid Search
+C002193,Customer 2193,Ajman,2024-01-19,New,Paid Search
+C002194,Customer 2194,Dubai,2025-08-14,New,Paid Search
+C002195,Customer 2195,Sharjah,2023-10-05,Regular,Organic
+C002196,Customer 2196,Ajman,2023-03-07,Regular,Organic
+C002197,Customer 2197,Dubai,2024-05-10,New,Organic
+C002198,Customer 2198,Abu Dhabi,2024-08-19,Regular,Organic
+C002199,Customer 2199,Dubai,2023-10-04,Premium,Email
+C002200,Customer 2200,Sharjah,2024-03-28,New,Organic
+C002201,Customer 2201,Dubai,2023-11-19,Regular,Paid Search
+C002202,Customer 2202,Al Ain,2023-03-23,Regular,Organic
+C002203,Customer 2203,Fujairah,2023-04-03,New,Referral
+C002204,Customer 2204,Dubai,2025-08-17,Regular,Email
+C002205,Customer 2205,Dubai,2024-09-12,Regular,Referral
+C002206,Customer 2206,Sharjah,2022-05-20,New,Social Media
+C002207,Customer 2207,Sharjah,2025-11-05,New,Referral
+C002208,Customer 2208,Abu Dhabi,2024-11-05,Premium,Paid Search
+C002209,Customer 2209,Dubai,2022-03-15,New,Referral
+C002210,Customer 2210,Dubai,2024-11-28,Regular,Referral
+C002211,Customer 2211,Al Ain,2024-05-10,Regular,Organic
+C002212,Customer 2212,Abu Dhabi,2025-08-29,Regular,Paid Search
+C002213,Customer 2213,Ras Al Khaimah,2023-12-16,Regular,Organic
+C002214,Customer 2214,Abu Dhabi,2024-01-28,Regular,Organic
+C002215,Customer 2215,Al Ain,2023-04-05,Regular,Referral
+C002216,Customer 2216,Dubai,2023-04-15,Regular,Organic
+C002217,Customer 2217,Dubai,2024-06-21,Regular,Referral
+C002218,Customer 2218,Al Ain,2025-04-23,New,Email
+C002219,Customer 2219,Al Ain,2025-07-24,Regular,Paid Search
+C002220,Customer 2220,Dubai,2025-01-30,New,Paid Search
+C002221,Customer 2221,Abu Dhabi,2024-06-09,Regular,Social Media
+C002222,Customer 2222,Abu Dhabi,2024-01-01,Regular,Referral
+C002223,Customer 2223,Abu Dhabi,2023-05-11,New,Organic
+C002224,Customer 2224,Dubai,2025-01-26,New,Organic
+C002225,Customer 2225,Fujairah,2023-04-10,Regular,Social Media
+C002226,Customer 2226,Dubai,2023-01-27,Regular,Email
+C002227,Customer 2227,Sharjah,2025-06-21,Regular,Paid Search
+C002228,Customer 2228,Dubai,2024-05-10,Regular,Paid Search
+C002229,Customer 2229,Dubai,2023-06-02,Premium,Email
+C002230,Customer 2230,Sharjah,2025-06-17,Regular,Organic
+C002231,Customer 2231,Dubai,2025-11-06,New,Organic
+C002232,Customer 2232,Sharjah,2023-04-10,Premium,Social Media
+C002233,Customer 2233,Dubai,2024-02-01,New,Organic
+C002234,Customer 2234,Al Ain,2023-12-07,Regular,Organic
+C002235,Customer 2235,Ajman,2024-10-21,Regular,Social Media
+C002236,Customer 2236,Ras Al Khaimah,2025-10-20,New,Social Media
+C002237,Customer 2237,Dubai,2024-03-11,Regular,Paid Search
+C002238,Customer 2238,Dubai,2025-03-11,New,Paid Search
+C002239,Customer 2239,Abu Dhabi,2024-05-19,New,Social Media
+C002240,Customer 2240,Abu Dhabi,2025-07-19,New,Social Media
+C002241,Customer 2241,Dubai,2023-08-14,New,Referral
+C002242,Customer 2242,Dubai,2023-07-17,New,Referral
+C002243,Customer 2243,Abu Dhabi,2023-09-09,Regular,Social Media
+C002244,Customer 2244,Dubai,2025-12-25,Regular,Email
+C002245,Customer 2245,Abu Dhabi,2024-06-11,Regular,Referral
+C002246,Customer 2246,Dubai,2022-08-11,Regular,Organic
+C002247,Customer 2247,Dubai,2022-03-01,New,Email
+C002248,Customer 2248,Sharjah,2024-01-28,New,Email
+C002249,Customer 2249,Abu Dhabi,2025-03-22,Regular,Paid Search
+C002250,Customer 2250,Abu Dhabi,2023-12-01,Premium,Organic
+C002251,Customer 2251,Abu Dhabi,2024-03-28,Regular,Social Media
+C002252,Customer 2252,Ajman,2025-03-11,New,Paid Search
+C002253,Customer 2253,Abu Dhabi,2024-01-24,Regular,Referral
+C002254,Customer 2254,Sharjah,2025-08-19,Premium,Paid Search
+C002255,Customer 2255,Al Ain,2024-07-20,Regular,Organic
+C002256,Customer 2256,Abu Dhabi,2024-12-03,New,Organic
+C002257,Customer 2257,Fujairah,2025-02-14,New,Email
+C002258,Customer 2258,Ajman,2024-07-04,Regular,Organic
+C002259,Customer 2259,Dubai,2022-03-15,Premium,Referral
+C002260,Customer 2260,Abu Dhabi,2023-09-17,Regular,Paid Search
+C002261,Customer 2261,Sharjah,2022-07-26,New,Paid Search
+C002262,Customer 2262,Al Ain,2024-01-16,Regular,Social Media
+C002263,Customer 2263,Abu Dhabi,2022-07-29,Regular,Organic
+C002264,Customer 2264,Dubai,2024-01-14,Regular,Social Media
+C002265,Customer 2265,Sharjah,2023-05-18,Regular,Social Media
+C002266,Customer 2266,Dubai,2022-01-30,Regular,Organic
+C002267,Customer 2267,Ajman,2022-07-02,New,Paid Search
+C002268,Customer 2268,Abu Dhabi,2022-04-26,Regular,Referral
+C002269,Customer 2269,Ajman,2025-06-03,Regular,Social Media
+C002270,Customer 2270,Ras Al Khaimah,2025-01-12,Premium,Social Media
+C002271,Customer 2271,Sharjah,2024-11-01,Regular,Referral
+C002272,Customer 2272,Sharjah,2022-09-09,Regular,Organic
+C002273,Customer 2273,Ajman,2025-03-07,Regular,Organic
+C002274,Customer 2274,Ras Al Khaimah,2024-07-15,Regular,Social Media
+C002275,Customer 2275,Ras Al Khaimah,2023-07-25,New,Social Media
+C002276,Customer 2276,Dubai,2022-01-01,Regular,Referral
+C002277,Customer 2277,Sharjah,2024-02-12,Regular,Organic
+C002278,Customer 2278,Dubai,2025-03-08,Regular,Paid Search
+C002279,Customer 2279,Ras Al Khaimah,2022-02-18,Regular,Social Media
+C002280,Customer 2280,Sharjah,2022-03-18,New,Organic
+C002281,Customer 2281,Abu Dhabi,2023-07-14,Regular,Paid Search
+C002282,Customer 2282,Dubai,2024-01-17,Regular,Social Media
+C002283,Customer 2283,Dubai,2023-11-24,Regular,Organic
+C002284,Customer 2284,Sharjah,2023-09-15,Regular,Paid Search
+C002285,Customer 2285,Dubai,2023-01-08,Regular,Organic
+C002286,Customer 2286,Dubai,2022-03-29,Regular,Email
+C002287,Customer 2287,Fujairah,2022-02-15,New,Organic
+C002288,Customer 2288,Ajman,2022-05-25,New,Organic
+C002289,Customer 2289,Dubai,2024-10-04,Regular,Organic
+C002290,Customer 2290,Dubai,2025-02-21,Regular,Organic
+C002291,Customer 2291,Al Ain,2023-09-28,Regular,Organic
+C002292,Customer 2292,Sharjah,2022-04-24,Regular,Social Media
+C002293,Customer 2293,Sharjah,2023-08-30,Regular,Organic
+C002294,Customer 2294,Dubai,2025-12-10,New,Paid Search
+C002295,Customer 2295,Dubai,2022-12-31,Regular,Organic
+C002296,Customer 2296,Dubai,2023-12-19,New,Paid Search
+C002297,Customer 2297,Ajman,2024-02-25,Regular,Organic
+C002298,Customer 2298,Dubai,2023-04-27,Regular,Social Media
+C002299,Customer 2299,Dubai,2023-10-02,Regular,Social Media
+C002300,Customer 2300,Ajman,2023-11-20,New,Referral
+C002301,Customer 2301,Al Ain,2023-11-24,Premium,Organic
+C002302,Customer 2302,Ajman,2024-11-13,Regular,Referral
+C002303,Customer 2303,Abu Dhabi,2024-04-28,Regular,Social Media
+C002304,Customer 2304,Abu Dhabi,2022-03-19,Premium,Organic
+C002305,Customer 2305,Abu Dhabi,2022-01-10,Regular,Paid Search
+C002306,Customer 2306,Dubai,2023-08-23,Regular,Referral
+C002307,Customer 2307,Abu Dhabi,2025-08-18,New,Paid Search
+C002308,Customer 2308,Abu Dhabi,2022-02-23,New,Paid Search
+C002309,Customer 2309,Sharjah,2022-04-14,New,Social Media
+C002310,Customer 2310,Fujairah,2024-09-18,New,Organic
+C002311,Customer 2311,Al Ain,2023-10-21,Regular,Email
+C002312,Customer 2312,Dubai,2022-12-03,New,Organic
+C002313,Customer 2313,Abu Dhabi,2022-10-30,Regular,Organic
+C002314,Customer 2314,Dubai,2024-08-28,New,Organic
+C002315,Customer 2315,Abu Dhabi,2024-02-04,New,Paid Search
+C002316,Customer 2316,Dubai,2024-07-20,Premium,Email
+C002317,Customer 2317,Dubai,2023-02-14,Regular,Referral
+C002318,Customer 2318,Ajman,2024-02-08,Premium,Email
+C002319,Customer 2319,Abu Dhabi,2025-06-09,Regular,Social Media
+C002320,Customer 2320,Fujairah,2023-04-08,New,Paid Search
+C002321,Customer 2321,Dubai,2023-08-02,Regular,Paid Search
+C002322,Customer 2322,Dubai,2022-08-28,Regular,Organic
+C002323,Customer 2323,Abu Dhabi,2024-07-21,New,Email
+C002324,Customer 2324,Dubai,2022-02-17,Premium,Paid Search
+C002325,Customer 2325,Dubai,2022-12-30,Regular,Paid Search
+C002326,Customer 2326,Al Ain,2024-11-07,Regular,Paid Search
+C002327,Customer 2327,Dubai,2022-01-29,Regular,Referral
+C002328,Customer 2328,Dubai,2025-12-15,Regular,Organic
+C002329,Customer 2329,Sharjah,2023-08-14,New,Social Media
+C002330,Customer 2330,Abu Dhabi,2023-08-06,Premium,Social Media
+C002331,Customer 2331,Sharjah,2024-02-23,Regular,Referral
+C002332,Customer 2332,Abu Dhabi,2024-07-22,New,Organic
+C002333,Customer 2333,Ras Al Khaimah,2023-11-02,New,Organic
+C002334,Customer 2334,Dubai,2025-07-15,Regular,Paid Search
+C002335,Customer 2335,Abu Dhabi,2025-11-05,Premium,Referral
+C002336,Customer 2336,Sharjah,2022-10-20,Premium,Email
+C002337,Customer 2337,Ras Al Khaimah,2024-10-28,Regular,Social Media
+C002338,Customer 2338,Abu Dhabi,2023-03-16,Premium,Organic
+C002339,Customer 2339,Sharjah,2025-12-24,Regular,Organic
+C002340,Customer 2340,Dubai,2023-01-05,New,Social Media
+C002341,Customer 2341,Dubai,2023-03-07,Regular,Organic
+C002342,Customer 2342,Dubai,2024-11-08,New,Social Media
+C002343,Customer 2343,Ajman,2025-02-26,New,Referral
+C002344,Customer 2344,Dubai,2022-07-07,Regular,Paid Search
+C002345,Customer 2345,Ajman,2024-03-22,New,Paid Search
+C002346,Customer 2346,Dubai,2023-05-20,Premium,Organic
+C002347,Customer 2347,Ras Al Khaimah,2024-06-12,Premium,Organic
+C002348,Customer 2348,Ras Al Khaimah,2024-03-23,New,Social Media
+C002349,Customer 2349,Dubai,2025-12-10,Regular,Paid Search
+C002350,Customer 2350,Dubai,2025-09-25,Regular,Organic
+C002351,Customer 2351,Dubai,2024-08-12,New,Organic
+C002352,Customer 2352,Ras Al Khaimah,2024-09-18,New,Organic
+C002353,Customer 2353,Dubai,2025-08-05,New,Social Media
+C002354,Customer 2354,Sharjah,2022-09-25,New,Social Media
+C002355,Customer 2355,Abu Dhabi,2024-11-25,New,Paid Search
+C002356,Customer 2356,Ajman,2025-02-01,New,Paid Search
+C002357,Customer 2357,Abu Dhabi,2022-07-05,New,Organic
+C002358,Customer 2358,Abu Dhabi,2025-07-10,Premium,Paid Search
+C002359,Customer 2359,Al Ain,2024-10-18,New,Organic
+C002360,Customer 2360,Dubai,2023-05-22,New,Email
+C002361,Customer 2361,Ras Al Khaimah,2023-12-09,Regular,Organic
+C002362,Customer 2362,Dubai,2023-12-16,New,Paid Search
+C002363,Customer 2363,Abu Dhabi,2025-09-03,Regular,Organic
+C002364,Customer 2364,Fujairah,2025-11-16,New,Referral
+C002365,Customer 2365,Sharjah,2025-03-23,Regular,Organic
+C002366,Customer 2366,Sharjah,2024-08-10,Regular,Email
+C002367,Customer 2367,Dubai,2022-06-02,Regular,Organic
+C002368,Customer 2368,Abu Dhabi,2025-08-28,Regular,Referral
+C002369,Customer 2369,Abu Dhabi,2022-07-15,Regular,Social Media
+C002370,Customer 2370,Abu Dhabi,2022-09-01,New,Organic
+C002371,Customer 2371,Abu Dhabi,2022-04-12,New,Organic
+C002372,Customer 2372,Dubai,2025-10-15,Regular,Paid Search
+C002373,Customer 2373,Dubai,2023-12-22,New,Referral
+C002374,Customer 2374,Dubai,2022-12-11,New,Referral
+C002375,Customer 2375,Abu Dhabi,2022-04-28,Regular,Organic
+C002376,Customer 2376,Dubai,2023-08-25,New,Paid Search
+C002377,Customer 2377,Ras Al Khaimah,2024-11-22,New,Organic
+C002378,Customer 2378,Sharjah,2025-12-23,Regular,Organic
+C002379,Customer 2379,Dubai,2024-03-17,Regular,Social Media
+C002380,Customer 2380,Sharjah,2024-06-05,Regular,Paid Search
+C002381,Customer 2381,Ras Al Khaimah,2025-05-05,Premium,Organic
+C002382,Customer 2382,Dubai,2025-08-09,Premium,Referral
+C002383,Customer 2383,Dubai,2023-02-13,Regular,Referral
+C002384,Customer 2384,Dubai,2025-12-19,New,Referral
+C002385,Customer 2385,Dubai,2024-01-28,Regular,Organic
+C002386,Customer 2386,Ajman,2025-09-20,Regular,Email
+C002387,Customer 2387,Al Ain,2022-06-21,Regular,Social Media
+C002388,Customer 2388,Dubai,2022-05-23,New,Paid Search
+C002389,Customer 2389,Ajman,2025-07-15,New,Organic
+C002390,Customer 2390,Dubai,2024-09-08,New,Email
+C002391,Customer 2391,Sharjah,2022-09-13,New,Social Media
+C002392,Customer 2392,Ajman,2025-07-30,New,Referral
+C002393,Customer 2393,Abu Dhabi,2022-05-30,Premium,Social Media
+C002394,Customer 2394,Dubai,2024-09-23,New,Referral
+C002395,Customer 2395,Sharjah,2022-10-27,Regular,Social Media
+C002396,Customer 2396,Al Ain,2022-04-14,Premium,Email
+C002397,Customer 2397,Dubai,2025-03-23,New,Organic
+C002398,Customer 2398,Dubai,2025-05-22,Regular,Organic
+C002399,Customer 2399,Dubai,2022-06-04,Regular,Social Media
+C002400,Customer 2400,Sharjah,2022-05-16,New,Paid Search
+C002401,Customer 2401,Sharjah,2024-06-16,Regular,Social Media
+C002402,Customer 2402,Ajman,2022-02-11,Regular,Social Media
+C002403,Customer 2403,Ajman,2024-12-25,Regular,Social Media
+C002404,Customer 2404,Fujairah,2025-08-29,Regular,Referral
+C002405,Customer 2405,Ajman,2025-01-01,Premium,Paid Search
+C002406,Customer 2406,Dubai,2022-12-03,New,Referral
+C002407,Customer 2407,Sharjah,2022-10-05,Regular,Organic
+C002408,Customer 2408,Dubai,2024-09-20,Regular,Social Media
+C002409,Customer 2409,Dubai,2022-03-31,Regular,Email
+C002410,Customer 2410,Al Ain,2024-02-25,Regular,Organic
+C002411,Customer 2411,Sharjah,2023-10-18,Regular,Paid Search
+C002412,Customer 2412,Al Ain,2024-12-23,Premium,Paid Search
+C002413,Customer 2413,Abu Dhabi,2022-10-23,New,Social Media
+C002414,Customer 2414,Abu Dhabi,2025-01-17,Regular,Paid Search
+C002415,Customer 2415,Abu Dhabi,2024-10-17,New,Organic
+C002416,Customer 2416,Dubai,2022-12-15,Regular,Email
+C002417,Customer 2417,Dubai,2023-06-05,Regular,Organic
+C002418,Customer 2418,Abu Dhabi,2022-04-07,Regular,Social Media
+C002419,Customer 2419,Dubai,2023-10-19,Regular,Social Media
+C002420,Customer 2420,Al Ain,2023-01-16,Regular,Organic
+C002421,Customer 2421,Dubai,2022-06-15,New,Organic
+C002422,Customer 2422,Dubai,2024-03-28,New,Email
+C002423,Customer 2423,Ajman,2024-04-08,New,Social Media
+C002424,Customer 2424,Dubai,2022-05-06,Premium,Organic
+C002425,Customer 2425,Fujairah,2022-09-28,New,Referral
+C002426,Customer 2426,Ajman,2022-05-01,Premium,Paid Search
+C002427,Customer 2427,Dubai,2024-09-18,New,Organic
+C002428,Customer 2428,Sharjah,2023-05-09,Regular,Social Media
+C002429,Customer 2429,Sharjah,2022-04-14,Regular,Paid Search
+C002430,Customer 2430,Ajman,2022-10-07,Regular,Organic
+C002431,Customer 2431,Ras Al Khaimah,2025-11-25,Regular,Referral
+C002432,Customer 2432,Sharjah,2023-01-09,Regular,Paid Search
+C002433,Customer 2433,Sharjah,2024-09-26,Premium,Paid Search
+C002434,Customer 2434,Dubai,2023-11-15,Regular,Organic
+C002435,Customer 2435,Sharjah,2022-09-23,New,Referral
+C002436,Customer 2436,Al Ain,2023-03-25,New,Social Media
+C002437,Customer 2437,Sharjah,2022-01-21,Regular,Email
+C002438,Customer 2438,Sharjah,2024-12-26,Regular,Organic
+C002439,Customer 2439,Abu Dhabi,2023-05-04,Regular,Referral
+C002440,Customer 2440,Ajman,2023-12-30,Regular,Social Media
+C002441,Customer 2441,Al Ain,2022-08-12,Regular,Paid Search
+C002442,Customer 2442,Dubai,2025-04-18,Regular,Organic
+C002443,Customer 2443,Dubai,2022-11-15,Regular,Referral
+C002444,Customer 2444,Abu Dhabi,2024-04-06,Regular,Organic
+C002445,Customer 2445,Abu Dhabi,2025-06-28,Regular,Social Media
+C002446,Customer 2446,Sharjah,2024-11-07,Premium,Social Media
+C002447,Customer 2447,Dubai,2024-05-30,Regular,Organic
+C002448,Customer 2448,Abu Dhabi,2025-07-20,Premium,Email
+C002449,Customer 2449,Sharjah,2022-09-15,New,Referral
+C002450,Customer 2450,Sharjah,2025-11-07,Regular,Paid Search
+C002451,Customer 2451,Sharjah,2024-03-23,Regular,Social Media
+C002452,Customer 2452,Ajman,2023-08-22,Regular,Paid Search
+C002453,Customer 2453,Sharjah,2023-01-09,New,Referral
+C002454,Customer 2454,Ajman,2024-12-23,Regular,Organic
+C002455,Customer 2455,Sharjah,2025-11-26,New,Paid Search
+C002456,Customer 2456,Abu Dhabi,2024-10-04,Premium,Paid Search
+C002457,Customer 2457,Sharjah,2022-02-17,New,Paid Search
+C002458,Customer 2458,Dubai,2023-11-16,New,Paid Search
+C002459,Customer 2459,Dubai,2024-12-05,Regular,Organic
+C002460,Customer 2460,Abu Dhabi,2023-08-04,Regular,Email
+C002461,Customer 2461,Ras Al Khaimah,2025-02-02,New,Organic
+C002462,Customer 2462,Sharjah,2024-10-29,Regular,Organic
+C002463,Customer 2463,Dubai,2022-04-09,Regular,Paid Search
+C002464,Customer 2464,Sharjah,2024-03-25,New,Social Media
+C002465,Customer 2465,Dubai,2022-09-08,Regular,Organic
+C002466,Customer 2466,Ajman,2023-12-12,Regular,Social Media
+C002467,Customer 2467,Ras Al Khaimah,2023-07-16,Regular,Social Media
+C002468,Customer 2468,Sharjah,2025-03-24,New,Organic
+C002469,Customer 2469,Sharjah,2025-06-21,New,Email
+C002470,Customer 2470,Dubai,2023-11-05,Premium,Paid Search
+C002471,Customer 2471,Abu Dhabi,2024-02-24,Regular,Social Media
+C002472,Customer 2472,Ras Al Khaimah,2024-07-03,New,Organic
+C002473,Customer 2473,Ajman,2024-08-14,Regular,Social Media
+C002474,Customer 2474,Abu Dhabi,2024-07-16,New,Referral
+C002475,Customer 2475,Abu Dhabi,2025-02-17,Regular,Organic
+C002476,Customer 2476,Dubai,2025-12-04,Regular,Organic
+C002477,Customer 2477,Dubai,2025-04-24,Premium,Paid Search
+C002478,Customer 2478,Dubai,2022-07-16,Premium,Organic
+C002479,Customer 2479,Abu Dhabi,2023-11-27,New,Email
+C002480,Customer 2480,Al Ain,2023-11-05,Regular,Social Media
+C002481,Customer 2481,Abu Dhabi,2024-01-13,New,Social Media
+C002482,Customer 2482,Dubai,2024-02-11,Regular,Email
+C002483,Customer 2483,Dubai,2024-11-14,Regular,Referral
+C002484,Customer 2484,Dubai,2023-09-07,New,Referral
+C002485,Customer 2485,Ajman,2023-01-20,New,Paid Search
+C002486,Customer 2486,Abu Dhabi,2023-10-31,New,Paid Search
+C002487,Customer 2487,Ajman,2025-06-01,New,Paid Search
+C002488,Customer 2488,Ajman,2023-03-31,New,Paid Search
+C002489,Customer 2489,Dubai,2022-01-31,Premium,Paid Search
+C002490,Customer 2490,Sharjah,2025-11-26,Regular,Organic
+C002491,Customer 2491,Al Ain,2022-10-13,Regular,Paid Search
+C002492,Customer 2492,Abu Dhabi,2024-05-30,Regular,Paid Search
+C002493,Customer 2493,Dubai,2025-03-14,Regular,Paid Search
+C002494,Customer 2494,Al Ain,2023-02-05,Regular,Organic
+C002495,Customer 2495,Fujairah,2023-05-12,Premium,Paid Search
+C002496,Customer 2496,Abu Dhabi,2023-02-14,Regular,Paid Search
+C002497,Customer 2497,Sharjah,2022-08-07,Regular,Social Media
+C002498,Customer 2498,Dubai,2022-08-12,Premium,Social Media
+C002499,Customer 2499,Ajman,2022-09-30,Regular,Organic
+C002500,Customer 2500,Abu Dhabi,2023-10-31,Regular,Organic
+C002501,Customer 2501,Dubai,2024-02-14,Premium,Paid Search
+C002502,Customer 2502,Sharjah,2022-01-24,Regular,Organic
+C002503,Customer 2503,Al Ain,2025-05-20,Regular,Paid Search
+C002504,Customer 2504,Ras Al Khaimah,2024-09-13,New,Email
+C002505,Customer 2505,Dubai,2022-04-14,New,Organic
+C002506,Customer 2506,Dubai,2025-05-15,Regular,Paid Search
+C002507,Customer 2507,Al Ain,2022-02-14,New,Social Media
+C002508,Customer 2508,Al Ain,2024-03-29,Premium,Paid Search
+C002509,Customer 2509,Abu Dhabi,2023-11-11,New,Organic
+C002510,Customer 2510,Sharjah,2024-01-04,Regular,Organic
+C002511,Customer 2511,Abu Dhabi,2025-10-28,New,Email
+C002512,Customer 2512,Abu Dhabi,2025-09-15,Premium,Organic
+C002513,Customer 2513,Dubai,2023-02-12,Regular,Social Media
+C002514,Customer 2514,Dubai,2024-04-26,New,Referral
+C002515,Customer 2515,Dubai,2025-11-01,New,Organic
+C002516,Customer 2516,Ras Al Khaimah,2024-11-30,Regular,Social Media
+C002517,Customer 2517,Dubai,2025-07-20,Premium,Organic
+C002518,Customer 2518,Dubai,2023-09-27,Premium,Paid Search
+C002519,Customer 2519,Sharjah,2023-02-18,New,Paid Search
+C002520,Customer 2520,Dubai,2024-01-16,Regular,Email
+C002521,Customer 2521,Dubai,2025-04-07,New,Organic
+C002522,Customer 2522,Sharjah,2025-09-18,Regular,Organic
+C002523,Customer 2523,Abu Dhabi,2024-09-28,Regular,Email
+C002524,Customer 2524,Sharjah,2024-10-28,New,Organic
+C002525,Customer 2525,Fujairah,2024-01-18,Regular,Referral
+C002526,Customer 2526,Dubai,2023-04-12,Premium,Social Media
+C002527,Customer 2527,Fujairah,2023-09-10,New,Social Media
+C002528,Customer 2528,Fujairah,2023-12-28,New,Referral
+C002529,Customer 2529,Ras Al Khaimah,2025-04-05,New,Social Media
+C002530,Customer 2530,Sharjah,2024-03-21,New,Organic
+C002531,Customer 2531,Sharjah,2025-03-03,New,Email
+C002532,Customer 2532,Sharjah,2022-02-09,Regular,Email
+C002533,Customer 2533,Sharjah,2025-01-10,New,Email
+C002534,Customer 2534,Dubai,2024-01-11,Regular,Social Media
+C002535,Customer 2535,Al Ain,2025-12-28,Premium,Paid Search
+C002536,Customer 2536,Sharjah,2023-11-20,Premium,Social Media
+C002537,Customer 2537,Ajman,2023-11-30,Regular,Organic
+C002538,Customer 2538,Abu Dhabi,2022-07-06,New,Paid Search
+C002539,Customer 2539,Dubai,2025-03-24,New,Social Media
+C002540,Customer 2540,Abu Dhabi,2024-10-21,New,Social Media
+C002541,Customer 2541,Abu Dhabi,2025-06-13,Premium,Paid Search
+C002542,Customer 2542,Abu Dhabi,2022-05-16,Premium,Paid Search
+C002543,Customer 2543,Dubai,2022-11-05,Regular,Social Media
+C002544,Customer 2544,Dubai,2025-07-04,New,Paid Search
+C002545,Customer 2545,Abu Dhabi,2022-03-03,Regular,Email
+C002546,Customer 2546,Abu Dhabi,2024-01-12,New,Social Media
+C002547,Customer 2547,Al Ain,2023-08-14,Premium,Organic
+C002548,Customer 2548,Dubai,2025-10-03,New,Organic
+C002549,Customer 2549,Dubai,2025-06-04,New,Social Media
+C002550,Customer 2550,Dubai,2025-08-02,Regular,Paid Search
+C002551,Customer 2551,Sharjah,2023-02-27,New,Referral
+C002552,Customer 2552,Abu Dhabi,2024-05-07,Regular,Organic
+C002553,Customer 2553,Sharjah,2024-10-19,Premium,Organic
+C002554,Customer 2554,Al Ain,2025-11-13,New,Paid Search
+C002555,Customer 2555,Dubai,2022-01-11,Regular,Referral
+C002556,Customer 2556,Sharjah,2025-11-27,Regular,Email
+C002557,Customer 2557,Dubai,2023-06-03,New,Email
+C002558,Customer 2558,Dubai,2022-07-07,New,Paid Search
+C002559,Customer 2559,Abu Dhabi,2024-06-17,New,Referral
+C002560,Customer 2560,Dubai,2025-02-15,New,Organic
+C002561,Customer 2561,Sharjah,2022-07-09,New,Social Media
+C002562,Customer 2562,Sharjah,2022-03-01,Regular,Email
+C002563,Customer 2563,Ajman,2025-08-02,Regular,Paid Search
+C002564,Customer 2564,Abu Dhabi,2025-09-25,Premium,Email
+C002565,Customer 2565,Sharjah,2022-08-17,Regular,Organic
+C002566,Customer 2566,Abu Dhabi,2025-08-12,Regular,Organic
+C002567,Customer 2567,Dubai,2025-08-21,Regular,Paid Search
+C002568,Customer 2568,Dubai,2025-12-27,New,Email
+C002569,Customer 2569,Sharjah,2022-11-12,New,Paid Search
+C002570,Customer 2570,Al Ain,2024-04-25,Regular,Referral
+C002571,Customer 2571,Dubai,2025-12-22,Regular,Organic
+C002572,Customer 2572,Sharjah,2025-08-10,Regular,Referral
+C002573,Customer 2573,Ajman,2024-06-01,New,Social Media
+C002574,Customer 2574,Ras Al Khaimah,2022-10-15,Premium,Organic
+C002575,Customer 2575,Sharjah,2022-05-04,New,Social Media
+C002576,Customer 2576,Sharjah,2023-01-14,Premium,Social Media
+C002577,Customer 2577,Sharjah,2022-04-06,Regular,Paid Search
+C002578,Customer 2578,Ras Al Khaimah,2022-10-13,Regular,Organic
+C002579,Customer 2579,Dubai,2022-04-20,Regular,Organic
+C002580,Customer 2580,Al Ain,2025-01-17,New,Email
+C002581,Customer 2581,Dubai,2024-05-11,Regular,Social Media
+C002582,Customer 2582,Ras Al Khaimah,2024-01-27,Regular,Referral
+C002583,Customer 2583,Dubai,2025-03-27,Regular,Social Media
+C002584,Customer 2584,Dubai,2023-08-23,New,Referral
+C002585,Customer 2585,Dubai,2023-08-12,New,Organic
+C002586,Customer 2586,Abu Dhabi,2022-10-30,New,Paid Search
+C002587,Customer 2587,Dubai,2023-10-12,Regular,Social Media
+C002588,Customer 2588,Dubai,2022-09-12,Regular,Organic
+C002589,Customer 2589,Abu Dhabi,2024-05-10,Regular,Organic
+C002590,Customer 2590,Abu Dhabi,2025-12-27,Regular,Social Media
+C002591,Customer 2591,Ajman,2024-02-18,Regular,Referral
+C002592,Customer 2592,Fujairah,2023-03-13,New,Social Media
+C002593,Customer 2593,Sharjah,2024-10-01,Regular,Organic
+C002594,Customer 2594,Dubai,2025-04-12,New,Email
+C002595,Customer 2595,Dubai,2023-11-20,New,Organic
+C002596,Customer 2596,Fujairah,2023-01-01,New,Organic
+C002597,Customer 2597,Dubai,2024-11-08,New,Email
+C002598,Customer 2598,Abu Dhabi,2022-10-01,New,Referral
+C002599,Customer 2599,Al Ain,2025-12-27,Regular,Email
+C002600,Customer 2600,Al Ain,2023-04-10,New,Referral
+C002601,Customer 2601,Abu Dhabi,2023-05-27,New,Social Media
+C002602,Customer 2602,Sharjah,2024-11-27,New,Paid Search
+C002603,Customer 2603,Abu Dhabi,2022-01-18,Regular,Paid Search
+C002604,Customer 2604,Ajman,2022-10-24,Regular,Email
+C002605,Customer 2605,Dubai,2022-07-03,New,Referral
+C002606,Customer 2606,Dubai,2023-07-25,New,Paid Search
+C002607,Customer 2607,Sharjah,2024-03-19,Premium,Paid Search
+C002608,Customer 2608,Dubai,2022-09-20,Regular,Paid Search
+C002609,Customer 2609,Sharjah,2023-05-18,Regular,Paid Search
+C002610,Customer 2610,Abu Dhabi,2025-02-01,Regular,Referral
+C002611,Customer 2611,Fujairah,2025-10-04,Regular,Organic
+C002612,Customer 2612,Ajman,2022-01-21,Premium,Paid Search
+C002613,Customer 2613,Abu Dhabi,2024-07-05,Regular,Email
+C002614,Customer 2614,Ajman,2022-02-07,Regular,Social Media
+C002615,Customer 2615,Dubai,2024-01-30,New,Paid Search
+C002616,Customer 2616,Abu Dhabi,2025-07-08,Regular,Paid Search
+C002617,Customer 2617,Dubai,2025-03-11,Regular,Organic
+C002618,Customer 2618,Ras Al Khaimah,2022-12-06,New,Organic
+C002619,Customer 2619,Ras Al Khaimah,2023-01-13,Premium,Organic
+C002620,Customer 2620,Fujairah,2025-02-17,Premium,Organic
+C002621,Customer 2621,Ras Al Khaimah,2025-04-11,New,Organic
+C002622,Customer 2622,Al Ain,2023-02-15,Premium,Paid Search
+C002623,Customer 2623,Dubai,2022-01-05,New,Organic
+C002624,Customer 2624,Al Ain,2023-10-11,Regular,Email
+C002625,Customer 2625,Sharjah,2024-06-23,Premium,Organic
+C002626,Customer 2626,Abu Dhabi,2023-10-10,New,Paid Search
+C002627,Customer 2627,Sharjah,2025-09-26,Regular,Referral
+C002628,Customer 2628,Abu Dhabi,2025-04-02,Regular,Organic
+C002629,Customer 2629,Dubai,2025-02-24,New,Paid Search
+C002630,Customer 2630,Dubai,2022-01-30,Regular,Referral
+C002631,Customer 2631,Dubai,2025-05-31,New,Social Media
+C002632,Customer 2632,Abu Dhabi,2025-01-07,Regular,Organic
+C002633,Customer 2633,Fujairah,2023-08-03,New,Referral
+C002634,Customer 2634,Sharjah,2024-05-10,New,Social Media
+C002635,Customer 2635,Abu Dhabi,2025-04-18,Regular,Paid Search
+C002636,Customer 2636,Abu Dhabi,2025-08-16,New,Organic
+C002637,Customer 2637,Abu Dhabi,2024-03-15,Regular,Organic
+C002638,Customer 2638,Dubai,2022-03-02,Regular,Referral
+C002639,Customer 2639,Ras Al Khaimah,2024-06-22,Regular,Paid Search
+C002640,Customer 2640,Dubai,2024-09-19,New,Organic
+C002641,Customer 2641,Sharjah,2022-03-28,Premium,Paid Search
+C002642,Customer 2642,Ajman,2025-04-08,Regular,Email
+C002643,Customer 2643,Sharjah,2022-10-22,New,Organic
+C002644,Customer 2644,Ras Al Khaimah,2025-07-24,Regular,Organic
+C002645,Customer 2645,Dubai,2024-03-15,Regular,Paid Search
+C002646,Customer 2646,Fujairah,2023-04-16,Regular,Social Media
+C002647,Customer 2647,Ajman,2022-03-27,Regular,Paid Search
+C002648,Customer 2648,Ajman,2022-01-27,Regular,Email
+C002649,Customer 2649,Sharjah,2024-12-18,Premium,Organic
+C002650,Customer 2650,Ras Al Khaimah,2023-07-05,Regular,Paid Search
+C002651,Customer 2651,Al Ain,2025-05-11,Regular,Paid Search
+C002652,Customer 2652,Abu Dhabi,2022-12-03,Regular,Paid Search
+C002653,Customer 2653,Ajman,2025-09-05,Premium,Paid Search
+C002654,Customer 2654,Ajman,2025-10-06,Premium,Referral
+C002655,Customer 2655,Abu Dhabi,2022-05-29,New,Paid Search
+C002656,Customer 2656,Al Ain,2024-08-02,New,Referral
+C002657,Customer 2657,Abu Dhabi,2025-10-03,Regular,Organic
+C002658,Customer 2658,Sharjah,2023-04-17,Regular,Social Media
+C002659,Customer 2659,Dubai,2022-04-09,Regular,Paid Search
+C002660,Customer 2660,Dubai,2025-07-02,Regular,Social Media
+C002661,Customer 2661,Ras Al Khaimah,2023-11-24,Premium,Organic
+C002662,Customer 2662,Abu Dhabi,2022-02-09,Regular,Email
+C002663,Customer 2663,Abu Dhabi,2025-05-11,Regular,Email
+C002664,Customer 2664,Dubai,2024-09-18,New,Referral
+C002665,Customer 2665,Abu Dhabi,2022-04-13,Regular,Email
+C002666,Customer 2666,Ajman,2023-01-13,New,Organic
+C002667,Customer 2667,Fujairah,2022-01-27,Regular,Paid Search
+C002668,Customer 2668,Dubai,2025-10-26,Regular,Paid Search
+C002669,Customer 2669,Sharjah,2025-03-07,Regular,Email
+C002670,Customer 2670,Abu Dhabi,2024-01-17,Regular,Organic
+C002671,Customer 2671,Sharjah,2024-04-30,New,Organic
+C002672,Customer 2672,Abu Dhabi,2025-03-30,New,Social Media
+C002673,Customer 2673,Abu Dhabi,2025-07-30,New,Organic
+C002674,Customer 2674,Abu Dhabi,2022-07-06,Premium,Referral
+C002675,Customer 2675,Sharjah,2022-01-27,Premium,Organic
+C002676,Customer 2676,Abu Dhabi,2022-07-01,New,Social Media
+C002677,Customer 2677,Abu Dhabi,2024-09-23,New,Referral
+C002678,Customer 2678,Ajman,2024-04-10,Regular,Social Media
+C002679,Customer 2679,Ajman,2022-05-03,Regular,Organic
+C002680,Customer 2680,Abu Dhabi,2022-12-09,New,Organic
+C002681,Customer 2681,Ajman,2024-02-24,New,Organic
+C002682,Customer 2682,Ras Al Khaimah,2024-12-02,Regular,Organic
+C002683,Customer 2683,Dubai,2023-05-17,New,Social Media
+C002684,Customer 2684,Sharjah,2025-10-18,New,Paid Search
+C002685,Customer 2685,Dubai,2025-12-19,New,Organic
+C002686,Customer 2686,Ajman,2025-01-23,Regular,Organic
+C002687,Customer 2687,Dubai,2023-10-26,Regular,Email
+C002688,Customer 2688,Sharjah,2025-07-04,New,Organic
+C002689,Customer 2689,Dubai,2024-11-28,Regular,Paid Search
+C002690,Customer 2690,Abu Dhabi,2024-01-29,Regular,Paid Search
+C002691,Customer 2691,Al Ain,2023-10-10,Regular,Organic
+C002692,Customer 2692,Abu Dhabi,2025-04-30,Premium,Email
+C002693,Customer 2693,Ras Al Khaimah,2024-03-24,New,Organic
+C002694,Customer 2694,Al Ain,2022-09-25,Premium,Social Media
+C002695,Customer 2695,Ras Al Khaimah,2025-12-30,Regular,Social Media
+C002696,Customer 2696,Dubai,2022-04-10,Regular,Referral
+C002697,Customer 2697,Ajman,2024-10-11,New,Social Media
+C002698,Customer 2698,Dubai,2024-08-15,New,Referral
+C002699,Customer 2699,Abu Dhabi,2024-05-05,New,Paid Search
+C002700,Customer 2700,Ras Al Khaimah,2022-03-17,Premium,Paid Search
+C002701,Customer 2701,Sharjah,2023-12-21,Regular,Social Media
+C002702,Customer 2702,Abu Dhabi,2025-07-27,Regular,Social Media
+C002703,Customer 2703,Abu Dhabi,2022-12-16,Regular,Paid Search
+C002704,Customer 2704,Ajman,2024-10-06,New,Organic
+C002705,Customer 2705,Sharjah,2025-06-07,New,Organic
+C002706,Customer 2706,Abu Dhabi,2025-10-22,Regular,Paid Search
+C002707,Customer 2707,Fujairah,2024-01-24,Regular,Organic
+C002708,Customer 2708,Dubai,2023-04-04,Regular,Paid Search
+C002709,Customer 2709,Dubai,2024-10-18,Regular,Organic
+C002710,Customer 2710,Sharjah,2023-12-11,Regular,Social Media
+C002711,Customer 2711,Al Ain,2024-07-04,Regular,Social Media
+C002712,Customer 2712,Dubai,2024-12-18,New,Social Media
+C002713,Customer 2713,Dubai,2024-11-03,Regular,Social Media
+C002714,Customer 2714,Dubai,2022-12-21,Regular,Organic
+C002715,Customer 2715,Ras Al Khaimah,2025-01-08,New,Organic
+C002716,Customer 2716,Dubai,2024-03-02,New,Social Media
+C002717,Customer 2717,Abu Dhabi,2025-09-20,New,Referral
+C002718,Customer 2718,Al Ain,2024-08-20,New,Social Media
+C002719,Customer 2719,Dubai,2025-07-26,Regular,Social Media
+C002720,Customer 2720,Sharjah,2025-11-30,New,Social Media
+C002721,Customer 2721,Abu Dhabi,2025-12-22,Regular,Referral
+C002722,Customer 2722,Ajman,2024-12-23,New,Social Media
+C002723,Customer 2723,Abu Dhabi,2024-05-22,New,Referral
+C002724,Customer 2724,Abu Dhabi,2022-06-22,New,Organic
+C002725,Customer 2725,Dubai,2023-07-18,New,Organic
+C002726,Customer 2726,Ajman,2023-11-25,Premium,Paid Search
+C002727,Customer 2727,Ajman,2025-02-13,New,Paid Search
+C002728,Customer 2728,Dubai,2024-05-09,New,Referral
+C002729,Customer 2729,Abu Dhabi,2023-10-04,New,Paid Search
+C002730,Customer 2730,Fujairah,2022-08-03,New,Organic
+C002731,Customer 2731,Dubai,2024-11-11,Regular,Referral
+C002732,Customer 2732,Dubai,2023-09-23,Regular,Organic
+C002733,Customer 2733,Sharjah,2022-02-22,New,Referral
+C002734,Customer 2734,Dubai,2023-02-19,Regular,Organic
+C002735,Customer 2735,Dubai,2025-07-08,Regular,Paid Search
+C002736,Customer 2736,Abu Dhabi,2022-06-23,Regular,Paid Search
+C002737,Customer 2737,Dubai,2023-08-16,Regular,Paid Search
+C002738,Customer 2738,Abu Dhabi,2024-01-18,New,Organic
+C002739,Customer 2739,Sharjah,2022-05-03,Regular,Organic
+C002740,Customer 2740,Sharjah,2022-08-30,Regular,Paid Search
+C002741,Customer 2741,Dubai,2025-10-04,Regular,Paid Search
+C002742,Customer 2742,Ras Al Khaimah,2024-05-12,Premium,Referral
+C002743,Customer 2743,Dubai,2022-11-04,Premium,Organic
+C002744,Customer 2744,Ajman,2022-09-05,New,Paid Search
+C002745,Customer 2745,Abu Dhabi,2023-09-14,Regular,Organic
+C002746,Customer 2746,Ajman,2024-11-22,Regular,Email
+C002747,Customer 2747,Dubai,2024-12-02,Regular,Referral
+C002748,Customer 2748,Dubai,2022-10-13,Regular,Email
+C002749,Customer 2749,Abu Dhabi,2024-11-25,Premium,Email
+C002750,Customer 2750,Dubai,2025-08-01,Regular,Paid Search
+C002751,Customer 2751,Dubai,2022-11-27,Regular,Social Media
+C002752,Customer 2752,Ajman,2022-02-08,New,Paid Search
+C002753,Customer 2753,Ras Al Khaimah,2025-10-31,Regular,Email
+C002754,Customer 2754,Dubai,2024-02-02,Premium,Paid Search
+C002755,Customer 2755,Fujairah,2025-02-07,Regular,Paid Search
+C002756,Customer 2756,Ajman,2023-04-13,New,Email
+C002757,Customer 2757,Ras Al Khaimah,2023-03-13,Premium,Referral
+C002758,Customer 2758,Sharjah,2022-11-25,Regular,Email
+C002759,Customer 2759,Sharjah,2022-11-13,Regular,Organic
+C002760,Customer 2760,Abu Dhabi,2023-11-20,New,Organic
+C002761,Customer 2761,Sharjah,2022-06-04,Regular,Paid Search
+C002762,Customer 2762,Fujairah,2025-05-14,New,Paid Search
+C002763,Customer 2763,Dubai,2024-01-17,New,Paid Search
+C002764,Customer 2764,Dubai,2025-08-29,Regular,Paid Search
+C002765,Customer 2765,Dubai,2024-01-04,Premium,Referral
+C002766,Customer 2766,Al Ain,2023-03-19,New,Organic
+C002767,Customer 2767,Abu Dhabi,2024-01-22,Premium,Social Media
+C002768,Customer 2768,Sharjah,2022-08-14,Premium,Referral
+C002769,Customer 2769,Ras Al Khaimah,2025-04-18,New,Social Media
+C002770,Customer 2770,Al Ain,2024-11-17,New,Paid Search
+C002771,Customer 2771,Dubai,2022-08-03,Regular,Organic
+C002772,Customer 2772,Ajman,2024-04-29,Regular,Organic
+C002773,Customer 2773,Fujairah,2024-02-25,Regular,Referral
+C002774,Customer 2774,Dubai,2022-10-21,Regular,Paid Search
+C002775,Customer 2775,Ajman,2022-06-28,Regular,Organic
+C002776,Customer 2776,Abu Dhabi,2025-01-15,Regular,Email
+C002777,Customer 2777,Sharjah,2023-01-21,Regular,Social Media
+C002778,Customer 2778,Abu Dhabi,2024-01-28,New,Referral
+C002779,Customer 2779,Dubai,2022-12-28,New,Paid Search
+C002780,Customer 2780,Dubai,2024-08-11,New,Email
+C002781,Customer 2781,Dubai,2022-03-13,Premium,Organic
+C002782,Customer 2782,Dubai,2023-06-09,Premium,Organic
+C002783,Customer 2783,Sharjah,2024-03-09,Regular,Email
+C002784,Customer 2784,Abu Dhabi,2023-10-04,New,Email
+C002785,Customer 2785,Dubai,2024-06-13,Regular,Paid Search
+C002786,Customer 2786,Sharjah,2022-09-21,New,Organic
+C002787,Customer 2787,Sharjah,2023-10-08,New,Paid Search
+C002788,Customer 2788,Abu Dhabi,2025-01-09,New,Referral
+C002789,Customer 2789,Al Ain,2023-05-03,Regular,Referral
+C002790,Customer 2790,Abu Dhabi,2022-08-18,New,Paid Search
+C002791,Customer 2791,Ras Al Khaimah,2025-05-22,Regular,Organic
+C002792,Customer 2792,Dubai,2025-02-10,Premium,Social Media
+C002793,Customer 2793,Ajman,2024-09-20,Regular,Referral
+C002794,Customer 2794,Al Ain,2025-03-11,New,Paid Search
+C002795,Customer 2795,Ras Al Khaimah,2025-02-11,Premium,Social Media
+C002796,Customer 2796,Sharjah,2024-12-26,Regular,Email
+C002797,Customer 2797,Sharjah,2024-01-14,Regular,Organic
+C002798,Customer 2798,Abu Dhabi,2022-01-29,Regular,Social Media
+C002799,Customer 2799,Sharjah,2024-05-21,Premium,Social Media
+C002800,Customer 2800,Ajman,2023-02-03,Regular,Social Media
+C002801,Customer 2801,Al Ain,2025-02-03,Regular,Referral
+C002802,Customer 2802,Abu Dhabi,2023-11-15,Regular,Social Media
+C002803,Customer 2803,Dubai,2025-08-14,New,Paid Search
+C002804,Customer 2804,Sharjah,2024-05-19,Regular,Organic
+C002805,Customer 2805,Dubai,2024-03-14,New,Social Media
+C002806,Customer 2806,Dubai,2025-09-04,Regular,Organic
+C002807,Customer 2807,Dubai,2023-11-25,Regular,Organic
+C002808,Customer 2808,Ajman,2023-07-03,New,Paid Search
+C002809,Customer 2809,Dubai,2023-06-27,Regular,Social Media
+C002810,Customer 2810,Dubai,2025-07-01,Regular,Email
+C002811,Customer 2811,Dubai,2025-01-09,New,Social Media
+C002812,Customer 2812,Ras Al Khaimah,2022-08-27,New,Referral
+C002813,Customer 2813,Sharjah,2023-12-21,Premium,Paid Search
+C002814,Customer 2814,Dubai,2023-06-27,Premium,Paid Search
+C002815,Customer 2815,Dubai,2024-08-02,Regular,Email
+C002816,Customer 2816,Sharjah,2022-03-18,New,Paid Search
+C002817,Customer 2817,Dubai,2024-11-08,New,Referral
+C002818,Customer 2818,Sharjah,2024-12-20,New,Paid Search
+C002819,Customer 2819,Abu Dhabi,2022-11-27,Regular,Organic
+C002820,Customer 2820,Al Ain,2022-08-08,Premium,Social Media
+C002821,Customer 2821,Dubai,2024-07-05,Regular,Organic
+C002822,Customer 2822,Sharjah,2023-01-11,New,Organic
+C002823,Customer 2823,Dubai,2025-10-06,Premium,Organic
+C002824,Customer 2824,Al Ain,2025-02-05,Regular,Organic
+C002825,Customer 2825,Al Ain,2025-10-26,New,Paid Search
+C002826,Customer 2826,Ajman,2024-02-20,Regular,Email
+C002827,Customer 2827,Abu Dhabi,2025-10-02,New,Paid Search
+C002828,Customer 2828,Dubai,2022-01-21,Premium,Referral
+C002829,Customer 2829,Ajman,2023-02-28,New,Social Media
+C002830,Customer 2830,Ajman,2022-01-04,Regular,Organic
+C002831,Customer 2831,Dubai,2024-09-16,Regular,Organic
+C002832,Customer 2832,Abu Dhabi,2024-01-16,Premium,Email
+C002833,Customer 2833,Abu Dhabi,2023-02-24,Regular,Social Media
+C002834,Customer 2834,Ras Al Khaimah,2023-03-22,Regular,Email
+C002835,Customer 2835,Sharjah,2024-07-28,New,Paid Search
+C002836,Customer 2836,Sharjah,2022-09-21,Premium,Social Media
+C002837,Customer 2837,Sharjah,2024-01-22,Regular,Referral
+C002838,Customer 2838,Dubai,2024-06-14,New,Email
+C002839,Customer 2839,Abu Dhabi,2022-12-17,Premium,Organic
+C002840,Customer 2840,Dubai,2022-11-30,New,Email
+C002841,Customer 2841,Ajman,2023-06-02,New,Paid Search
+C002842,Customer 2842,Abu Dhabi,2024-05-14,Regular,Referral
+C002843,Customer 2843,Abu Dhabi,2023-01-07,New,Social Media
+C002844,Customer 2844,Dubai,2023-07-08,Regular,Social Media
+C002845,Customer 2845,Dubai,2024-03-04,New,Paid Search
+C002846,Customer 2846,Sharjah,2022-09-30,New,Referral
+C002847,Customer 2847,Dubai,2024-04-10,New,Organic
+C002848,Customer 2848,Dubai,2022-07-21,New,Paid Search
+C002849,Customer 2849,Ajman,2022-07-28,Premium,Social Media
+C002850,Customer 2850,Abu Dhabi,2022-12-12,Regular,Referral
+C002851,Customer 2851,Abu Dhabi,2023-02-23,Regular,Paid Search
+C002852,Customer 2852,Abu Dhabi,2022-02-13,Regular,Social Media
+C002853,Customer 2853,Ajman,2025-11-04,Regular,Paid Search
+C002854,Customer 2854,Dubai,2023-03-26,New,Social Media
+C002855,Customer 2855,Ajman,2025-03-20,New,Social Media
+C002856,Customer 2856,Al Ain,2025-08-09,Regular,Social Media
+C002857,Customer 2857,Sharjah,2025-03-14,Regular,Referral
+C002858,Customer 2858,Abu Dhabi,2025-04-28,Regular,Social Media
+C002859,Customer 2859,Ajman,2022-05-27,Premium,Organic
+C002860,Customer 2860,Abu Dhabi,2023-06-28,Regular,Social Media
+C002861,Customer 2861,Abu Dhabi,2024-12-25,New,Organic
+C002862,Customer 2862,Abu Dhabi,2024-04-20,New,Organic
+C002863,Customer 2863,Dubai,2022-01-09,New,Referral
+C002864,Customer 2864,Dubai,2024-04-08,Regular,Paid Search
+C002865,Customer 2865,Abu Dhabi,2025-03-20,Premium,Paid Search
+C002866,Customer 2866,Dubai,2025-04-24,Premium,Email
+C002867,Customer 2867,Abu Dhabi,2023-07-15,New,Organic
+C002868,Customer 2868,Sharjah,2022-12-11,Regular,Organic
+C002869,Customer 2869,Al Ain,2023-03-28,Regular,Organic
+C002870,Customer 2870,Dubai,2023-03-09,Regular,Organic
+C002871,Customer 2871,Sharjah,2023-05-22,Regular,Social Media
+C002872,Customer 2872,Abu Dhabi,2023-03-17,New,Referral
+C002873,Customer 2873,Dubai,2023-10-30,New,Social Media
+C002874,Customer 2874,Dubai,2022-03-01,Premium,Organic
+C002875,Customer 2875,Dubai,2023-02-06,Regular,Paid Search
+C002876,Customer 2876,Dubai,2023-04-05,New,Organic
+C002877,Customer 2877,Dubai,2022-08-12,New,Social Media
+C002878,Customer 2878,Abu Dhabi,2025-07-05,New,Social Media
+C002879,Customer 2879,Abu Dhabi,2024-09-13,Premium,Organic
+C002880,Customer 2880,Dubai,2025-08-24,New,Referral
+C002881,Customer 2881,Dubai,2024-03-30,New,Referral
+C002882,Customer 2882,Dubai,2022-06-10,Regular,Paid Search
+C002883,Customer 2883,Sharjah,2025-08-13,Regular,Social Media
+C002884,Customer 2884,Dubai,2023-10-31,New,Social Media
+C002885,Customer 2885,Sharjah,2024-09-26,New,Organic
+C002886,Customer 2886,Dubai,2023-07-11,New,Organic
+C002887,Customer 2887,Dubai,2023-12-23,New,Social Media
+C002888,Customer 2888,Al Ain,2023-12-16,New,Email
+C002889,Customer 2889,Dubai,2023-02-20,New,Social Media
+C002890,Customer 2890,Dubai,2024-03-20,Regular,Social Media
+C002891,Customer 2891,Dubai,2024-12-07,Premium,Social Media
+C002892,Customer 2892,Al Ain,2022-01-30,Premium,Paid Search
+C002893,Customer 2893,Sharjah,2022-07-11,Regular,Organic
+C002894,Customer 2894,Sharjah,2025-05-14,New,Paid Search
+C002895,Customer 2895,Al Ain,2024-04-11,Premium,Email
+C002896,Customer 2896,Dubai,2025-11-22,Regular,Referral
+C002897,Customer 2897,Al Ain,2024-06-01,Regular,Email
+C002898,Customer 2898,Dubai,2024-08-11,New,Organic
+C002899,Customer 2899,Sharjah,2025-08-05,New,Paid Search
+C002900,Customer 2900,Abu Dhabi,2024-08-22,Regular,Social Media
+C002901,Customer 2901,Abu Dhabi,2023-04-27,Regular,Organic
+C002902,Customer 2902,Al Ain,2024-02-10,New,Organic
+C002903,Customer 2903,Dubai,2022-12-10,Premium,Referral
+C002904,Customer 2904,Al Ain,2023-05-04,Regular,Social Media
+C002905,Customer 2905,Abu Dhabi,2024-09-20,Regular,Social Media
+C002906,Customer 2906,Sharjah,2022-08-06,New,Organic
+C002907,Customer 2907,Al Ain,2024-09-08,Regular,Paid Search
+C002908,Customer 2908,Dubai,2024-05-02,Regular,Organic
+C002909,Customer 2909,Al Ain,2023-03-27,New,Organic
+C002910,Customer 2910,Sharjah,2022-03-07,Regular,Paid Search
+C002911,Customer 2911,Sharjah,2024-10-25,Regular,Paid Search
+C002912,Customer 2912,Dubai,2025-04-18,Regular,Email
+C002913,Customer 2913,Abu Dhabi,2024-12-01,New,Paid Search
+C002914,Customer 2914,Sharjah,2023-09-07,Premium,Organic
+C002915,Customer 2915,Abu Dhabi,2024-08-12,Regular,Organic
+C002916,Customer 2916,Dubai,2023-08-29,New,Social Media
+C002917,Customer 2917,Dubai,2023-06-08,New,Organic
+C002918,Customer 2918,Ras Al Khaimah,2023-04-23,New,Organic
+C002919,Customer 2919,Dubai,2022-11-04,New,Paid Search
+C002920,Customer 2920,Sharjah,2025-11-16,Regular,Organic
+C002921,Customer 2921,Al Ain,2024-08-30,Regular,Social Media
+C002922,Customer 2922,Dubai,2022-09-13,New,Paid Search
+C002923,Customer 2923,Dubai,2025-06-16,Premium,Organic
+C002924,Customer 2924,Sharjah,2022-08-09,New,Referral
+C002925,Customer 2925,Dubai,2024-05-16,Regular,Paid Search
+C002926,Customer 2926,Sharjah,2022-08-30,Premium,Social Media
+C002927,Customer 2927,Sharjah,2023-06-12,Regular,Organic
+C002928,Customer 2928,Sharjah,2024-08-19,Regular,Social Media
+C002929,Customer 2929,Abu Dhabi,2025-12-29,Regular,Paid Search
+C002930,Customer 2930,Sharjah,2025-12-19,New,Paid Search
+C002931,Customer 2931,Sharjah,2025-07-31,New,Paid Search
+C002932,Customer 2932,Dubai,2022-12-10,Regular,Email
+C002933,Customer 2933,Sharjah,2022-05-17,New,Organic
+C002934,Customer 2934,Fujairah,2025-08-15,New,Email
+C002935,Customer 2935,Sharjah,2025-09-09,New,Email
+C002936,Customer 2936,Abu Dhabi,2023-02-11,Premium,Paid Search
+C002937,Customer 2937,Dubai,2022-01-28,Premium,Paid Search
+C002938,Customer 2938,Dubai,2024-08-03,Regular,Paid Search
+C002939,Customer 2939,Dubai,2022-04-22,Regular,Email
+C002940,Customer 2940,Dubai,2022-03-01,New,Social Media
+C002941,Customer 2941,Al Ain,2025-09-30,New,Social Media
+C002942,Customer 2942,Dubai,2023-12-25,Regular,Organic
+C002943,Customer 2943,Ajman,2022-06-13,Regular,Referral
+C002944,Customer 2944,Dubai,2024-08-13,New,Organic
+C002945,Customer 2945,Dubai,2023-06-24,Regular,Organic
+C002946,Customer 2946,Abu Dhabi,2024-02-23,Regular,Organic
+C002947,Customer 2947,Dubai,2025-08-05,New,Paid Search
+C002948,Customer 2948,Ajman,2022-12-14,New,Email
+C002949,Customer 2949,Al Ain,2024-08-01,Regular,Referral
+C002950,Customer 2950,Ras Al Khaimah,2025-04-24,Regular,Organic
+C002951,Customer 2951,Dubai,2023-09-11,Premium,Paid Search
+C002952,Customer 2952,Ajman,2025-11-17,Regular,Referral
+C002953,Customer 2953,Dubai,2023-10-17,Regular,Paid Search
+C002954,Customer 2954,Fujairah,2023-11-02,Regular,Organic
+C002955,Customer 2955,Abu Dhabi,2025-07-14,New,Paid Search
+C002956,Customer 2956,Dubai,2024-07-17,Regular,Social Media
+C002957,Customer 2957,Dubai,2025-06-22,Regular,Email
+C002958,Customer 2958,Dubai,2025-02-28,Regular,Social Media
+C002959,Customer 2959,Dubai,2024-11-06,New,Organic
+C002960,Customer 2960,Fujairah,2022-12-19,Premium,Social Media
+C002961,Customer 2961,Ajman,2023-08-06,Premium,Organic
+C002962,Customer 2962,Al Ain,2025-06-16,New,Referral
+C002963,Customer 2963,Dubai,2024-06-18,New,Paid Search
+C002964,Customer 2964,Sharjah,2023-02-14,New,Organic
+C002965,Customer 2965,Dubai,2023-04-23,Regular,Paid Search
+C002966,Customer 2966,Sharjah,2025-02-06,Regular,Organic
+C002967,Customer 2967,Dubai,2022-09-18,New,Organic
+C002968,Customer 2968,Dubai,2022-06-13,Regular,Social Media
+C002969,Customer 2969,Sharjah,2025-01-22,New,Referral
+C002970,Customer 2970,Dubai,2023-02-26,Regular,Referral
+C002971,Customer 2971,Abu Dhabi,2025-01-22,Regular,Paid Search
+C002972,Customer 2972,Sharjah,2024-02-19,Regular,Organic
+C002973,Customer 2973,Dubai,2025-12-27,Regular,Paid Search
+C002974,Customer 2974,Al Ain,2024-02-06,New,Paid Search
+C002975,Customer 2975,Abu Dhabi,2025-06-20,Regular,Organic
+C002976,Customer 2976,Ajman,2025-05-26,Premium,Email
+C002977,Customer 2977,Sharjah,2022-11-06,Regular,Email
+C002978,Customer 2978,Sharjah,2025-12-25,Premium,Organic
+C002979,Customer 2979,Sharjah,2024-12-24,Regular,Referral
+C002980,Customer 2980,Ras Al Khaimah,2022-06-06,Regular,Social Media
+C002981,Customer 2981,Sharjah,2022-01-09,New,Organic
+C002982,Customer 2982,Dubai,2023-02-01,Regular,Social Media
+C002983,Customer 2983,Dubai,2022-01-24,New,Organic
+C002984,Customer 2984,Sharjah,2023-06-07,New,Organic
+C002985,Customer 2985,Dubai,2025-12-25,New,Email
+C002986,Customer 2986,Dubai,2023-12-01,New,Social Media
+C002987,Customer 2987,Dubai,2022-02-04,Premium,Organic
+C002988,Customer 2988,Sharjah,2023-12-23,Premium,Paid Search
+C002989,Customer 2989,Dubai,2022-11-16,Regular,Email
+C002990,Customer 2990,Sharjah,2025-06-04,New,Paid Search
+C002991,Customer 2991,Ajman,2022-05-13,Premium,Email
+C002992,Customer 2992,Ras Al Khaimah,2025-01-30,Regular,Referral
+C002993,Customer 2993,Dubai,2023-10-14,New,Paid Search
+C002994,Customer 2994,Sharjah,2022-01-28,Regular,Social Media
+C002995,Customer 2995,Sharjah,2024-09-09,Regular,Social Media
+C002996,Customer 2996,Abu Dhabi,2023-10-27,New,Referral
+C002997,Customer 2997,Sharjah,2025-01-31,Regular,Paid Search
+C002998,Customer 2998,Dubai,2024-06-21,Regular,Organic
+C002999,Customer 2999,Al Ain,2025-02-23,New,Organic
+C003000,Customer 3000,Dubai,2023-11-04,Regular,Social Media
